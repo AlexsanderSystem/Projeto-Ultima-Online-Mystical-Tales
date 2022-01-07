@@ -1,0 +1,18 @@
+TITLE=SphereServer World Script
+VERSION=110
+PREVBUILD=3473
+TIMEHIRES=28571224
+SAVECOUNT=14
+
+[TIMERF]
+
+[GLOBALS]
+ev_max_on_players=1
+manutencao=0
+
+[WORLDSCRIPT a_porto_vila]
+EVENTS=r_default_water,r_default_tree,r_default_grass,r_mina_ini,r_snd_city,r_town
+TAG.modtemp=20
+TAG.permissions=255
+
+[EOF]

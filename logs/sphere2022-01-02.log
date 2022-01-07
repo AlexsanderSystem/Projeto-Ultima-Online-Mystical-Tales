@@ -1,0 +1,1904 @@
+17:55:SphereServer Version X1-Nightly [Windows-64] by www.spherecommunity.net.
+17:55:Compiled at Oct 19 2021 (10:31:45) [build 3473 / GIT hash f24687c5330f8fbf7b7ae9f626447fc91e280d77]
+
+17:55:WARNING:
+-----------------------------------------------------------------
+This is a nightly build of SphereServer. This build is to be used for testing and/or bug reporting ONLY.
+DO NOT run this build on a live shard unless you know what you are doing!
+Nightly builds are automatically made at every commit to the source code repository and might
+contain errors, might be unstable or even destroy your shard as they are mostly untested!
+-----------------------------------------------------------------
+
+17:55:
+Indexing the client files...
+17:55:FATAL:File 'multi.idx' not found...
+17:55:FATAL:Server terminated: Failed to load server settings (code -3)
+17:55:SphereServer Version X1-Nightly [Windows-64] by www.spherecommunity.net.
+17:55:Compiled at Oct 19 2021 (10:31:45) [build 3473 / GIT hash f24687c5330f8fbf7b7ae9f626447fc91e280d77]
+
+17:55:WARNING:
+-----------------------------------------------------------------
+This is a nightly build of SphereServer. This build is to be used for testing and/or bug reporting ONLY.
+DO NOT run this build on a live shard unless you know what you are doing!
+Nightly builds are automatically made at every commit to the source code repository and might
+contain errors, might be unstable or even destroy your shard as they are mostly untested!
+-----------------------------------------------------------------
+
+17:55:
+Indexing the client files...
+17:55:Expansion maps supported: Felucca (0), Trammel (1), Ilshenar (2), Malas (3), Tokuno Islands (4)
+17:55:Caching tiledata.mul...
+
+17:55:Initializing the world...
+17:55:Allocated map sectors: map0=7168 map1=7168 map2=900 map3=1280 map4=529
+
+17:55:Indexing 297 script files...
+17:55:Loading scripts/sphere_admin.scp
+17:55:Loading scripts/sphere_backward_compatibility.scp
+17:55:Loading scripts/sphere_book.scp
+17:55:Loading scripts/sphere_defs.scp
+17:55:Loading scripts/sphere_dialog.scp
+17:55:Loading scripts/sphere_events_human.scp
+17:55:Loading scripts/sphere_events_npcs.scp
+17:55:Loading scripts/sphere_menu.scp
+17:55:Loading scripts/sphere_name.scp
+17:55:Loading scripts/sphere_serv_triggers.scp
+17:55:Loading scripts/sphere_skills.scp
+17:55:Loading scripts/sphere_skillmenu.scp
+17:55:Loading scripts/sphere_newb.scp
+17:55:Loading scripts/sphere_speech.scp
+17:55:Loading scripts/sphere_types.scp
+17:55:Loading scripts/items/sphere_item_animations.scp
+17:55:Loading scripts/items/sphere_item_artifacts.scp
+17:55:Loading scripts/items/sphere_item_artifacts_minor.scp
+17:55:Loading scripts/items/sphere_item_artifacts_tokuno.scp
+17:55:Loading scripts/items/sphere_item_boulders_rocks.scp
+17:55:Loading scripts/items/sphere_item_buildings.scp
+17:55:Loading scripts/items/sphere_item_building_doors.scp
+17:55:Loading scripts/items/sphere_item_building_floors.scp
+17:55:Loading scripts/items/sphere_item_building_other.scp
+17:55:Loading scripts/items/sphere_item_building_roofs.scp
+17:55:Loading scripts/items/sphere_item_building_stairs.scp
+17:55:Loading scripts/items/sphere_item_building_walls.scp
+17:55:Loading scripts/items/sphere_item_char_icons.scp
+17:55:Loading scripts/items/sphere_item_deco_carpet_rugs.scp
+17:55:Loading scripts/items/sphere_item_deco_carvings_statues.scp
+17:55:Loading scripts/items/sphere_item_deco_dungeons_traps_dead.scp
+17:55:Loading scripts/items/sphere_item_deco_fireplace_chimney_oven.scp
+17:55:Loading scripts/items/sphere_item_deco_furniture.scp
+17:55:Loading scripts/items/sphere_item_deco_lightsources.scp
+17:55:Loading scripts/items/sphere_item_deco_miniatures.scp
+17:55:Loading scripts/items/sphere_item_deco_signs.scp
+17:55:Loading scripts/items/sphere_item_deco_themed_collections.scp
+17:55:Loading scripts/items/sphere_item_deco_virtues.scp
+17:55:Loading scripts/items/sphere_item_deco_wall_hangings.scp
+17:55:Loading scripts/items/sphere_item_ground_tiles.scp
+17:55:Loading scripts/items/sphere_item_holiday_anniversary.scp
+17:55:Loading scripts/items/sphere_item_holiday_christmas.scp
+17:55:Loading scripts/items/sphere_item_holiday_easter.scp
+17:55:Loading scripts/items/sphere_item_holiday_halloween.scp
+17:55:Loading scripts/items/sphere_item_holiday_thanksgiving.scp
+17:55:Loading scripts/items/sphere_item_holiday_valentines.scp
+17:55:Loading scripts/items/sphere_item_magic_armor.scp
+17:55:Loading scripts/items/sphere_item_magic_chivalry.scp
+17:55:Loading scripts/items/sphere_item_magic_jewelry.scp
+17:55:Loading scripts/items/sphere_item_magic_leather.scp
+17:55:Loading scripts/items/sphere_item_magic_magery.scp
+17:55:Loading scripts/items/sphere_item_magic_mysticism.scp
+17:55:Loading scripts/items/sphere_item_magic_necromancer_aos.scp
+17:55:Loading scripts/items/sphere_item_magic_ninjitsu_bushido.scp
+17:55:Loading scripts/items/sphere_item_magic_skillmasteries.scp
+17:55:Loading scripts/items/sphere_item_magic_spellweaving.scp
+17:55:Loading scripts/items/sphere_item_magic_wands.scp
+17:55:Loading scripts/items/sphere_item_magic_weapon.scp
+17:55:Loading scripts/items/sphere_item_memories.scp
+17:55:Loading scripts/items/sphere_item_misc.scp
+17:55:Loading scripts/items/sphere_item_offset.scp
+17:55:Loading scripts/items/sphere_item_profession.scp
+17:55:Loading scripts/items/sphere_item_profession_alchemist.scp
+17:55:Loading scripts/items/sphere_item_profession_barber.scp
+17:55:Loading scripts/items/sphere_item_profession_cartographer.scp
+17:55:Loading scripts/items/sphere_item_profession_cook_barkeep_baker.scp
+17:55:Loading scripts/items/sphere_item_profession_tailor_tanner.scp
+17:55:Loading scripts/items/sphere_item_provisions_armor.scp
+17:55:Loading scripts/items/sphere_item_provisions_armor_color.scp
+17:55:Loading scripts/items/sphere_item_provisions_clothing.scp
+17:55:Loading scripts/items/sphere_item_provisions_deed.scp
+17:55:Loading scripts/items/sphere_item_provisions_jewelry.scp
+17:55:Loading scripts/items/sphere_item_provisions_logs.scp
+17:55:Loading scripts/items/sphere_item_provisions_misc.scp
+17:55:Loading scripts/items/sphere_item_provisions_ore.scp
+17:55:Loading scripts/items/sphere_item_provisions_potions.scp
+17:55:Loading scripts/items/sphere_item_provisions_shields.scp
+17:55:Loading scripts/items/sphere_item_provisions_weapons.scp
+17:55:Loading scripts/items/sphere_item_quests.scp
+17:55:Loading scripts/items/sphere_item_resources.scp
+17:55:Loading scripts/items/sphere_item_ship_parts.scp
+17:55:Loading scripts/items/sphere_item_ship_parts_britannian.scp
+17:55:Loading scripts/items/sphere_item_ship_parts_gargish.scp
+17:55:Loading scripts/items/sphere_item_ship_parts_orcish.scp
+17:55:Loading scripts/items/sphere_item_ship_parts_tokuno.scp
+17:55:Loading scripts/items/sphere_item_siege.scp
+17:55:Loading scripts/items/sphere_item_theme_pack_crystal.scp
+17:55:Loading scripts/items/sphere_item_theme_pack_gothic.scp
+17:55:Loading scripts/items/sphere_item_theme_pack_kings_collection.scp
+17:55:Loading scripts/items/sphere_item_theme_pack_rustic.scp
+17:55:Loading scripts/items/sphere_item_theme_pack_shadow.scp
+17:55:Loading scripts/items/sphere_item_typedefs.scp
+17:55:Loading scripts/items/sphere_item_typedef_equipitem.scp
+17:55:Loading scripts/items/sphere_item_unsorted.scp
+17:55:Loading scripts/items/sphere_item_vegetation.scp
+17:55:Loading scripts/items/sphere_item_veteran_rewards.scp
+17:55:Loading scripts/items/sphere_item_vice_virtue.scp
+17:55:Loading scripts/items/sphere_item_wedding.scp
+17:55:Loading scripts/items/multis/multis_foundations.scp
+17:55:Loading scripts/items/multis/multis_houses.scp
+17:55:Loading scripts/items/multis/multis_magincia_bazaar.scp
+17:55:Loading scripts/items/multis/multis_misc.scp
+17:55:Loading scripts/items/multis/multis_ships.scp
+17:55:Loading scripts/items/multis/multis_stairs.scp
+17:55:Loading scripts/items/multis/multis_wandering_camps.scp
+17:55:Loading scripts/stones/sphere_genericstone_config.scp
+17:55:Loading scripts/stones/sphere_genericstone_functions.scp
+17:55:Loading scripts/stones/sphere_genericstone_items.scp
+17:55:Loading scripts/stones/sphere_genericstone_types.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_config.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_dlg_align.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_dlg_charlist.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_dlg_charter.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_dlg_guildlist.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_dlg_main.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_dlg_master.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_dlg_warfareadmin.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_dlg_warfaredeclare.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_dlg_warfarestatus.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_events.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_functions.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_functions_player.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_items.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_promptconsole.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_speech.scp
+17:55:Loading scripts/stones/guilds/sphere_guild_types.scp
+17:55:Loading scripts/stones/towns/sphere_town_config.scp
+17:55:Loading scripts/stones/towns/sphere_town_dlg_align.scp
+17:55:Loading scripts/stones/towns/sphere_town_dlg_charlist.scp
+17:55:Loading scripts/stones/towns/sphere_town_dlg_charter.scp
+17:55:Loading scripts/stones/towns/sphere_town_dlg_main.scp
+17:55:Loading scripts/stones/towns/sphere_town_dlg_master.scp
+17:55:Loading scripts/stones/towns/sphere_town_dlg_townlist.scp
+17:55:Loading scripts/stones/towns/sphere_town_dlg_warfareadmin.scp
+17:55:Loading scripts/stones/towns/sphere_town_dlg_warfaredeclare.scp
+17:55:Loading scripts/stones/towns/sphere_town_dlg_warfarestatus.scp
+17:55:Loading scripts/stones/towns/sphere_town_events.scp
+17:55:Loading scripts/stones/towns/sphere_town_functions.scp
+17:55:Loading scripts/stones/towns/sphere_town_functions_player.scp
+17:55:Loading scripts/stones/towns/sphere_town_items.scp
+17:55:Loading scripts/stones/towns/sphere_town_promptconsole.scp
+17:55:Loading scripts/stones/towns/sphere_town_speech.scp
+17:55:Loading scripts/stones/towns/sphere_town_types.scp
+17:55:Loading scripts/npcs/spherechar_evil.scp
+17:55:Loading scripts/npcs/spherechar_human.scp
+17:55:Loading scripts/npcs/sphere_citizens.scp
+17:55:Loading scripts/npcs/sphere_guildmasters.scp
+17:55:Loading scripts/npcs/sphere_monsters.scp
+17:55:Loading scripts/npcs/sphere_monsters_custom.scp
+17:55:Loading scripts/npcs/sphere_vendors.scp
+17:55:Loading scripts/speech/speakhuman.scp
+17:55:Loading scripts/speech/speakorc.scp
+17:55:Loading scripts/speech/speakshopkeep.scp
+17:55:Loading scripts/speech/spk_house_cmds.scp
+17:55:Loading scripts/speech/spk_ship_cmds.scp
+17:55:Loading scripts/systems/sphere_system_aquarium.scp
+17:55:Loading scripts/systems/sphere_system_secret_chest.scp
+17:55:Loading scripts/systems/sphere_system_treasure_maps.scp
+17:55:Loading scripts/sphere_spawns.scp
+17:55:Loading scripts/sphere_spells.scp
+17:55:Loading scripts/sphere_region.scp
+17:55:Loading scripts/myt/administrative.scp
+17:55:Loading scripts/myt/itens.scp
+17:55:Loading scripts/myt/resources.scp
+17:55:Loading scripts/myt/sistema_de_selar_livros.scp
+17:55:Loading scripts/myt/events.scp
+17:55:Loading scripts/myt/events_npc.scp
+17:55:Loading scripts/myt/sistema_de_catalisadores.scp
+17:55:Loading scripts/myt/templates_myt.scp
+17:55:Loading scripts/myt/sistema_de_special_moves.scp
+17:55:Loading scripts/myt/itens_food.scp
+17:55:Loading scripts/sphere_template.scp
+17:55:Loading scripts/sphere_template_loot.scp
+17:55:Loading scripts/sphere_template_misc.scp
+17:55:Loading scripts/sphere_template_vend.scp
+17:55:Loading scripts/myt/spells_myt.scp
+17:55:Loading scripts/myt/craftmenu_backup.scp
+17:55:Loading scripts/myt/itemforge.scp
+17:55:Loading scripts/myt/itemforge_data.scp
+17:55:Loading scripts/myt/itemforge_data_armaduras.scp
+17:55:Loading scripts/myt/itemforge_data_armaduras_armas.scp
+17:55:Loading scripts/myt/itens_adornos_magicos.scp
+17:55:Loading scripts/myt/itens_armaduras.scp
+17:55:WARNING:(itens_armaduras.scp,179)Redefinition of resource with DEFNAME='i_peito_couro' (res type=15, index=01495d, page=0).
+17:55:WARNING:(itens_armaduras.scp,207)Redefinition of resource with DEFNAME='i_braco_couro' (res type=15, index=01495b, page=0).
+17:55:WARNING:(itens_armaduras.scp,235)Redefinition of resource with DEFNAME='i_perna_couro' (res type=15, index=014963, page=0).
+17:55:WARNING:(itens_armaduras.scp,263)Redefinition of resource with DEFNAME='i_pescoco_couro' (res type=15, index=014965, page=0).
+17:55:WARNING:(itens_armaduras.scp,291)Redefinition of resource with DEFNAME='i_cabeca_couro' (res type=15, index=01495f, page=0).
+17:55:WARNING:(itens_armaduras.scp,319)Redefinition of resource with DEFNAME='i_luva_couro' (res type=15, index=014961, page=0).
+17:55:WARNING:(itens_armaduras.scp,347)Redefinition of resource with DEFNAME='i_cabeca_furtiva' (res type=15, index=01497f, page=0).
+17:55:WARNING:(itens_armaduras.scp,376)Redefinition of resource with DEFNAME='i_luva_furtiva' (res type=15, index=014979, page=0).
+17:55:WARNING:(itens_armaduras.scp,405)Redefinition of resource with DEFNAME='i_peito_furtiva' (res type=15, index=014975, page=0).
+17:55:WARNING:(itens_armaduras.scp,434)Redefinition of resource with DEFNAME='i_perna_furtiva' (res type=15, index=01497b, page=0).
+17:55:WARNING:(itens_armaduras.scp,463)Redefinition of resource with DEFNAME='i_cinto_furtiva' (res type=15, index=014977, page=0).
+17:55:WARNING:(itens_armaduras.scp,492)Redefinition of resource with DEFNAME='i_pescoco_furtiva' (res type=15, index=01497d, page=0).
+17:55:WARNING:(itens_armaduras.scp,521)Redefinition of resource with DEFNAME='i_braco_furtiva' (res type=15, index=014973, page=0).
+17:55:WARNING:(itens_armaduras.scp,550)Redefinition of resource with DEFNAME='i_braco_samurai' (res type=15, index=01498d, page=0).
+17:55:WARNING:(itens_armaduras.scp,578)Redefinition of resource with DEFNAME='i_peito_samurai' (res type=15, index=01498f, page=0).
+17:55:WARNING:(itens_armaduras.scp,606)Redefinition of resource with DEFNAME='i_perna_samurai' (res type=15, index=014993, page=0).
+17:55:WARNING:(itens_armaduras.scp,634)Redefinition of resource with DEFNAME='i_perna_saia_samurai' (res type=15, index=014019, page=0).
+17:55:WARNING:(itens_armaduras.scp,662)Redefinition of resource with DEFNAME='i_mao_samurai' (res type=15, index=014991, page=0).
+17:55:WARNING:(itens_armaduras.scp,691)Redefinition of resource with DEFNAME='i_pescoco_samurai' (res type=15, index=014995, page=0).
+17:55:WARNING:(itens_armaduras.scp,720)Redefinition of resource with DEFNAME='i_braco_samuraim' (res type=15, index=014981, page=0).
+17:55:WARNING:(itens_armaduras.scp,748)Redefinition of resource with DEFNAME='i_peito_samuraim' (res type=15, index=014983, page=0).
+17:55:WARNING:(itens_armaduras.scp,776)Redefinition of resource with DEFNAME='i_perna_samuraim' (res type=15, index=014987, page=0).
+17:55:WARNING:(itens_armaduras.scp,804)Redefinition of resource with DEFNAME='i_perna_saia_samuraim' (res type=15, index=01498b, page=0).
+17:55:WARNING:(itens_armaduras.scp,832)Redefinition of resource with DEFNAME='i_mao_samuraim' (res type=15, index=014985, page=0).
+17:55:WARNING:(itens_armaduras.scp,861)Redefinition of resource with DEFNAME='i_pescoco_samuraim' (res type=15, index=014989, page=0).
+17:55:WARNING:(itens_armaduras.scp,896)Redefinition of resource with DEFNAME='i_cabeca_osso' (res type=15, index=0149a2, page=0).
+17:55:WARNING:(itens_armaduras.scp,923)Redefinition of resource with DEFNAME='i_braco_osso' (res type=15, index=01499e, page=0).
+17:55:WARNING:(itens_armaduras.scp,950)Redefinition of resource with DEFNAME='i_luva_osso' (res type=15, index=0149a4, page=0).
+17:55:WARNING:(itens_armaduras.scp,977)Redefinition of resource with DEFNAME='i_peito_osso' (res type=15, index=0149a0, page=0).
+17:55:WARNING:(itens_armaduras.scp,1004)Redefinition of resource with DEFNAME='i_perna_osso' (res type=15, index=0149a6, page=0).
+17:55:WARNING:(itens_armaduras.scp,1031)Redefinition of resource with DEFNAME='i_pescoco_osso' (res type=15, index=0149a8, page=0).
+17:55:WARNING:(itens_armaduras.scp,1064)Redefinition of resource with DEFNAME='i_peito_floresta' (res type=15, index=014a5d, page=0).
+17:55:WARNING:(itens_armaduras.scp,1092)Redefinition of resource with DEFNAME='i_cintura_floresta' (res type=15, index=014a5f, page=0).
+17:55:WARNING:(itens_armaduras.scp,1120)Redefinition of resource with DEFNAME='i_pescoco_floresta' (res type=15, index=014a66, page=0).
+17:55:WARNING:(itens_armaduras.scp,1148)Redefinition of resource with DEFNAME='i_mao_floresta' (res type=15, index=014a62, page=0).
+17:55:WARNING:(itens_armaduras.scp,1176)Redefinition of resource with DEFNAME='i_perna_floresta' (res type=15, index=014a64, page=0).
+17:55:WARNING:(itens_armaduras.scp,1205)Redefinition of resource with DEFNAME='i_braco_floresta' (res type=15, index=014a5a, page=0).
+17:55:WARNING:(itens_armaduras.scp,1234)Redefinition of resource with DEFNAME='i_peito_floresta_f' (res type=15, index=014a61, page=0).
+17:55:WARNING:(itens_armaduras.scp,1263)Redefinition of resource with DEFNAME='i_peito_elfo' (res type=15, index=014a50, page=0).
+17:55:WARNING:(itens_armaduras.scp,1291)Redefinition of resource with DEFNAME='i_mao_elfo' (res type=15, index=014a54, page=0).
+17:55:WARNING:(itens_armaduras.scp,1319)Redefinition of resource with DEFNAME='i_pescoco_elfo' (res type=15, index=014a58, page=0).
+17:55:WARNING:(itens_armaduras.scp,1347)Redefinition of resource with DEFNAME='i_braco_elfo' (res type=15, index=014a4e, page=0).
+17:55:WARNING:(itens_armaduras.scp,1375)Redefinition of resource with DEFNAME='i_perna_elfo' (res type=15, index=014a56, page=0).
+17:55:WARNING:(itens_armaduras.scp,1403)Redefinition of resource with DEFNAME='i_peito_elfo_f' (res type=15, index=014a52, page=0).
+17:55:WARNING:(itens_armaduras.scp,1431)Redefinition of resource with DEFNAME='i_peito_pat' (res type=15, index=014a6a, page=0).
+17:55:WARNING:(itens_armaduras.scp,1459)Redefinition of resource with DEFNAME='i_mao_pat' (res type=15, index=014a6c, page=0).
+17:55:WARNING:(itens_armaduras.scp,1487)Redefinition of resource with DEFNAME='i_pescoco_pat' (res type=15, index=014a70, page=0).
+17:55:WARNING:(itens_armaduras.scp,1515)Redefinition of resource with DEFNAME='i_braco_pat' (res type=15, index=014a68, page=0).
+17:55:WARNING:(itens_armaduras.scp,1543)Redefinition of resource with DEFNAME='i_perna_pat' (res type=15, index=014a6e, page=0).
+17:55:WARNING:(itens_armaduras.scp,1571)Redefinition of resource with DEFNAME='i_perna_saia_pat' (res type=15, index=014a72, page=0).
+17:55:WARNING:(itens_armaduras.scp,1605)Redefinition of resource with DEFNAME='i_peito_arcano' (res type=15, index=014a4c, page=0).
+17:55:WARNING:(itens_armaduras.scp,1634)Redefinition of resource with DEFNAME='i_pe_arcano' (res type=15, index=014a46, page=0).
+17:55:WARNING:(itens_armaduras.scp,1663)Redefinition of resource with DEFNAME='i_mao_arcano' (res type=15, index=014a4a, page=0).
+17:55:WARNING:(itens_armaduras.scp,1692)Redefinition of resource with DEFNAME='i_capa_arcano' (res type=15, index=014a48, page=0).
+17:55:WARNING:(itens_armaduras.scp,1727)Redefinition of resource with DEFNAME='i_perna_espinho_f' (res type=15, index=014a40, page=0).
+17:55:WARNING:(itens_armaduras.scp,1756)Redefinition of resource with DEFNAME='i_peito_amazona' (res type=15, index=014a3c, page=0).
+17:55:WARNING:(itens_armaduras.scp,1785)Redefinition of resource with DEFNAME='i_perna_couro_f' (res type=15, index=014a36, page=0).
+17:55:WARNING:(itens_armaduras.scp,1814)Redefinition of resource with DEFNAME='i_peito_courom_f' (res type=15, index=014a3e, page=0).
+17:55:WARNING:(itens_armaduras.scp,1843)Redefinition of resource with DEFNAME='i_peito_couro_f' (res type=15, index=014a42, page=0).
+17:55:WARNING:(itens_armaduras.scp,1872)Redefinition of resource with DEFNAME='i_perna_couro_saia' (res type=15, index=014a44, page=0).
+17:55:WARNING:(itens_armaduras.scp,1901)Redefinition of resource with DEFNAME='i_peito_couro_biquini' (res type=15, index=014a38, page=0).
+17:55:WARNING:(itens_armaduras.scp,1930)Redefinition of resource with DEFNAME='i_peito_courom_biquini' (res type=15, index=014a3a, page=0).
+17:55:WARNING:(itens_armaduras.scp,2339)Redefinition of resource with DEFNAME='i_cabeca_dragon_ve' (res type=15, index=0149ef, page=0).
+17:55:WARNING:(itens_armaduras.scp,2369)Redefinition of resource with DEFNAME='i_braco_dragon_ve' (res type=15, index=0149c7, page=0).
+17:55:WARNING:(itens_armaduras.scp,2399)Redefinition of resource with DEFNAME='i_luva_dragon_ve' (res type=15, index=014a03, page=0).
+17:55:WARNING:(itens_armaduras.scp,2429)Redefinition of resource with DEFNAME='i_peito_dragon_ve' (res type=15, index=0149db, page=0).
+17:55:WARNING:(itens_armaduras.scp,2459)Redefinition of resource with DEFNAME='i_perna_dragon_ve' (res type=15, index=014a17, page=0).
+17:55:WARNING:(itens_armaduras.scp,2489)Redefinition of resource with DEFNAME='i_pescoco_dragon_ve' (res type=15, index=014a2c, page=0).
+17:55:WARNING:(itens_armaduras.scp,2519)Redefinition of resource with DEFNAME='i_cabeca_dragon_red' (res type=15, index=0149f1, page=0).
+17:55:WARNING:(itens_armaduras.scp,2548)Redefinition of resource with DEFNAME='i_braco_dragon_red' (res type=15, index=0149c9, page=0).
+17:55:WARNING:(itens_armaduras.scp,2577)Redefinition of resource with DEFNAME='i_luva_dragon_red' (res type=15, index=014a05, page=0).
+17:55:WARNING:(itens_armaduras.scp,2606)Redefinition of resource with DEFNAME='i_peito_dragon_red' (res type=15, index=0149dd, page=0).
+17:55:WARNING:(itens_armaduras.scp,2635)Redefinition of resource with DEFNAME='i_perna_dragon_red' (res type=15, index=014a19, page=0).
+17:55:WARNING:(itens_armaduras.scp,2664)Redefinition of resource with DEFNAME='i_pescoco_dragon_red' (res type=15, index=014a2e, page=0).
+17:55:WARNING:(itens_armaduras.scp,2693)Redefinition of resource with DEFNAME='i_cabeca_dragon_az' (res type=15, index=0149df, page=0).
+17:55:WARNING:(itens_armaduras.scp,2722)Redefinition of resource with DEFNAME='i_braco_dragon_az' (res type=15, index=0149b7, page=0).
+17:55:WARNING:(itens_armaduras.scp,2751)Redefinition of resource with DEFNAME='i_luva_dragon_az' (res type=15, index=0149f3, page=0).
+17:55:WARNING:(itens_armaduras.scp,2780)Redefinition of resource with DEFNAME='i_peito_dragon_az' (res type=15, index=0149cb, page=0).
+17:55:WARNING:(itens_armaduras.scp,2809)Redefinition of resource with DEFNAME='i_perna_dragon_az' (res type=15, index=014a07, page=0).
+17:55:WARNING:(itens_armaduras.scp,2838)Redefinition of resource with DEFNAME='i_pescoco_dragon_az' (res type=15, index=014a1c, page=0).
+17:55:WARNING:(itens_armaduras.scp,2867)Redefinition of resource with DEFNAME='i_cabeca_dragon_br' (res type=15, index=0149e1, page=0).
+17:55:WARNING:(itens_armaduras.scp,2896)Redefinition of resource with DEFNAME='i_braco_dragon_br' (res type=15, index=0149b9, page=0).
+17:55:WARNING:(itens_armaduras.scp,2925)Redefinition of resource with DEFNAME='i_luva_dragon_br' (res type=15, index=0149f5, page=0).
+17:55:WARNING:(itens_armaduras.scp,2954)Redefinition of resource with DEFNAME='i_peito_dragon_br' (res type=15, index=0149cd, page=0).
+17:55:WARNING:(itens_armaduras.scp,2983)Redefinition of resource with DEFNAME='i_perna_dragon_br' (res type=15, index=014a09, page=0).
+17:55:WARNING:(itens_armaduras.scp,3012)Redefinition of resource with DEFNAME='i_pescoco_dragon_br' (res type=15, index=014a1e, page=0).
+17:55:WARNING:(itens_armaduras.scp,3041)Redefinition of resource with DEFNAME='i_cabeca_dragon_pr' (res type=15, index=0149eb, page=0).
+17:55:WARNING:(itens_armaduras.scp,3070)Redefinition of resource with DEFNAME='i_braco_dragon_pr' (res type=15, index=0149c3, page=0).
+17:55:WARNING:(itens_armaduras.scp,3099)Redefinition of resource with DEFNAME='i_luva_dragon_pr' (res type=15, index=0149ff, page=0).
+17:55:WARNING:(itens_armaduras.scp,3128)Redefinition of resource with DEFNAME='i_peito_dragon_pr' (res type=15, index=0149d7, page=0).
+17:55:WARNING:(itens_armaduras.scp,3157)Redefinition of resource with DEFNAME='i_perna_dragon_pr' (res type=15, index=014a13, page=0).
+17:55:WARNING:(itens_armaduras.scp,3186)Redefinition of resource with DEFNAME='i_pescoco_dragon_pr' (res type=15, index=014a28, page=0).
+17:55:WARNING:(itens_armaduras.scp,3215)Redefinition of resource with DEFNAME='i_cabeca_dragon_dourado' (res type=15, index=0149e7, page=0).
+17:55:WARNING:(itens_armaduras.scp,3245)Redefinition of resource with DEFNAME='i_braco_dragon_dourado' (res type=15, index=0149bf, page=0).
+17:55:WARNING:(itens_armaduras.scp,3275)Redefinition of resource with DEFNAME='i_luva_dragon_dourado' (res type=15, index=0149fb, page=0).
+17:55:WARNING:(itens_armaduras.scp,3305)Redefinition of resource with DEFNAME='i_peito_dragon_dourado' (res type=15, index=0149d3, page=0).
+17:55:WARNING:(itens_armaduras.scp,3335)Redefinition of resource with DEFNAME='i_perna_dragon_dourado' (res type=15, index=014a0f, page=0).
+17:55:WARNING:(itens_armaduras.scp,3365)Redefinition of resource with DEFNAME='i_pescoco_dragon_dourado' (res type=15, index=014a24, page=0).
+17:55:WARNING:(itens_armaduras.scp,3395)Redefinition of resource with DEFNAME='i_cabeca_dragon_prateado' (res type=15, index=0149ed, page=0).
+17:55:WARNING:(itens_armaduras.scp,3425)Redefinition of resource with DEFNAME='i_braco_dragon_prateado' (res type=15, index=0149c5, page=0).
+17:55:WARNING:(itens_armaduras.scp,3455)Redefinition of resource with DEFNAME='i_luva_dragon_prateado' (res type=15, index=014a01, page=0).
+17:55:WARNING:(itens_armaduras.scp,3485)Redefinition of resource with DEFNAME='i_peito_dragon_prateado' (res type=15, index=0149d9, page=0).
+17:55:WARNING:(itens_armaduras.scp,3515)Redefinition of resource with DEFNAME='i_perna_dragon_prateado' (res type=15, index=014a15, page=0).
+17:55:WARNING:(itens_armaduras.scp,3545)Redefinition of resource with DEFNAME='i_pescoco_dragon_prateado' (res type=15, index=014a2a, page=0).
+17:55:WARNING:(itens_armaduras.scp,3575)Redefinition of resource with DEFNAME='i_cabeca_dragon_bronze' (res type=15, index=0149e3, page=0).
+17:55:WARNING:(itens_armaduras.scp,3605)Redefinition of resource with DEFNAME='i_braco_dragon_bronze' (res type=15, index=0149bb, page=0).
+17:55:WARNING:(itens_armaduras.scp,3635)Redefinition of resource with DEFNAME='i_luva_dragon_bronze' (res type=15, index=0149f7, page=0).
+17:55:WARNING:(itens_armaduras.scp,3665)Redefinition of resource with DEFNAME='i_peito_dragon_bronze' (res type=15, index=0149cf, page=0).
+17:55:WARNING:(itens_armaduras.scp,3695)Redefinition of resource with DEFNAME='i_perna_dragon_bronze' (res type=15, index=014a0b, page=0).
+17:55:WARNING:(itens_armaduras.scp,3725)Redefinition of resource with DEFNAME='i_pescoco_dragon_bronze' (res type=15, index=014a20, page=0).
+17:55:WARNING:(itens_armaduras.scp,3755)Redefinition of resource with DEFNAME='i_cabeca_dragon_ferro' (res type=15, index=0149e9, page=0).
+17:55:WARNING:(itens_armaduras.scp,3785)Redefinition of resource with DEFNAME='i_braco_dragon_ferro' (res type=15, index=0149c1, page=0).
+17:55:WARNING:(itens_armaduras.scp,3815)Redefinition of resource with DEFNAME='i_luva_dragon_ferro' (res type=15, index=0149fd, page=0).
+17:55:WARNING:(itens_armaduras.scp,3845)Redefinition of resource with DEFNAME='i_peito_dragon_ferro' (res type=15, index=0149d5, page=0).
+17:55:WARNING:(itens_armaduras.scp,3875)Redefinition of resource with DEFNAME='i_perna_dragon_ferro' (res type=15, index=014a11, page=0).
+17:55:WARNING:(itens_armaduras.scp,3905)Redefinition of resource with DEFNAME='i_pescoco_dragon_ferro' (res type=15, index=014a26, page=0).
+17:55:WARNING:(itens_armaduras.scp,3935)Redefinition of resource with DEFNAME='i_cabeca_dragon_cobre' (res type=15, index=0149e5, page=0).
+17:55:WARNING:(itens_armaduras.scp,3965)Redefinition of resource with DEFNAME='i_braco_dragon_cobre' (res type=15, index=0149bd, page=0).
+17:55:WARNING:(itens_armaduras.scp,3995)Redefinition of resource with DEFNAME='i_luva_dragon_cobre' (res type=15, index=0149f9, page=0).
+17:55:WARNING:(itens_armaduras.scp,4025)Redefinition of resource with DEFNAME='i_peito_dragon_cobre' (res type=15, index=0149d1, page=0).
+17:55:WARNING:(itens_armaduras.scp,4055)Redefinition of resource with DEFNAME='i_perna_dragon_cobre' (res type=15, index=014a0d, page=0).
+17:55:WARNING:(itens_armaduras.scp,4085)Redefinition of resource with DEFNAME='i_pescoco_dragon_cobre' (res type=15, index=014a22, page=0).
+17:55:Loading scripts/myt/itens_armas.scp
+17:55:Loading scripts/myt/itens_armas_armaduras_magicas.scp
+17:55:Loading scripts/myt/itens_carpentry.scp
+17:55:Loading scripts/myt/itens_clickloc.scp
+17:55:Loading scripts/myt/itens_furniture.scp
+17:55:Loading scripts/myt/itens_jewelry.scp
+17:55:Loading scripts/myt/itens_potions.scp
+17:55:Loading scripts/myt/itens_projetos.scp
+17:55:Loading scripts/myt/itens_quests.scp
+17:55:Loading scripts/myt/itens_tailor.scp
+17:55:Loading scripts/myt/npcs.scp
+17:55:Loading scripts/myt/npcs_humanoides.scp
+17:55:Loading scripts/myt/npcs_summons_e_polys.scp
+17:55:Loading scripts/myt/points.scp
+17:55:Loading scripts/myt/quests_custom.scp
+17:55:Loading scripts/myt/sistema_de_abordar.scp
+17:55:Loading scripts/myt/sistema_de_acoes.scp
+17:55:Loading scripts/myt/sistema_de_aluguel.scp
+17:55:Loading scripts/myt/sistema_de_anti_rp.scp
+17:55:Loading scripts/myt/sistema_de_arco_e_flecha.scp
+17:55:Loading scripts/myt/sistema_de_armadilha.scp
+17:55:Loading scripts/myt/sistema_de_armaduras.scp
+17:55:Loading scripts/myt/sistema_de_banco.scp
+17:55:Loading scripts/myt/sistema_de_broadcast_staff.scp
+17:55:Loading scripts/myt/sistema_de_cabelo_e_barba.scp
+17:55:Loading scripts/myt/sistema_de_caldeirao.scp
+17:55:Loading scripts/myt/sistema_de_calimentar.scp
+17:55:Loading scripts/myt/sistema_de_carvao.scp
+17:55:Loading scripts/myt/sistema_de_chaveiro.scp
+17:55:Loading scripts/myt/sistema_de_churrasco.scp
+17:55:Loading scripts/myt/sistema_de_cidades.scp
+17:55:Loading scripts/myt/sistema_de_combate.scp
+17:55:Loading scripts/myt/sistema_de_couro.scp
+17:55:Loading scripts/myt/sistema_de_crafting.scp
+17:55:Loading scripts/myt/sistema_de_craftmenu.scp
+17:55:Loading scripts/myt/sistema_de_criacao_de_classes.scp
+17:55:Loading scripts/myt/sistema_de_criacao_pc.scp
+17:55:Loading scripts/myt/sistema_de_custom_house.scp
+17:55:Loading scripts/myt/sistema_de_dressing_staff.scp
+17:55:Loading scripts/myt/sistema_de_email.scp
+17:55:Loading scripts/myt/sistema_de_encantamentos.scp
+17:55:Loading scripts/myt/sistema_de_eventos.scp
+17:55:Loading scripts/myt/sistema_de_facas_especiais.scp
+17:55:Loading scripts/myt/sistema_de_fe.scp
+17:55:Loading scripts/myt/sistema_de_ficha.scp
+17:55:Loading scripts/myt/sistema_de_formulario.scp
+17:55:Loading scripts/myt/sistema_de_fumo.scp
+17:55:Loading scripts/myt/sistema_de_furniture.scp
+17:55:Loading scripts/myt/sistema_de_guardas.scp
+17:55:Loading scripts/myt/sistema_de_infos.scp
+17:55:Loading scripts/myt/sistema_de_listas.scp
+17:55:Loading scripts/myt/sistema_de_magias.scp
+17:55:Loading scripts/myt/sistema_de_morte.scp
+17:55:Loading scripts/myt/sistema_de_news.scp
+17:55:Loading scripts/myt/sistema_de_patch.scp
+17:55:Loading scripts/myt/sistema_de_plantacao.scp
+17:55:Loading scripts/myt/sistema_de_playerlinger.scp
+17:55:Loading scripts/myt/sistema_de_portos.scp
+17:55:Loading scripts/myt/sistema_de_precos.scp
+17:55:Loading scripts/myt/sistema_de_quests.scp
+17:55:Loading scripts/myt/sistema_de_receitas.scp
+17:55:Loading scripts/myt/sistema_de_recipientes.scp
+17:55:Loading scripts/myt/sistema_de_reconhecimento.scp
+17:55:Loading scripts/myt/sistema_de_tempo.scp
+17:55:Loading scripts/myt/sistema_de_tesouros.scp
+17:55:Loading scripts/myt/sistema_de_throw.scp
+17:55:Loading scripts/myt/sistema_de_vendas.scp
+17:55:Loading scripts/myt/skills.scp
+17:55:Loading scripts/myt/skill_alchemy.scp
+17:55:Loading scripts/myt/skill_anatomy.scp
+17:55:Loading scripts/myt/skill_animal_lore.scp
+17:55:Loading scripts/myt/skill_armslore.scp
+17:55:Loading scripts/myt/skill_blacksmith.scp
+17:55:Loading scripts/myt/skill_camping.scp
+17:55:Loading scripts/myt/skill_carpentry.scp
+17:55:Loading scripts/myt/skill_cooking.scp
+17:55:Loading scripts/myt/skill_detectinghidden.scp
+17:55:Loading scripts/myt/skill_evalint.scp
+17:55:Loading scripts/myt/skill_fishing.scp
+17:55:Loading scripts/myt/skill_healing.scp
+17:55:Loading scripts/myt/skill_herding.scp
+17:55:Loading scripts/myt/skill_hiding.scp
+17:55:Loading scripts/myt/skill_inscription.scp
+17:55:Loading scripts/myt/skill_itemid.scp
+17:55:Loading scripts/myt/skill_lockpicking.scp
+17:55:Loading scripts/myt/skill_magicresist.scp
+17:55:Loading scripts/myt/skill_meditation.scp
+17:55:Loading scripts/myt/skill_mining.scp
+17:55:Loading scripts/myt/skill_musicianship.scp
+17:55:Loading scripts/myt/skill_poisoning.scp
+17:55:Loading scripts/myt/skill_removetrap.scp
+17:55:Loading scripts/myt/skill_snooping.scp
+17:55:Loading scripts/myt/skill_tailoring.scp
+17:55:Loading scripts/myt/skill_taming.scp
+17:55:Loading scripts/myt/skill_tasteid.scp
+17:55:Loading scripts/myt/skill_tinkering.scp
+17:55:Loading scripts/myt/skill_tracking.scp
+17:55:Loading scripts/myt/spells_cantrips.scp
+17:55:Loading scripts/myt/spells_focus.scp
+17:55:Loading scripts/myt/spells_magery.scp
+17:55:Loading scripts/myt/spells_necromancy.scp
+17:55:Loading scripts/myt/spells_speech.scp
+17:55:Loading scripts/myt/spells_spellweaving.scp
+17:55:Loading scripts/myt/teleporters.scp
+17:55:Loading scripts/myt/teleporters_data.scp
+17:55:Loading scripts/myt/special/region.scp
+17:55:Loading scripts/myt/special/mapa.scp
+17:55:Loading scripts/sphere_add_sqlite.scp
+17:55:Loading scripts/sphere_combat.scp
+17:55:Loading scripts/sphere_msgs.scp
+17:55:Loading scripts/sphere_template_armor.scp
+17:55:Loading scripts/sphere_template_magic.scp
+17:55:Loading scripts/sphere_template_sets.scp
+17:55:Loading scripts/sphere_template_weapons.scp
+17:55:Done loading scripts (103 of 224 triggers used).
+17:55:
+17:55:Loaded 277 client encryption keys.
+17:55:Server started on hostname 'Alex-PC'
+17:55:Monitoring IP 192.168.1.104:2593
+17:55:Loading save/spheredata.scp...
+17:55:Loading save/spherestatics.scp...
+17:55:Loading save/sphereworld.scp...
+17:55:Loading save/spherechars.scp...
+17:55:Loading save/spheremultis.scp...
+17:55:Garbage Collection: started.
+17:55:Garbage Collection: done. 36 Objects accounted for.
+17:55:Option flags: CommandSysmessages + OSIMultiSight + FileCommands + NoHouseMuteSpeech + FloodProtection + NoPrefix + DrinkIsFood
+17:55:Experimental flags: NoDiagonalCheckLOS
+17:55:Admin=me@my.email.com, URL=www.myshard.com, Lang=English, TZ=0
+17:55:Startup complete. items=34, chars=2
+17:55:Press '?' for console commands.
+17:56:0:Client connected [Total:1]. IP='127.0.0.1'. (Connecting/Connected: 1/1).
+17:56:0:Login for account 'ADM'. IP='127.0.0.1'. ConnectionType: ServerList.
+17:56:1:Client connected [Total:2]. IP='127.0.0.1'. (Connecting/Connected: 1/2).
+17:56:0:Client disconnected [Total:1]. Account: 'ADM'. IP='127.0.0.1'.
+17:56:1:Login for account 'ADM'. IP='127.0.0.1'. ConnectionType: CharList/Game.
+17:56:1:Account 'ADM' created new char 'ADM' [01fdc]
+17:56:1:Character startup for account 'ADM', char 'ADM'. IP='127.0.0.1'.
+17:56:WARNING:WalkCheck: failed to get the destination region at P=5120,2164,0,0 (UID: 01fdc, name: ADM).
+17:56:ERROR:(region.scp,895)Even number of elements in the random range: invalid. Forgot to write an element?
+17:56:1:'ADM' commands 'sistemasphere'=0
+17:56:1:'ADM' Says UNICODE 'PTB' '.sistemasphere' mode=0
+17:56:1:'ADM' commands 'sistemasphere'=1
+17:57:A'ADM' was DISCONNECTed by 'MyShard'.
+17:57:WARNING:NetState id 1 (IP: 127.0.0.1, Account: ADM) exceeded its output quota (95080/ 50000).
+17:57:1:Client disconnected [Total:0]. Account: 'ADM'. Char: 'ADM'. IP='127.0.0.1'.
+17:57:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '> 18'].
+17:57:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '< 6>'].
+17:57:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '< 6>'].
+17:58:Server is being PAUSED for Resync
+17:58:Resync Restart
+
+17:58:Indexing 297 script files...
+17:58:WARNING:Resource 'scripts/sphere_region.scp' changed, resync.
+17:58:Done loading scripts.
+17:58:
+17:58:Resync complete!
+17:58:2:Client connected [Total:1]. IP='127.0.0.1'. (Connecting/Connected: 1/1).
+17:58:2:Login for account 'ADM'. IP='127.0.0.1'. ConnectionType: ServerList.
+17:58:3:Client connected [Total:2]. IP='127.0.0.1'. (Connecting/Connected: 1/2).
+17:58:2:Client disconnected [Total:1]. Account: 'ADM'. IP='127.0.0.1'.
+17:58:3:Login for account 'ADM'. IP='127.0.0.1'. ConnectionType: CharList/Game.
+17:58:3:Character startup for account 'ADM', char 'ADM'. IP='127.0.0.1'.
+17:58:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '> 18'].
+17:58:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '< 6>'].
+17:58:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '< 6>'].
+17:58:WARNING:WalkCheck: failed to get the destination region at P=5120,2164,0,0 (UID: 01fdc, name: ADM).
+17:58:A'ADM' was DISCONNECTed by 'MyShard'.
+17:58:WARNING:NetState id 3 (IP: 127.0.0.1, Account: ADM) exceeded its output quota (50551/ 50000).
+17:58:3:Client disconnected [Total:0]. Account: 'ADM'. Char: 'ADM'. IP='127.0.0.1'.
+17:58:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '> 18'].
+17:58:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '< 6>'].
+17:58:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '< 6>'].
+17:58:4:Client connected [Total:1]. IP='127.0.0.1'. (Connecting/Connected: 1/1).
+17:58:4:Login for account 'ADM'. IP='127.0.0.1'. ConnectionType: ServerList.
+17:58:5:Client connected [Total:2]. IP='127.0.0.1'. (Connecting/Connected: 1/2).
+17:58:4:Client disconnected [Total:1]. Account: 'ADM'. IP='127.0.0.1'.
+17:58:5:Login for account 'ADM'. IP='127.0.0.1'. ConnectionType: CharList/Game.
+17:58:5:Character startup for account 'ADM', char 'ADM'. IP='127.0.0.1'.
+17:58:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '> 18'].
+17:58:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '< 6>'].
+17:58:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '< 6>'].
+17:58:WARNING:WalkCheck: failed to get the destination region at P=5120,2164,0,0 (UID: 01fdc, name: ADM).
+17:59:5:'ADM' commands 'gm'=1
+17:59:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '> 18'].
+17:59:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '< 6>'].
+17:59:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '< 6>'].
+17:59:5:'ADM' commands 'go 5120,2164'=1
+17:59:5:'ADM' commands 'go 5120 2164'=1
+17:59:A'ADM' was DISCONNECTed by 'MyShard'.
+17:59:WARNING:NetState id 5 (IP: 127.0.0.1, Account: ADM) exceeded its output quota (50039/ 50000).
+17:59:5:Client disconnected [Total:0]. Account: 'ADM'. Char: 'ADM'. IP='127.0.0.1'.
+17:59:6:Client connected [Total:1]. IP='127.0.0.1'. (Connecting/Connected: 1/1).
+17:59:6:Login for account 'ADM'. IP='127.0.0.1'. ConnectionType: ServerList.
+17:59:7:Client connected [Total:2]. IP='127.0.0.1'. (Connecting/Connected: 1/2).
+17:59:6:Client disconnected [Total:1]. Account: 'ADM'. IP='127.0.0.1'.
+17:59:7:Login for account 'ADM'. IP='127.0.0.1'. ConnectionType: CharList/Game.
+17:59:7:Character startup for account 'ADM', char 'ADM'. IP='127.0.0.1'.
+17:59:ERROR:Undefined keyword 'gmtele'.
+17:59:7:'ADM' commands 'gmtele'=1
+18:00:ERROR:Undefined keyword 'telegm'.
+18:00:7:'ADM' commands 'telegm'=1
+18:00:7:'ADM' commands 'tele'=1
+18:00:7:'ADM' commands 'add i_espada_longa'=1
+18:02:7:Client disconnected [Total:0]. Account: 'ADM'. Char: 'ADM'. IP='127.0.0.1'.
+18:04:8:Client connected [Total:1]. IP='127.0.0.1'. (Connecting/Connected: 1/1).
+18:04:8:Login for account 'ADM'. IP='127.0.0.1'. ConnectionType: ServerList.
+18:04:9:Client connected [Total:2]. IP='127.0.0.1'. (Connecting/Connected: 1/2).
+18:04:8:Client disconnected [Total:1]. Account: 'ADM'. IP='127.0.0.1'.
+18:04:9:Login for account 'ADM'. IP='127.0.0.1'. ConnectionType: CharList/Game.
+18:04:9:Character startup for account 'ADM', char 'ADM'. IP='127.0.0.1'.
+18:05:9:'ADM' commands 'go 1156, 393, 67,0'=1
+18:05:9:'ADM' commands 'GO BRIT'=1
+18:07:9:Client disconnected [Total:0]. Account: 'ADM'. Char: 'ADM'. IP='127.0.0.1'.
+18:07:Garbage Collection: started.
+18:07:Garbage Collection: done. 41 Objects accounted for.
+18:07:World data saved   (save/sphereworld.scp).
+18:07:Player data saved  (save/spherechars.scp).
+18:07:Multi data saved   (save/spheremultis.scp).
+18:07:Context data saved (save/spheredata.scp).
+18:07:World save completed, took 0.4220 seconds.
+18:07:FATAL:Server terminated: Console window closed (code 5)
+18:08:SphereServer Version X1-Nightly [Windows-64] by www.spherecommunity.net.
+18:08:Compiled at Oct 19 2021 (10:31:45) [build 3473 / GIT hash f24687c5330f8fbf7b7ae9f626447fc91e280d77]
+
+18:08:WARNING:
+-----------------------------------------------------------------
+This is a nightly build of SphereServer. This build is to be used for testing and/or bug reporting ONLY.
+DO NOT run this build on a live shard unless you know what you are doing!
+Nightly builds are automatically made at every commit to the source code repository and might
+contain errors, might be unstable or even destroy your shard as they are mostly untested!
+-----------------------------------------------------------------
+
+18:08:
+Indexing the client files...
+18:08:Expansion maps supported: Felucca (0), Trammel (1), Ilshenar (2), Malas (3), Tokuno Islands (4)
+18:08:Caching tiledata.mul...
+
+18:08:Initializing the world...
+18:08:Allocated map sectors: map0=7168 map1=7168 map2=900 map3=1280 map4=529
+
+18:08:Indexing 297 script files...
+18:08:Loading scripts/sphere_admin.scp
+18:08:Loading scripts/sphere_backward_compatibility.scp
+18:08:Loading scripts/sphere_book.scp
+18:08:Loading scripts/sphere_defs.scp
+18:08:Loading scripts/sphere_dialog.scp
+18:08:Loading scripts/sphere_events_human.scp
+18:08:Loading scripts/sphere_events_npcs.scp
+18:08:Loading scripts/sphere_menu.scp
+18:08:Loading scripts/sphere_name.scp
+18:08:Loading scripts/sphere_serv_triggers.scp
+18:08:Loading scripts/sphere_skills.scp
+18:08:Loading scripts/sphere_skillmenu.scp
+18:08:Loading scripts/sphere_newb.scp
+18:08:Loading scripts/sphere_speech.scp
+18:08:Loading scripts/sphere_types.scp
+18:08:Loading scripts/items/sphere_item_animations.scp
+18:08:Loading scripts/items/sphere_item_artifacts.scp
+18:08:Loading scripts/items/sphere_item_artifacts_minor.scp
+18:08:Loading scripts/items/sphere_item_artifacts_tokuno.scp
+18:08:Loading scripts/items/sphere_item_boulders_rocks.scp
+18:08:Loading scripts/items/sphere_item_buildings.scp
+18:08:Loading scripts/items/sphere_item_building_doors.scp
+18:08:Loading scripts/items/sphere_item_building_floors.scp
+18:08:Loading scripts/items/sphere_item_building_other.scp
+18:08:Loading scripts/items/sphere_item_building_roofs.scp
+18:08:Loading scripts/items/sphere_item_building_stairs.scp
+18:08:Loading scripts/items/sphere_item_building_walls.scp
+18:08:Loading scripts/items/sphere_item_char_icons.scp
+18:08:Loading scripts/items/sphere_item_deco_carpet_rugs.scp
+18:08:Loading scripts/items/sphere_item_deco_carvings_statues.scp
+18:08:Loading scripts/items/sphere_item_deco_dungeons_traps_dead.scp
+18:08:Loading scripts/items/sphere_item_deco_fireplace_chimney_oven.scp
+18:08:Loading scripts/items/sphere_item_deco_furniture.scp
+18:08:Loading scripts/items/sphere_item_deco_lightsources.scp
+18:08:Loading scripts/items/sphere_item_deco_miniatures.scp
+18:08:Loading scripts/items/sphere_item_deco_signs.scp
+18:08:Loading scripts/items/sphere_item_deco_themed_collections.scp
+18:08:Loading scripts/items/sphere_item_deco_virtues.scp
+18:08:Loading scripts/items/sphere_item_deco_wall_hangings.scp
+18:08:Loading scripts/items/sphere_item_ground_tiles.scp
+18:08:Loading scripts/items/sphere_item_holiday_anniversary.scp
+18:08:Loading scripts/items/sphere_item_holiday_christmas.scp
+18:08:Loading scripts/items/sphere_item_holiday_easter.scp
+18:08:Loading scripts/items/sphere_item_holiday_halloween.scp
+18:08:Loading scripts/items/sphere_item_holiday_thanksgiving.scp
+18:08:Loading scripts/items/sphere_item_holiday_valentines.scp
+18:08:Loading scripts/items/sphere_item_magic_armor.scp
+18:08:Loading scripts/items/sphere_item_magic_chivalry.scp
+18:08:Loading scripts/items/sphere_item_magic_jewelry.scp
+18:08:Loading scripts/items/sphere_item_magic_leather.scp
+18:08:Loading scripts/items/sphere_item_magic_magery.scp
+18:08:Loading scripts/items/sphere_item_magic_mysticism.scp
+18:08:Loading scripts/items/sphere_item_magic_necromancer_aos.scp
+18:08:Loading scripts/items/sphere_item_magic_ninjitsu_bushido.scp
+18:08:Loading scripts/items/sphere_item_magic_skillmasteries.scp
+18:08:Loading scripts/items/sphere_item_magic_spellweaving.scp
+18:08:Loading scripts/items/sphere_item_magic_wands.scp
+18:08:Loading scripts/items/sphere_item_magic_weapon.scp
+18:08:Loading scripts/items/sphere_item_memories.scp
+18:08:Loading scripts/items/sphere_item_misc.scp
+18:08:Loading scripts/items/sphere_item_offset.scp
+18:08:Loading scripts/items/sphere_item_profession.scp
+18:08:Loading scripts/items/sphere_item_profession_alchemist.scp
+18:08:Loading scripts/items/sphere_item_profession_barber.scp
+18:08:Loading scripts/items/sphere_item_profession_cartographer.scp
+18:08:Loading scripts/items/sphere_item_profession_cook_barkeep_baker.scp
+18:08:Loading scripts/items/sphere_item_profession_tailor_tanner.scp
+18:08:Loading scripts/items/sphere_item_provisions_armor.scp
+18:08:Loading scripts/items/sphere_item_provisions_armor_color.scp
+18:08:Loading scripts/items/sphere_item_provisions_clothing.scp
+18:08:Loading scripts/items/sphere_item_provisions_deed.scp
+18:08:Loading scripts/items/sphere_item_provisions_jewelry.scp
+18:08:Loading scripts/items/sphere_item_provisions_logs.scp
+18:08:Loading scripts/items/sphere_item_provisions_misc.scp
+18:08:Loading scripts/items/sphere_item_provisions_ore.scp
+18:08:Loading scripts/items/sphere_item_provisions_potions.scp
+18:08:Loading scripts/items/sphere_item_provisions_shields.scp
+18:08:Loading scripts/items/sphere_item_provisions_weapons.scp
+18:08:Loading scripts/items/sphere_item_quests.scp
+18:08:Loading scripts/items/sphere_item_resources.scp
+18:08:Loading scripts/items/sphere_item_ship_parts.scp
+18:08:Loading scripts/items/sphere_item_ship_parts_britannian.scp
+18:08:Loading scripts/items/sphere_item_ship_parts_gargish.scp
+18:08:Loading scripts/items/sphere_item_ship_parts_orcish.scp
+18:08:Loading scripts/items/sphere_item_ship_parts_tokuno.scp
+18:08:Loading scripts/items/sphere_item_siege.scp
+18:08:Loading scripts/items/sphere_item_theme_pack_crystal.scp
+18:08:Loading scripts/items/sphere_item_theme_pack_gothic.scp
+18:08:Loading scripts/items/sphere_item_theme_pack_kings_collection.scp
+18:08:Loading scripts/items/sphere_item_theme_pack_rustic.scp
+18:08:Loading scripts/items/sphere_item_theme_pack_shadow.scp
+18:08:Loading scripts/items/sphere_item_typedefs.scp
+18:08:Loading scripts/items/sphere_item_typedef_equipitem.scp
+18:08:Loading scripts/items/sphere_item_unsorted.scp
+18:08:Loading scripts/items/sphere_item_vegetation.scp
+18:08:Loading scripts/items/sphere_item_veteran_rewards.scp
+18:08:Loading scripts/items/sphere_item_vice_virtue.scp
+18:08:Loading scripts/items/sphere_item_wedding.scp
+18:08:Loading scripts/items/multis/multis_foundations.scp
+18:08:Loading scripts/items/multis/multis_houses.scp
+18:08:Loading scripts/items/multis/multis_magincia_bazaar.scp
+18:08:Loading scripts/items/multis/multis_misc.scp
+18:08:Loading scripts/items/multis/multis_ships.scp
+18:08:Loading scripts/items/multis/multis_stairs.scp
+18:08:Loading scripts/items/multis/multis_wandering_camps.scp
+18:08:Loading scripts/stones/sphere_genericstone_config.scp
+18:08:Loading scripts/stones/sphere_genericstone_functions.scp
+18:08:Loading scripts/stones/sphere_genericstone_items.scp
+18:08:Loading scripts/stones/sphere_genericstone_types.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_config.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_dlg_align.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_dlg_charlist.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_dlg_charter.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_dlg_guildlist.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_dlg_main.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_dlg_master.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_dlg_warfareadmin.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_dlg_warfaredeclare.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_dlg_warfarestatus.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_events.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_functions.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_functions_player.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_items.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_promptconsole.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_speech.scp
+18:08:Loading scripts/stones/guilds/sphere_guild_types.scp
+18:08:Loading scripts/stones/towns/sphere_town_config.scp
+18:08:Loading scripts/stones/towns/sphere_town_dlg_align.scp
+18:08:Loading scripts/stones/towns/sphere_town_dlg_charlist.scp
+18:08:Loading scripts/stones/towns/sphere_town_dlg_charter.scp
+18:08:Loading scripts/stones/towns/sphere_town_dlg_main.scp
+18:08:Loading scripts/stones/towns/sphere_town_dlg_master.scp
+18:08:Loading scripts/stones/towns/sphere_town_dlg_townlist.scp
+18:08:Loading scripts/stones/towns/sphere_town_dlg_warfareadmin.scp
+18:08:Loading scripts/stones/towns/sphere_town_dlg_warfaredeclare.scp
+18:08:Loading scripts/stones/towns/sphere_town_dlg_warfarestatus.scp
+18:08:Loading scripts/stones/towns/sphere_town_events.scp
+18:08:Loading scripts/stones/towns/sphere_town_functions.scp
+18:08:Loading scripts/stones/towns/sphere_town_functions_player.scp
+18:08:Loading scripts/stones/towns/sphere_town_items.scp
+18:08:Loading scripts/stones/towns/sphere_town_promptconsole.scp
+18:08:Loading scripts/stones/towns/sphere_town_speech.scp
+18:08:Loading scripts/stones/towns/sphere_town_types.scp
+18:08:Loading scripts/npcs/spherechar_evil.scp
+18:08:Loading scripts/npcs/spherechar_human.scp
+18:08:Loading scripts/npcs/sphere_citizens.scp
+18:08:Loading scripts/npcs/sphere_guildmasters.scp
+18:08:Loading scripts/npcs/sphere_monsters.scp
+18:08:Loading scripts/npcs/sphere_monsters_custom.scp
+18:08:Loading scripts/npcs/sphere_vendors.scp
+18:08:Loading scripts/speech/speakhuman.scp
+18:08:Loading scripts/speech/speakorc.scp
+18:08:Loading scripts/speech/speakshopkeep.scp
+18:08:Loading scripts/speech/spk_house_cmds.scp
+18:08:Loading scripts/speech/spk_ship_cmds.scp
+18:08:Loading scripts/systems/sphere_system_aquarium.scp
+18:08:Loading scripts/systems/sphere_system_secret_chest.scp
+18:08:Loading scripts/systems/sphere_system_treasure_maps.scp
+18:08:Loading scripts/sphere_spawns.scp
+18:08:Loading scripts/sphere_spells.scp
+18:08:Loading scripts/sphere_region.scp
+18:08:ERROR:(sphere_region.scp,154)Undefined symbol 'i_ore_bronze' [Evaluated expression: 'i_ore_bronze'].
+18:08:ERROR:(sphere_region.scp,182)Undefined symbol 'i_ore_copper' [Evaluated expression: 'i_ore_copper'].
+18:08:ERROR:(sphere_region.scp,189)Undefined symbol 'i_ore_gold' [Evaluated expression: 'i_ore_gold'].
+18:08:ERROR:(sphere_region.scp,217)Undefined symbol 'i_ore_silver' [Evaluated expression: 'i_ore_silver'].
+18:08:Loading scripts/myt/administrative.scp
+18:08:Loading scripts/myt/itens.scp
+18:08:Loading scripts/myt/resources.scp
+18:08:Loading scripts/myt/sistema_de_selar_livros.scp
+18:08:Loading scripts/myt/events.scp
+18:08:Loading scripts/myt/events_npc.scp
+18:08:Loading scripts/myt/sistema_de_catalisadores.scp
+18:08:Loading scripts/myt/templates_myt.scp
+18:08:Loading scripts/myt/sistema_de_special_moves.scp
+18:08:Loading scripts/myt/itens_food.scp
+18:08:Loading scripts/sphere_template.scp
+18:08:Loading scripts/sphere_template_loot.scp
+18:08:Loading scripts/sphere_template_misc.scp
+18:08:Loading scripts/sphere_template_vend.scp
+18:08:Loading scripts/myt/spells_myt.scp
+18:08:Loading scripts/myt/craftmenu_backup.scp
+18:08:Loading scripts/myt/itemforge.scp
+18:08:Loading scripts/myt/itemforge_data.scp
+18:08:Loading scripts/myt/itemforge_data_armaduras.scp
+18:08:Loading scripts/myt/itemforge_data_armaduras_armas.scp
+18:08:Loading scripts/myt/itens_adornos_magicos.scp
+18:08:Loading scripts/myt/itens_armaduras.scp
+18:08:WARNING:(itens_armaduras.scp,179)Redefinition of resource with DEFNAME='i_peito_couro' (res type=15, index=01495e, page=0).
+18:08:WARNING:(itens_armaduras.scp,207)Redefinition of resource with DEFNAME='i_braco_couro' (res type=15, index=01495c, page=0).
+18:08:WARNING:(itens_armaduras.scp,235)Redefinition of resource with DEFNAME='i_perna_couro' (res type=15, index=014964, page=0).
+18:08:WARNING:(itens_armaduras.scp,263)Redefinition of resource with DEFNAME='i_pescoco_couro' (res type=15, index=014966, page=0).
+18:08:WARNING:(itens_armaduras.scp,291)Redefinition of resource with DEFNAME='i_cabeca_couro' (res type=15, index=014960, page=0).
+18:08:WARNING:(itens_armaduras.scp,319)Redefinition of resource with DEFNAME='i_luva_couro' (res type=15, index=014962, page=0).
+18:08:WARNING:(itens_armaduras.scp,347)Redefinition of resource with DEFNAME='i_cabeca_furtiva' (res type=15, index=014980, page=0).
+18:08:WARNING:(itens_armaduras.scp,376)Redefinition of resource with DEFNAME='i_luva_furtiva' (res type=15, index=01497a, page=0).
+18:08:WARNING:(itens_armaduras.scp,405)Redefinition of resource with DEFNAME='i_peito_furtiva' (res type=15, index=014976, page=0).
+18:08:WARNING:(itens_armaduras.scp,434)Redefinition of resource with DEFNAME='i_perna_furtiva' (res type=15, index=01497c, page=0).
+18:08:WARNING:(itens_armaduras.scp,463)Redefinition of resource with DEFNAME='i_cinto_furtiva' (res type=15, index=014978, page=0).
+18:08:WARNING:(itens_armaduras.scp,492)Redefinition of resource with DEFNAME='i_pescoco_furtiva' (res type=15, index=01497e, page=0).
+18:08:WARNING:(itens_armaduras.scp,521)Redefinition of resource with DEFNAME='i_braco_furtiva' (res type=15, index=014974, page=0).
+18:08:WARNING:(itens_armaduras.scp,550)Redefinition of resource with DEFNAME='i_braco_samurai' (res type=15, index=01498e, page=0).
+18:08:WARNING:(itens_armaduras.scp,578)Redefinition of resource with DEFNAME='i_peito_samurai' (res type=15, index=014990, page=0).
+18:08:WARNING:(itens_armaduras.scp,606)Redefinition of resource with DEFNAME='i_perna_samurai' (res type=15, index=01400c, page=0).
+18:08:WARNING:(itens_armaduras.scp,634)Redefinition of resource with DEFNAME='i_perna_saia_samurai' (res type=15, index=014997, page=0).
+18:08:WARNING:(itens_armaduras.scp,662)Redefinition of resource with DEFNAME='i_mao_samurai' (res type=15, index=014992, page=0).
+18:08:WARNING:(itens_armaduras.scp,691)Redefinition of resource with DEFNAME='i_pescoco_samurai' (res type=15, index=014995, page=0).
+18:08:WARNING:(itens_armaduras.scp,720)Redefinition of resource with DEFNAME='i_braco_samuraim' (res type=15, index=014982, page=0).
+18:08:WARNING:(itens_armaduras.scp,748)Redefinition of resource with DEFNAME='i_peito_samuraim' (res type=15, index=014984, page=0).
+18:08:WARNING:(itens_armaduras.scp,776)Redefinition of resource with DEFNAME='i_perna_samuraim' (res type=15, index=014988, page=0).
+18:08:WARNING:(itens_armaduras.scp,804)Redefinition of resource with DEFNAME='i_perna_saia_samuraim' (res type=15, index=01498c, page=0).
+18:08:WARNING:(itens_armaduras.scp,832)Redefinition of resource with DEFNAME='i_mao_samuraim' (res type=15, index=014986, page=0).
+18:08:WARNING:(itens_armaduras.scp,861)Redefinition of resource with DEFNAME='i_pescoco_samuraim' (res type=15, index=01498a, page=0).
+18:08:WARNING:(itens_armaduras.scp,896)Redefinition of resource with DEFNAME='i_cabeca_osso' (res type=15, index=0149a3, page=0).
+18:08:WARNING:(itens_armaduras.scp,923)Redefinition of resource with DEFNAME='i_braco_osso' (res type=15, index=01499f, page=0).
+18:08:WARNING:(itens_armaduras.scp,950)Redefinition of resource with DEFNAME='i_luva_osso' (res type=15, index=0149a5, page=0).
+18:08:WARNING:(itens_armaduras.scp,977)Redefinition of resource with DEFNAME='i_peito_osso' (res type=15, index=0149a1, page=0).
+18:08:WARNING:(itens_armaduras.scp,1004)Redefinition of resource with DEFNAME='i_perna_osso' (res type=15, index=0149a7, page=0).
+18:08:WARNING:(itens_armaduras.scp,1031)Redefinition of resource with DEFNAME='i_pescoco_osso' (res type=15, index=0149a9, page=0).
+18:08:WARNING:(itens_armaduras.scp,1064)Redefinition of resource with DEFNAME='i_peito_floresta' (res type=15, index=014a5d, page=0).
+18:08:WARNING:(itens_armaduras.scp,1092)Redefinition of resource with DEFNAME='i_cintura_floresta' (res type=15, index=014a5f, page=0).
+18:08:WARNING:(itens_armaduras.scp,1120)Redefinition of resource with DEFNAME='i_pescoco_floresta' (res type=15, index=014a66, page=0).
+18:08:WARNING:(itens_armaduras.scp,1148)Redefinition of resource with DEFNAME='i_mao_floresta' (res type=15, index=014a62, page=0).
+18:08:WARNING:(itens_armaduras.scp,1176)Redefinition of resource with DEFNAME='i_perna_floresta' (res type=15, index=014a64, page=0).
+18:08:WARNING:(itens_armaduras.scp,1205)Redefinition of resource with DEFNAME='i_braco_floresta' (res type=15, index=014a5a, page=0).
+18:08:WARNING:(itens_armaduras.scp,1234)Redefinition of resource with DEFNAME='i_peito_floresta_f' (res type=15, index=014a61, page=0).
+18:08:WARNING:(itens_armaduras.scp,1263)Redefinition of resource with DEFNAME='i_peito_elfo' (res type=15, index=014a50, page=0).
+18:08:WARNING:(itens_armaduras.scp,1291)Redefinition of resource with DEFNAME='i_mao_elfo' (res type=15, index=014a54, page=0).
+18:08:WARNING:(itens_armaduras.scp,1319)Redefinition of resource with DEFNAME='i_pescoco_elfo' (res type=15, index=014a58, page=0).
+18:08:WARNING:(itens_armaduras.scp,1347)Redefinition of resource with DEFNAME='i_braco_elfo' (res type=15, index=014a4e, page=0).
+18:08:WARNING:(itens_armaduras.scp,1375)Redefinition of resource with DEFNAME='i_perna_elfo' (res type=15, index=014a56, page=0).
+18:08:WARNING:(itens_armaduras.scp,1403)Redefinition of resource with DEFNAME='i_peito_elfo_f' (res type=15, index=014a52, page=0).
+18:08:WARNING:(itens_armaduras.scp,1431)Redefinition of resource with DEFNAME='i_peito_pat' (res type=15, index=014a6a, page=0).
+18:08:WARNING:(itens_armaduras.scp,1459)Redefinition of resource with DEFNAME='i_mao_pat' (res type=15, index=014a6c, page=0).
+18:08:WARNING:(itens_armaduras.scp,1487)Redefinition of resource with DEFNAME='i_pescoco_pat' (res type=15, index=014a70, page=0).
+18:08:WARNING:(itens_armaduras.scp,1515)Redefinition of resource with DEFNAME='i_braco_pat' (res type=15, index=014a68, page=0).
+18:08:WARNING:(itens_armaduras.scp,1543)Redefinition of resource with DEFNAME='i_perna_pat' (res type=15, index=014a6e, page=0).
+18:08:WARNING:(itens_armaduras.scp,1571)Redefinition of resource with DEFNAME='i_perna_saia_pat' (res type=15, index=014a72, page=0).
+18:08:WARNING:(itens_armaduras.scp,1605)Redefinition of resource with DEFNAME='i_peito_arcano' (res type=15, index=014a4c, page=0).
+18:08:WARNING:(itens_armaduras.scp,1634)Redefinition of resource with DEFNAME='i_pe_arcano' (res type=15, index=01400e, page=0).
+18:08:WARNING:(itens_armaduras.scp,1663)Redefinition of resource with DEFNAME='i_mao_arcano' (res type=15, index=014a4a, page=0).
+18:08:WARNING:(itens_armaduras.scp,1692)Redefinition of resource with DEFNAME='i_capa_arcano' (res type=15, index=014a48, page=0).
+18:08:WARNING:(itens_armaduras.scp,1727)Redefinition of resource with DEFNAME='i_perna_espinho_f' (res type=15, index=014a41, page=0).
+18:08:WARNING:(itens_armaduras.scp,1756)Redefinition of resource with DEFNAME='i_peito_amazona' (res type=15, index=014a3d, page=0).
+18:08:WARNING:(itens_armaduras.scp,1785)Redefinition of resource with DEFNAME='i_perna_couro_f' (res type=15, index=014a37, page=0).
+18:08:WARNING:(itens_armaduras.scp,1814)Redefinition of resource with DEFNAME='i_peito_courom_f' (res type=15, index=014a3f, page=0).
+18:08:WARNING:(itens_armaduras.scp,1843)Redefinition of resource with DEFNAME='i_peito_couro_f' (res type=15, index=014a43, page=0).
+18:08:WARNING:(itens_armaduras.scp,1872)Redefinition of resource with DEFNAME='i_perna_couro_saia' (res type=15, index=014a45, page=0).
+18:08:WARNING:(itens_armaduras.scp,1901)Redefinition of resource with DEFNAME='i_peito_couro_biquini' (res type=15, index=014a39, page=0).
+18:08:WARNING:(itens_armaduras.scp,1930)Redefinition of resource with DEFNAME='i_peito_courom_biquini' (res type=15, index=014a3b, page=0).
+18:08:WARNING:(itens_armaduras.scp,2339)Redefinition of resource with DEFNAME='i_cabeca_dragon_ve' (res type=15, index=0149f0, page=0).
+18:08:WARNING:(itens_armaduras.scp,2369)Redefinition of resource with DEFNAME='i_braco_dragon_ve' (res type=15, index=0149c8, page=0).
+18:08:WARNING:(itens_armaduras.scp,2399)Redefinition of resource with DEFNAME='i_luva_dragon_ve' (res type=15, index=014a04, page=0).
+18:08:WARNING:(itens_armaduras.scp,2429)Redefinition of resource with DEFNAME='i_peito_dragon_ve' (res type=15, index=0149dc, page=0).
+18:08:WARNING:(itens_armaduras.scp,2459)Redefinition of resource with DEFNAME='i_perna_dragon_ve' (res type=15, index=014a18, page=0).
+18:08:WARNING:(itens_armaduras.scp,2489)Redefinition of resource with DEFNAME='i_pescoco_dragon_ve' (res type=15, index=014a2d, page=0).
+18:08:WARNING:(itens_armaduras.scp,2519)Redefinition of resource with DEFNAME='i_cabeca_dragon_red' (res type=15, index=0149f2, page=0).
+18:08:WARNING:(itens_armaduras.scp,2548)Redefinition of resource with DEFNAME='i_braco_dragon_red' (res type=15, index=0149ca, page=0).
+18:08:WARNING:(itens_armaduras.scp,2577)Redefinition of resource with DEFNAME='i_luva_dragon_red' (res type=15, index=014a06, page=0).
+18:08:WARNING:(itens_armaduras.scp,2606)Redefinition of resource with DEFNAME='i_peito_dragon_red' (res type=15, index=0149de, page=0).
+18:08:WARNING:(itens_armaduras.scp,2635)Redefinition of resource with DEFNAME='i_perna_dragon_red' (res type=15, index=014a1a, page=0).
+18:08:WARNING:(itens_armaduras.scp,2664)Redefinition of resource with DEFNAME='i_pescoco_dragon_red' (res type=15, index=014a2f, page=0).
+18:08:WARNING:(itens_armaduras.scp,2693)Redefinition of resource with DEFNAME='i_cabeca_dragon_az' (res type=15, index=0149e0, page=0).
+18:08:WARNING:(itens_armaduras.scp,2722)Redefinition of resource with DEFNAME='i_braco_dragon_az' (res type=15, index=0149b8, page=0).
+18:08:WARNING:(itens_armaduras.scp,2751)Redefinition of resource with DEFNAME='i_luva_dragon_az' (res type=15, index=0149f4, page=0).
+18:08:WARNING:(itens_armaduras.scp,2780)Redefinition of resource with DEFNAME='i_peito_dragon_az' (res type=15, index=0149cc, page=0).
+18:08:WARNING:(itens_armaduras.scp,2809)Redefinition of resource with DEFNAME='i_perna_dragon_az' (res type=15, index=014a08, page=0).
+18:08:WARNING:(itens_armaduras.scp,2838)Redefinition of resource with DEFNAME='i_pescoco_dragon_az' (res type=15, index=014a1d, page=0).
+18:08:WARNING:(itens_armaduras.scp,2867)Redefinition of resource with DEFNAME='i_cabeca_dragon_br' (res type=15, index=0149e2, page=0).
+18:08:WARNING:(itens_armaduras.scp,2896)Redefinition of resource with DEFNAME='i_braco_dragon_br' (res type=15, index=0149ba, page=0).
+18:08:WARNING:(itens_armaduras.scp,2925)Redefinition of resource with DEFNAME='i_luva_dragon_br' (res type=15, index=0149f6, page=0).
+18:08:WARNING:(itens_armaduras.scp,2954)Redefinition of resource with DEFNAME='i_peito_dragon_br' (res type=15, index=0149ce, page=0).
+18:08:WARNING:(itens_armaduras.scp,2983)Redefinition of resource with DEFNAME='i_perna_dragon_br' (res type=15, index=014a0a, page=0).
+18:08:WARNING:(itens_armaduras.scp,3012)Redefinition of resource with DEFNAME='i_pescoco_dragon_br' (res type=15, index=014a1f, page=0).
+18:08:WARNING:(itens_armaduras.scp,3041)Redefinition of resource with DEFNAME='i_cabeca_dragon_pr' (res type=15, index=0149ec, page=0).
+18:08:WARNING:(itens_armaduras.scp,3070)Redefinition of resource with DEFNAME='i_braco_dragon_pr' (res type=15, index=0149c4, page=0).
+18:08:WARNING:(itens_armaduras.scp,3099)Redefinition of resource with DEFNAME='i_luva_dragon_pr' (res type=15, index=014a00, page=0).
+18:08:WARNING:(itens_armaduras.scp,3128)Redefinition of resource with DEFNAME='i_peito_dragon_pr' (res type=15, index=0149d8, page=0).
+18:08:WARNING:(itens_armaduras.scp,3157)Redefinition of resource with DEFNAME='i_perna_dragon_pr' (res type=15, index=014a14, page=0).
+18:08:WARNING:(itens_armaduras.scp,3186)Redefinition of resource with DEFNAME='i_pescoco_dragon_pr' (res type=15, index=014a29, page=0).
+18:08:WARNING:(itens_armaduras.scp,3215)Redefinition of resource with DEFNAME='i_cabeca_dragon_dourado' (res type=15, index=0149e8, page=0).
+18:08:WARNING:(itens_armaduras.scp,3245)Redefinition of resource with DEFNAME='i_braco_dragon_dourado' (res type=15, index=0149c0, page=0).
+18:08:WARNING:(itens_armaduras.scp,3275)Redefinition of resource with DEFNAME='i_luva_dragon_dourado' (res type=15, index=0149fc, page=0).
+18:08:WARNING:(itens_armaduras.scp,3305)Redefinition of resource with DEFNAME='i_peito_dragon_dourado' (res type=15, index=0149d4, page=0).
+18:08:WARNING:(itens_armaduras.scp,3335)Redefinition of resource with DEFNAME='i_perna_dragon_dourado' (res type=15, index=014a10, page=0).
+18:08:WARNING:(itens_armaduras.scp,3365)Redefinition of resource with DEFNAME='i_pescoco_dragon_dourado' (res type=15, index=014a25, page=0).
+18:08:WARNING:(itens_armaduras.scp,3395)Redefinition of resource with DEFNAME='i_cabeca_dragon_prateado' (res type=15, index=0149ee, page=0).
+18:08:WARNING:(itens_armaduras.scp,3425)Redefinition of resource with DEFNAME='i_braco_dragon_prateado' (res type=15, index=0149c6, page=0).
+18:08:WARNING:(itens_armaduras.scp,3455)Redefinition of resource with DEFNAME='i_luva_dragon_prateado' (res type=15, index=014a02, page=0).
+18:08:WARNING:(itens_armaduras.scp,3485)Redefinition of resource with DEFNAME='i_peito_dragon_prateado' (res type=15, index=0149da, page=0).
+18:08:WARNING:(itens_armaduras.scp,3515)Redefinition of resource with DEFNAME='i_perna_dragon_prateado' (res type=15, index=014a16, page=0).
+18:08:WARNING:(itens_armaduras.scp,3545)Redefinition of resource with DEFNAME='i_pescoco_dragon_prateado' (res type=15, index=014a2b, page=0).
+18:08:WARNING:(itens_armaduras.scp,3575)Redefinition of resource with DEFNAME='i_cabeca_dragon_bronze' (res type=15, index=0149e4, page=0).
+18:08:WARNING:(itens_armaduras.scp,3605)Redefinition of resource with DEFNAME='i_braco_dragon_bronze' (res type=15, index=0149bc, page=0).
+18:08:WARNING:(itens_armaduras.scp,3635)Redefinition of resource with DEFNAME='i_luva_dragon_bronze' (res type=15, index=0149f8, page=0).
+18:08:WARNING:(itens_armaduras.scp,3665)Redefinition of resource with DEFNAME='i_peito_dragon_bronze' (res type=15, index=0149d0, page=0).
+18:08:WARNING:(itens_armaduras.scp,3695)Redefinition of resource with DEFNAME='i_perna_dragon_bronze' (res type=15, index=014a0c, page=0).
+18:08:WARNING:(itens_armaduras.scp,3725)Redefinition of resource with DEFNAME='i_pescoco_dragon_bronze' (res type=15, index=014a21, page=0).
+18:08:WARNING:(itens_armaduras.scp,3755)Redefinition of resource with DEFNAME='i_cabeca_dragon_ferro' (res type=15, index=0149ea, page=0).
+18:08:WARNING:(itens_armaduras.scp,3785)Redefinition of resource with DEFNAME='i_braco_dragon_ferro' (res type=15, index=0149c2, page=0).
+18:08:WARNING:(itens_armaduras.scp,3815)Redefinition of resource with DEFNAME='i_luva_dragon_ferro' (res type=15, index=0149fe, page=0).
+18:08:WARNING:(itens_armaduras.scp,3845)Redefinition of resource with DEFNAME='i_peito_dragon_ferro' (res type=15, index=0149d6, page=0).
+18:08:WARNING:(itens_armaduras.scp,3875)Redefinition of resource with DEFNAME='i_perna_dragon_ferro' (res type=15, index=014a12, page=0).
+18:08:WARNING:(itens_armaduras.scp,3905)Redefinition of resource with DEFNAME='i_pescoco_dragon_ferro' (res type=15, index=014a27, page=0).
+18:08:WARNING:(itens_armaduras.scp,3935)Redefinition of resource with DEFNAME='i_cabeca_dragon_cobre' (res type=15, index=0149e6, page=0).
+18:08:WARNING:(itens_armaduras.scp,3965)Redefinition of resource with DEFNAME='i_braco_dragon_cobre' (res type=15, index=0149be, page=0).
+18:08:WARNING:(itens_armaduras.scp,3995)Redefinition of resource with DEFNAME='i_luva_dragon_cobre' (res type=15, index=0149fa, page=0).
+18:08:WARNING:(itens_armaduras.scp,4025)Redefinition of resource with DEFNAME='i_peito_dragon_cobre' (res type=15, index=0149d2, page=0).
+18:08:WARNING:(itens_armaduras.scp,4055)Redefinition of resource with DEFNAME='i_perna_dragon_cobre' (res type=15, index=014a0e, page=0).
+18:08:WARNING:(itens_armaduras.scp,4085)Redefinition of resource with DEFNAME='i_pescoco_dragon_cobre' (res type=15, index=014a23, page=0).
+18:08:Loading scripts/myt/itens_armas.scp
+18:08:Loading scripts/myt/itens_armas_armaduras_magicas.scp
+18:08:Loading scripts/myt/itens_carpentry.scp
+18:08:Loading scripts/myt/itens_clickloc.scp
+18:08:Loading scripts/myt/itens_furniture.scp
+18:08:Loading scripts/myt/itens_jewelry.scp
+18:08:Loading scripts/myt/itens_potions.scp
+18:08:Loading scripts/myt/itens_projetos.scp
+18:08:Loading scripts/myt/itens_quests.scp
+18:08:Loading scripts/myt/itens_tailor.scp
+18:08:Loading scripts/myt/npcs.scp
+18:08:Loading scripts/myt/npcs_humanoides.scp
+18:08:Loading scripts/myt/npcs_summons_e_polys.scp
+18:08:Loading scripts/myt/points.scp
+18:08:Loading scripts/myt/quests_custom.scp
+18:08:Loading scripts/myt/sistema_de_abordar.scp
+18:08:Loading scripts/myt/sistema_de_acoes.scp
+18:08:Loading scripts/myt/sistema_de_aluguel.scp
+18:08:Loading scripts/myt/sistema_de_anti_rp.scp
+18:08:Loading scripts/myt/sistema_de_arco_e_flecha.scp
+18:08:Loading scripts/myt/sistema_de_armadilha.scp
+18:08:Loading scripts/myt/sistema_de_armaduras.scp
+18:08:Loading scripts/myt/sistema_de_banco.scp
+18:08:Loading scripts/myt/sistema_de_broadcast_staff.scp
+18:08:Loading scripts/myt/sistema_de_cabelo_e_barba.scp
+18:08:Loading scripts/myt/sistema_de_caldeirao.scp
+18:08:Loading scripts/myt/sistema_de_calimentar.scp
+18:08:Loading scripts/myt/sistema_de_carvao.scp
+18:08:Loading scripts/myt/sistema_de_chaveiro.scp
+18:08:Loading scripts/myt/sistema_de_churrasco.scp
+18:08:Loading scripts/myt/sistema_de_cidades.scp
+18:08:Loading scripts/myt/sistema_de_combate.scp
+18:08:Loading scripts/myt/sistema_de_couro.scp
+18:08:Loading scripts/myt/sistema_de_crafting.scp
+18:08:Loading scripts/myt/sistema_de_craftmenu.scp
+18:08:Loading scripts/myt/sistema_de_criacao_de_classes.scp
+18:08:Loading scripts/myt/sistema_de_criacao_pc.scp
+18:08:Loading scripts/myt/sistema_de_custom_house.scp
+18:08:Loading scripts/myt/sistema_de_dressing_staff.scp
+18:08:Loading scripts/myt/sistema_de_email.scp
+18:08:Loading scripts/myt/sistema_de_encantamentos.scp
+18:08:Loading scripts/myt/sistema_de_eventos.scp
+18:08:Loading scripts/myt/sistema_de_facas_especiais.scp
+18:08:Loading scripts/myt/sistema_de_fe.scp
+18:08:Loading scripts/myt/sistema_de_ficha.scp
+18:08:Loading scripts/myt/sistema_de_formulario.scp
+18:08:Loading scripts/myt/sistema_de_fumo.scp
+18:08:Loading scripts/myt/sistema_de_furniture.scp
+18:08:Loading scripts/myt/sistema_de_guardas.scp
+18:08:Loading scripts/myt/sistema_de_infos.scp
+18:08:Loading scripts/myt/sistema_de_listas.scp
+18:08:Loading scripts/myt/sistema_de_magias.scp
+18:08:Loading scripts/myt/sistema_de_morte.scp
+18:08:Loading scripts/myt/sistema_de_news.scp
+18:08:Loading scripts/myt/sistema_de_patch.scp
+18:08:Loading scripts/myt/sistema_de_plantacao.scp
+18:08:Loading scripts/myt/sistema_de_playerlinger.scp
+18:08:Loading scripts/myt/sistema_de_portos.scp
+18:08:Loading scripts/myt/sistema_de_precos.scp
+18:08:Loading scripts/myt/sistema_de_quests.scp
+18:08:Loading scripts/myt/sistema_de_receitas.scp
+18:08:Loading scripts/myt/sistema_de_recipientes.scp
+18:08:Loading scripts/myt/sistema_de_reconhecimento.scp
+18:08:Loading scripts/myt/sistema_de_tempo.scp
+18:08:Loading scripts/myt/sistema_de_tesouros.scp
+18:08:Loading scripts/myt/sistema_de_throw.scp
+18:08:Loading scripts/myt/sistema_de_vendas.scp
+18:08:Loading scripts/myt/skills.scp
+18:08:Loading scripts/myt/skill_alchemy.scp
+18:08:Loading scripts/myt/skill_anatomy.scp
+18:08:Loading scripts/myt/skill_animal_lore.scp
+18:08:Loading scripts/myt/skill_armslore.scp
+18:08:Loading scripts/myt/skill_blacksmith.scp
+18:08:Loading scripts/myt/skill_camping.scp
+18:08:Loading scripts/myt/skill_carpentry.scp
+18:08:Loading scripts/myt/skill_cooking.scp
+18:08:Loading scripts/myt/skill_detectinghidden.scp
+18:08:Loading scripts/myt/skill_evalint.scp
+18:08:Loading scripts/myt/skill_fishing.scp
+18:08:Loading scripts/myt/skill_healing.scp
+18:08:Loading scripts/myt/skill_herding.scp
+18:08:Loading scripts/myt/skill_hiding.scp
+18:08:Loading scripts/myt/skill_inscription.scp
+18:08:Loading scripts/myt/skill_itemid.scp
+18:08:Loading scripts/myt/skill_lockpicking.scp
+18:08:Loading scripts/myt/skill_magicresist.scp
+18:08:Loading scripts/myt/skill_meditation.scp
+18:08:Loading scripts/myt/skill_mining.scp
+18:08:Loading scripts/myt/skill_musicianship.scp
+18:08:Loading scripts/myt/skill_poisoning.scp
+18:08:Loading scripts/myt/skill_removetrap.scp
+18:08:Loading scripts/myt/skill_snooping.scp
+18:08:Loading scripts/myt/skill_tailoring.scp
+18:08:Loading scripts/myt/skill_taming.scp
+18:08:Loading scripts/myt/skill_tasteid.scp
+18:08:Loading scripts/myt/skill_tinkering.scp
+18:08:Loading scripts/myt/skill_tracking.scp
+18:08:Loading scripts/myt/spells_cantrips.scp
+18:08:Loading scripts/myt/spells_focus.scp
+18:08:Loading scripts/myt/spells_magery.scp
+18:08:Loading scripts/myt/spells_necromancy.scp
+18:08:Loading scripts/myt/spells_speech.scp
+18:08:Loading scripts/myt/spells_spellweaving.scp
+18:08:Loading scripts/myt/teleporters.scp
+18:08:Loading scripts/myt/teleporters_data.scp
+18:08:Loading scripts/myt/special/region.scp
+18:08:WARNING:(region.scp,9)Redefinition of resource with DEFNAME='mr_nothing' (res type=25, index=027d3, page=0).
+18:08:WARNING:(region.scp,31)Redefinition of resource with DEFNAME='mr_fish1' (res type=25, index=02aee, page=0).
+18:08:WARNING:(region.scp,39)Redefinition of resource with DEFNAME='mr_fish2' (res type=25, index=0278e, page=0).
+18:08:WARNING:(region.scp,47)Redefinition of resource with DEFNAME='mr_fish3' (res type=25, index=02713, page=0).
+18:08:WARNING:(region.scp,55)Redefinition of resource with DEFNAME='mr_fish4' (res type=25, index=028d8, page=0).
+18:08:WARNING:(region.scp,145)Redefinition of resource with DEFNAME='r_default_water' (res type=26, index=040d, page=30).
+18:08:WARNING:(region.scp,181)Redefinition of resource with DEFNAME='mr_tree' (res type=25, index=028ff, page=0).
+18:08:WARNING:(region.scp,237)Redefinition of resource with DEFNAME='r_default_tree' (res type=26, index=0406, page=44).
+18:08:WARNING:(region.scp,342)Redefinition of resource with DEFNAME='mr_copper' (res type=25, index=0280c, page=0).
+18:08:WARNING:(region.scp,348)Redefinition of resource with DEFNAME='mr_bronze' (res type=25, index=028a1, page=0).
+18:08:WARNING:(region.scp,408)Redefinition of resource with DEFNAME='mr_citrine' (res type=25, index=0274d, page=0).
+18:08:WARNING:(region.scp,414)Redefinition of resource with DEFNAME='mr_tourmaline' (res type=25, index=02ae4, page=0).
+18:08:WARNING:(region.scp,426)Redefinition of resource with DEFNAME='mr_amethyst' (res type=25, index=027f5, page=0).
+18:08:WARNING:(region.scp,432)Redefinition of resource with DEFNAME='mr_emerald' (res type=25, index=02925, page=0).
+18:08:WARNING:(region.scp,438)Redefinition of resource with DEFNAME='mr_ruby' (res type=25, index=028aa, page=0).
+18:08:Loading scripts/myt/special/mapa.scp
+18:08:Loading scripts/sphere_add_sqlite.scp
+18:08:Loading scripts/sphere_combat.scp
+18:08:Loading scripts/sphere_msgs.scp
+18:08:Loading scripts/sphere_template_armor.scp
+18:08:Loading scripts/sphere_template_magic.scp
+18:08:Loading scripts/sphere_template_sets.scp
+18:08:Loading scripts/sphere_template_weapons.scp
+18:08:Done loading scripts (103 of 224 triggers used).
+18:08:
+18:08:Loaded 277 client encryption keys.
+18:08:Server started on hostname 'Alex-PC'
+18:08:Monitoring IP 192.168.1.104:2593
+18:08:Loading save/spheredata.scp...
+18:08:Loading save/spherestatics.scp...
+18:08:Loading save/sphereworld.scp...
+18:08:Loading save/spherechars.scp...
+18:08:Loading save/spheremultis.scp...
+18:08:Garbage Collection: started.
+18:08:Garbage Collection: done. 41 Objects accounted for.
+18:08:Option flags: CommandSysmessages + OSIMultiSight + FileCommands + NoHouseMuteSpeech + FloodProtection + NoPrefix + DrinkIsFood
+18:08:Experimental flags: NoDiagonalCheckLOS
+18:08:Admin=me@my.email.com, URL=www.myshard.com, Lang=English, TZ=0
+18:08:Startup complete. items=38, chars=3
+18:08:Press '?' for console commands.
+18:10:FATAL:Server terminated: Console window closed (code 5)
+18:13:SphereServer Version X1-Nightly [Windows-64] by www.spherecommunity.net.
+18:13:Compiled at Oct 19 2021 (10:31:45) [build 3473 / GIT hash f24687c5330f8fbf7b7ae9f626447fc91e280d77]
+
+18:13:WARNING:
+-----------------------------------------------------------------
+This is a nightly build of SphereServer. This build is to be used for testing and/or bug reporting ONLY.
+DO NOT run this build on a live shard unless you know what you are doing!
+Nightly builds are automatically made at every commit to the source code repository and might
+contain errors, might be unstable or even destroy your shard as they are mostly untested!
+-----------------------------------------------------------------
+
+18:13:
+Indexing the client files...
+18:13:Expansion maps supported: Felucca (0), Trammel (1), Ilshenar (2), Malas (3), Tokuno Islands (4)
+18:13:Caching tiledata.mul...
+
+18:13:Initializing the world...
+18:13:Allocated map sectors: map0=7168 map1=7168 map2=900 map3=1280 map4=529
+
+18:13:Indexing 297 script files...
+18:13:Loading scripts/sphere_admin.scp
+18:13:Loading scripts/sphere_backward_compatibility.scp
+18:13:Loading scripts/sphere_book.scp
+18:13:Loading scripts/sphere_defs.scp
+18:13:Loading scripts/sphere_dialog.scp
+18:13:Loading scripts/sphere_events_human.scp
+18:13:Loading scripts/sphere_events_npcs.scp
+18:13:Loading scripts/sphere_menu.scp
+18:13:Loading scripts/sphere_name.scp
+18:13:Loading scripts/sphere_serv_triggers.scp
+18:13:Loading scripts/sphere_skills.scp
+18:13:Loading scripts/sphere_skillmenu.scp
+18:13:Loading scripts/sphere_newb.scp
+18:13:Loading scripts/sphere_speech.scp
+18:13:Loading scripts/sphere_types.scp
+18:13:Loading scripts/items/sphere_item_animations.scp
+18:13:Loading scripts/items/sphere_item_artifacts.scp
+18:13:Loading scripts/items/sphere_item_artifacts_minor.scp
+18:13:Loading scripts/items/sphere_item_artifacts_tokuno.scp
+18:13:Loading scripts/items/sphere_item_boulders_rocks.scp
+18:13:Loading scripts/items/sphere_item_buildings.scp
+18:13:Loading scripts/items/sphere_item_building_doors.scp
+18:13:Loading scripts/items/sphere_item_building_floors.scp
+18:13:Loading scripts/items/sphere_item_building_other.scp
+18:13:Loading scripts/items/sphere_item_building_roofs.scp
+18:13:Loading scripts/items/sphere_item_building_stairs.scp
+18:13:Loading scripts/items/sphere_item_building_walls.scp
+18:13:Loading scripts/items/sphere_item_char_icons.scp
+18:13:Loading scripts/items/sphere_item_deco_carpet_rugs.scp
+18:13:Loading scripts/items/sphere_item_deco_carvings_statues.scp
+18:13:Loading scripts/items/sphere_item_deco_dungeons_traps_dead.scp
+18:13:Loading scripts/items/sphere_item_deco_fireplace_chimney_oven.scp
+18:13:Loading scripts/items/sphere_item_deco_furniture.scp
+18:13:Loading scripts/items/sphere_item_deco_lightsources.scp
+18:13:Loading scripts/items/sphere_item_deco_miniatures.scp
+18:13:Loading scripts/items/sphere_item_deco_signs.scp
+18:13:Loading scripts/items/sphere_item_deco_themed_collections.scp
+18:13:Loading scripts/items/sphere_item_deco_virtues.scp
+18:13:Loading scripts/items/sphere_item_deco_wall_hangings.scp
+18:13:Loading scripts/items/sphere_item_ground_tiles.scp
+18:13:Loading scripts/items/sphere_item_holiday_anniversary.scp
+18:13:Loading scripts/items/sphere_item_holiday_christmas.scp
+18:13:Loading scripts/items/sphere_item_holiday_easter.scp
+18:13:Loading scripts/items/sphere_item_holiday_halloween.scp
+18:13:Loading scripts/items/sphere_item_holiday_thanksgiving.scp
+18:13:Loading scripts/items/sphere_item_holiday_valentines.scp
+18:13:Loading scripts/items/sphere_item_magic_armor.scp
+18:13:Loading scripts/items/sphere_item_magic_chivalry.scp
+18:13:Loading scripts/items/sphere_item_magic_jewelry.scp
+18:13:Loading scripts/items/sphere_item_magic_leather.scp
+18:13:Loading scripts/items/sphere_item_magic_magery.scp
+18:13:Loading scripts/items/sphere_item_magic_mysticism.scp
+18:13:Loading scripts/items/sphere_item_magic_necromancer_aos.scp
+18:13:Loading scripts/items/sphere_item_magic_ninjitsu_bushido.scp
+18:13:Loading scripts/items/sphere_item_magic_skillmasteries.scp
+18:13:Loading scripts/items/sphere_item_magic_spellweaving.scp
+18:13:Loading scripts/items/sphere_item_magic_wands.scp
+18:13:Loading scripts/items/sphere_item_magic_weapon.scp
+18:13:Loading scripts/items/sphere_item_memories.scp
+18:13:Loading scripts/items/sphere_item_misc.scp
+18:13:Loading scripts/items/sphere_item_offset.scp
+18:13:Loading scripts/items/sphere_item_profession.scp
+18:13:Loading scripts/items/sphere_item_profession_alchemist.scp
+18:13:Loading scripts/items/sphere_item_profession_barber.scp
+18:13:Loading scripts/items/sphere_item_profession_cartographer.scp
+18:13:Loading scripts/items/sphere_item_profession_cook_barkeep_baker.scp
+18:13:Loading scripts/items/sphere_item_profession_tailor_tanner.scp
+18:13:Loading scripts/items/sphere_item_provisions_armor.scp
+18:13:Loading scripts/items/sphere_item_provisions_armor_color.scp
+18:13:Loading scripts/items/sphere_item_provisions_clothing.scp
+18:13:Loading scripts/items/sphere_item_provisions_deed.scp
+18:13:Loading scripts/items/sphere_item_provisions_jewelry.scp
+18:13:Loading scripts/items/sphere_item_provisions_logs.scp
+18:13:Loading scripts/items/sphere_item_provisions_misc.scp
+18:13:Loading scripts/items/sphere_item_provisions_ore.scp
+18:13:Loading scripts/items/sphere_item_provisions_potions.scp
+18:13:Loading scripts/items/sphere_item_provisions_shields.scp
+18:13:Loading scripts/items/sphere_item_provisions_weapons.scp
+18:13:Loading scripts/items/sphere_item_quests.scp
+18:13:Loading scripts/items/sphere_item_resources.scp
+18:13:Loading scripts/items/sphere_item_ship_parts.scp
+18:13:Loading scripts/items/sphere_item_ship_parts_britannian.scp
+18:13:Loading scripts/items/sphere_item_ship_parts_gargish.scp
+18:13:Loading scripts/items/sphere_item_ship_parts_orcish.scp
+18:13:Loading scripts/items/sphere_item_ship_parts_tokuno.scp
+18:13:Loading scripts/items/sphere_item_siege.scp
+18:13:Loading scripts/items/sphere_item_theme_pack_crystal.scp
+18:13:Loading scripts/items/sphere_item_theme_pack_gothic.scp
+18:13:Loading scripts/items/sphere_item_theme_pack_kings_collection.scp
+18:13:Loading scripts/items/sphere_item_theme_pack_rustic.scp
+18:13:Loading scripts/items/sphere_item_theme_pack_shadow.scp
+18:13:Loading scripts/items/sphere_item_typedefs.scp
+18:13:Loading scripts/items/sphere_item_typedef_equipitem.scp
+18:13:Loading scripts/items/sphere_item_unsorted.scp
+18:13:Loading scripts/items/sphere_item_vegetation.scp
+18:13:Loading scripts/items/sphere_item_veteran_rewards.scp
+18:13:Loading scripts/items/sphere_item_vice_virtue.scp
+18:13:Loading scripts/items/sphere_item_wedding.scp
+18:13:Loading scripts/items/multis/multis_foundations.scp
+18:13:Loading scripts/items/multis/multis_houses.scp
+18:13:Loading scripts/items/multis/multis_magincia_bazaar.scp
+18:13:Loading scripts/items/multis/multis_misc.scp
+18:13:Loading scripts/items/multis/multis_ships.scp
+18:13:Loading scripts/items/multis/multis_stairs.scp
+18:13:Loading scripts/items/multis/multis_wandering_camps.scp
+18:13:Loading scripts/stones/sphere_genericstone_config.scp
+18:13:Loading scripts/stones/sphere_genericstone_functions.scp
+18:13:Loading scripts/stones/sphere_genericstone_items.scp
+18:13:Loading scripts/stones/sphere_genericstone_types.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_config.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_dlg_align.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_dlg_charlist.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_dlg_charter.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_dlg_guildlist.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_dlg_main.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_dlg_master.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_dlg_warfareadmin.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_dlg_warfaredeclare.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_dlg_warfarestatus.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_events.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_functions.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_functions_player.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_items.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_promptconsole.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_speech.scp
+18:13:Loading scripts/stones/guilds/sphere_guild_types.scp
+18:13:Loading scripts/stones/towns/sphere_town_config.scp
+18:13:Loading scripts/stones/towns/sphere_town_dlg_align.scp
+18:13:Loading scripts/stones/towns/sphere_town_dlg_charlist.scp
+18:13:Loading scripts/stones/towns/sphere_town_dlg_charter.scp
+18:13:Loading scripts/stones/towns/sphere_town_dlg_main.scp
+18:13:Loading scripts/stones/towns/sphere_town_dlg_master.scp
+18:13:Loading scripts/stones/towns/sphere_town_dlg_townlist.scp
+18:13:Loading scripts/stones/towns/sphere_town_dlg_warfareadmin.scp
+18:13:Loading scripts/stones/towns/sphere_town_dlg_warfaredeclare.scp
+18:13:Loading scripts/stones/towns/sphere_town_dlg_warfarestatus.scp
+18:13:Loading scripts/stones/towns/sphere_town_events.scp
+18:13:Loading scripts/stones/towns/sphere_town_functions.scp
+18:13:Loading scripts/stones/towns/sphere_town_functions_player.scp
+18:13:Loading scripts/stones/towns/sphere_town_items.scp
+18:13:Loading scripts/stones/towns/sphere_town_promptconsole.scp
+18:13:Loading scripts/stones/towns/sphere_town_speech.scp
+18:13:Loading scripts/stones/towns/sphere_town_types.scp
+18:13:Loading scripts/npcs/spherechar_evil.scp
+18:13:Loading scripts/npcs/spherechar_human.scp
+18:13:Loading scripts/npcs/sphere_citizens.scp
+18:13:Loading scripts/npcs/sphere_guildmasters.scp
+18:13:Loading scripts/npcs/sphere_monsters.scp
+18:13:Loading scripts/npcs/sphere_monsters_custom.scp
+18:13:Loading scripts/npcs/sphere_vendors.scp
+18:13:Loading scripts/speech/speakhuman.scp
+18:13:Loading scripts/speech/speakorc.scp
+18:13:Loading scripts/speech/speakshopkeep.scp
+18:13:Loading scripts/speech/spk_house_cmds.scp
+18:13:Loading scripts/speech/spk_ship_cmds.scp
+18:13:Loading scripts/systems/sphere_system_aquarium.scp
+18:13:Loading scripts/systems/sphere_system_secret_chest.scp
+18:13:Loading scripts/systems/sphere_system_treasure_maps.scp
+18:13:Loading scripts/sphere_spawns.scp
+18:13:Loading scripts/sphere_spells.scp
+18:13:Loading scripts/sphere_region.scp
+18:13:ERROR:(sphere_region.scp,154)Undefined symbol 'i_ore_bronze' [Evaluated expression: 'i_ore_bronze'].
+18:13:ERROR:(sphere_region.scp,182)Undefined symbol 'i_ore_copper' [Evaluated expression: 'i_ore_copper'].
+18:13:ERROR:(sphere_region.scp,189)Undefined symbol 'i_ore_gold' [Evaluated expression: 'i_ore_gold'].
+18:13:ERROR:(sphere_region.scp,217)Undefined symbol 'i_ore_silver' [Evaluated expression: 'i_ore_silver'].
+18:13:Loading scripts/myt/administrative.scp
+18:13:Loading scripts/myt/itens.scp
+18:13:Loading scripts/myt/resources.scp
+18:13:Loading scripts/myt/sistema_de_selar_livros.scp
+18:13:Loading scripts/myt/events.scp
+18:13:Loading scripts/myt/events_npc.scp
+18:13:Loading scripts/myt/sistema_de_catalisadores.scp
+18:13:Loading scripts/myt/templates_myt.scp
+18:13:Loading scripts/myt/sistema_de_special_moves.scp
+18:13:Loading scripts/myt/itens_food.scp
+18:13:Loading scripts/sphere_template.scp
+18:13:Loading scripts/sphere_template_loot.scp
+18:13:Loading scripts/sphere_template_misc.scp
+18:13:Loading scripts/sphere_template_vend.scp
+18:13:Loading scripts/myt/spells_myt.scp
+18:13:Loading scripts/myt/craftmenu_backup.scp
+18:13:Loading scripts/myt/itemforge.scp
+18:13:Loading scripts/myt/itemforge_data.scp
+18:13:Loading scripts/myt/itemforge_data_armaduras.scp
+18:13:Loading scripts/myt/itemforge_data_armaduras_armas.scp
+18:13:Loading scripts/myt/itens_adornos_magicos.scp
+18:13:Loading scripts/myt/itens_armaduras.scp
+18:13:WARNING:(itens_armaduras.scp,179)Redefinition of resource with DEFNAME='i_peito_couro' (res type=15, index=014962, page=0).
+18:13:WARNING:(itens_armaduras.scp,207)Redefinition of resource with DEFNAME='i_braco_couro' (res type=15, index=014960, page=0).
+18:13:WARNING:(itens_armaduras.scp,235)Redefinition of resource with DEFNAME='i_perna_couro' (res type=15, index=014968, page=0).
+18:13:WARNING:(itens_armaduras.scp,263)Redefinition of resource with DEFNAME='i_pescoco_couro' (res type=15, index=01496a, page=0).
+18:13:WARNING:(itens_armaduras.scp,291)Redefinition of resource with DEFNAME='i_cabeca_couro' (res type=15, index=014964, page=0).
+18:13:WARNING:(itens_armaduras.scp,319)Redefinition of resource with DEFNAME='i_luva_couro' (res type=15, index=014966, page=0).
+18:13:WARNING:(itens_armaduras.scp,347)Redefinition of resource with DEFNAME='i_cabeca_furtiva' (res type=15, index=014984, page=0).
+18:13:WARNING:(itens_armaduras.scp,376)Redefinition of resource with DEFNAME='i_luva_furtiva' (res type=15, index=01497e, page=0).
+18:13:WARNING:(itens_armaduras.scp,405)Redefinition of resource with DEFNAME='i_peito_furtiva' (res type=15, index=01497a, page=0).
+18:13:WARNING:(itens_armaduras.scp,434)Redefinition of resource with DEFNAME='i_perna_furtiva' (res type=15, index=014980, page=0).
+18:13:WARNING:(itens_armaduras.scp,463)Redefinition of resource with DEFNAME='i_cinto_furtiva' (res type=15, index=01497c, page=0).
+18:13:WARNING:(itens_armaduras.scp,492)Redefinition of resource with DEFNAME='i_pescoco_furtiva' (res type=15, index=014982, page=0).
+18:13:WARNING:(itens_armaduras.scp,521)Redefinition of resource with DEFNAME='i_braco_furtiva' (res type=15, index=014978, page=0).
+18:13:WARNING:(itens_armaduras.scp,550)Redefinition of resource with DEFNAME='i_braco_samurai' (res type=15, index=014991, page=0).
+18:13:WARNING:(itens_armaduras.scp,578)Redefinition of resource with DEFNAME='i_peito_samurai' (res type=15, index=014993, page=0).
+18:13:WARNING:(itens_armaduras.scp,606)Redefinition of resource with DEFNAME='i_perna_samurai' (res type=15, index=014997, page=0).
+18:13:WARNING:(itens_armaduras.scp,634)Redefinition of resource with DEFNAME='i_perna_saia_samurai' (res type=15, index=01499b, page=0).
+18:13:WARNING:(itens_armaduras.scp,662)Redefinition of resource with DEFNAME='i_mao_samurai' (res type=15, index=014995, page=0).
+18:13:WARNING:(itens_armaduras.scp,691)Redefinition of resource with DEFNAME='i_pescoco_samurai' (res type=15, index=014999, page=0).
+18:13:WARNING:(itens_armaduras.scp,720)Redefinition of resource with DEFNAME='i_braco_samuraim' (res type=15, index=014985, page=0).
+18:13:WARNING:(itens_armaduras.scp,748)Redefinition of resource with DEFNAME='i_peito_samuraim' (res type=15, index=014987, page=0).
+18:13:WARNING:(itens_armaduras.scp,776)Redefinition of resource with DEFNAME='i_perna_samuraim' (res type=15, index=01498b, page=0).
+18:13:WARNING:(itens_armaduras.scp,804)Redefinition of resource with DEFNAME='i_perna_saia_samuraim' (res type=15, index=01498f, page=0).
+18:13:WARNING:(itens_armaduras.scp,832)Redefinition of resource with DEFNAME='i_mao_samuraim' (res type=15, index=014989, page=0).
+18:13:WARNING:(itens_armaduras.scp,861)Redefinition of resource with DEFNAME='i_pescoco_samuraim' (res type=15, index=01498d, page=0).
+18:13:WARNING:(itens_armaduras.scp,896)Redefinition of resource with DEFNAME='i_cabeca_osso' (res type=15, index=0149a6, page=0).
+18:13:WARNING:(itens_armaduras.scp,923)Redefinition of resource with DEFNAME='i_braco_osso' (res type=15, index=0149a2, page=0).
+18:13:WARNING:(itens_armaduras.scp,950)Redefinition of resource with DEFNAME='i_luva_osso' (res type=15, index=0149a8, page=0).
+18:13:WARNING:(itens_armaduras.scp,977)Redefinition of resource with DEFNAME='i_peito_osso' (res type=15, index=0149a4, page=0).
+18:13:WARNING:(itens_armaduras.scp,1004)Redefinition of resource with DEFNAME='i_perna_osso' (res type=15, index=0149aa, page=0).
+18:13:WARNING:(itens_armaduras.scp,1031)Redefinition of resource with DEFNAME='i_pescoco_osso' (res type=15, index=0149ac, page=0).
+18:13:WARNING:(itens_armaduras.scp,1064)Redefinition of resource with DEFNAME='i_peito_floresta' (res type=15, index=014a5f, page=0).
+18:13:WARNING:(itens_armaduras.scp,1092)Redefinition of resource with DEFNAME='i_cintura_floresta' (res type=15, index=014a61, page=0).
+18:13:WARNING:(itens_armaduras.scp,1120)Redefinition of resource with DEFNAME='i_pescoco_floresta' (res type=15, index=014a68, page=0).
+18:13:WARNING:(itens_armaduras.scp,1148)Redefinition of resource with DEFNAME='i_mao_floresta' (res type=15, index=014a64, page=0).
+18:13:WARNING:(itens_armaduras.scp,1176)Redefinition of resource with DEFNAME='i_perna_floresta' (res type=15, index=014a66, page=0).
+18:13:WARNING:(itens_armaduras.scp,1205)Redefinition of resource with DEFNAME='i_braco_floresta' (res type=15, index=014a5c, page=0).
+18:13:WARNING:(itens_armaduras.scp,1234)Redefinition of resource with DEFNAME='i_peito_floresta_f' (res type=15, index=014a63, page=0).
+18:13:WARNING:(itens_armaduras.scp,1263)Redefinition of resource with DEFNAME='i_peito_elfo' (res type=15, index=014a52, page=0).
+18:13:WARNING:(itens_armaduras.scp,1291)Redefinition of resource with DEFNAME='i_mao_elfo' (res type=15, index=014a56, page=0).
+18:13:WARNING:(itens_armaduras.scp,1319)Redefinition of resource with DEFNAME='i_pescoco_elfo' (res type=15, index=014a5a, page=0).
+18:13:WARNING:(itens_armaduras.scp,1347)Redefinition of resource with DEFNAME='i_braco_elfo' (res type=15, index=014a50, page=0).
+18:13:WARNING:(itens_armaduras.scp,1375)Redefinition of resource with DEFNAME='i_perna_elfo' (res type=15, index=014a58, page=0).
+18:13:WARNING:(itens_armaduras.scp,1403)Redefinition of resource with DEFNAME='i_peito_elfo_f' (res type=15, index=014a54, page=0).
+18:13:WARNING:(itens_armaduras.scp,1431)Redefinition of resource with DEFNAME='i_peito_pat' (res type=15, index=014a6c, page=0).
+18:13:WARNING:(itens_armaduras.scp,1459)Redefinition of resource with DEFNAME='i_mao_pat' (res type=15, index=014a6e, page=0).
+18:13:WARNING:(itens_armaduras.scp,1487)Redefinition of resource with DEFNAME='i_pescoco_pat' (res type=15, index=014a72, page=0).
+18:13:WARNING:(itens_armaduras.scp,1515)Redefinition of resource with DEFNAME='i_braco_pat' (res type=15, index=014a6a, page=0).
+18:13:WARNING:(itens_armaduras.scp,1543)Redefinition of resource with DEFNAME='i_perna_pat' (res type=15, index=014a70, page=0).
+18:13:WARNING:(itens_armaduras.scp,1571)Redefinition of resource with DEFNAME='i_perna_saia_pat' (res type=15, index=014a74, page=0).
+18:13:WARNING:(itens_armaduras.scp,1605)Redefinition of resource with DEFNAME='i_peito_arcano' (res type=15, index=014a4e, page=0).
+18:13:WARNING:(itens_armaduras.scp,1634)Redefinition of resource with DEFNAME='i_pe_arcano' (res type=15, index=014a48, page=0).
+18:13:WARNING:(itens_armaduras.scp,1663)Redefinition of resource with DEFNAME='i_mao_arcano' (res type=15, index=014a4c, page=0).
+18:13:WARNING:(itens_armaduras.scp,1692)Redefinition of resource with DEFNAME='i_capa_arcano' (res type=15, index=014a4a, page=0).
+18:13:WARNING:(itens_armaduras.scp,1727)Redefinition of resource with DEFNAME='i_perna_espinho_f' (res type=15, index=014a43, page=0).
+18:13:WARNING:(itens_armaduras.scp,1756)Redefinition of resource with DEFNAME='i_peito_amazona' (res type=15, index=014a3f, page=0).
+18:13:WARNING:(itens_armaduras.scp,1785)Redefinition of resource with DEFNAME='i_perna_couro_f' (res type=15, index=014a39, page=0).
+18:13:WARNING:(itens_armaduras.scp,1814)Redefinition of resource with DEFNAME='i_peito_courom_f' (res type=15, index=014a41, page=0).
+18:13:WARNING:(itens_armaduras.scp,1843)Redefinition of resource with DEFNAME='i_peito_couro_f' (res type=15, index=014014, page=0).
+18:13:WARNING:(itens_armaduras.scp,1872)Redefinition of resource with DEFNAME='i_perna_couro_saia' (res type=15, index=014a46, page=0).
+18:13:WARNING:(itens_armaduras.scp,1901)Redefinition of resource with DEFNAME='i_peito_couro_biquini' (res type=15, index=014a3b, page=0).
+18:13:WARNING:(itens_armaduras.scp,1930)Redefinition of resource with DEFNAME='i_peito_courom_biquini' (res type=15, index=014a3d, page=0).
+18:13:WARNING:(itens_armaduras.scp,2339)Redefinition of resource with DEFNAME='i_cabeca_dragon_ve' (res type=15, index=0149f3, page=0).
+18:13:WARNING:(itens_armaduras.scp,2369)Redefinition of resource with DEFNAME='i_braco_dragon_ve' (res type=15, index=0149cb, page=0).
+18:13:WARNING:(itens_armaduras.scp,2399)Redefinition of resource with DEFNAME='i_luva_dragon_ve' (res type=15, index=014a06, page=0).
+18:13:WARNING:(itens_armaduras.scp,2429)Redefinition of resource with DEFNAME='i_peito_dragon_ve' (res type=15, index=0149df, page=0).
+18:13:WARNING:(itens_armaduras.scp,2459)Redefinition of resource with DEFNAME='i_perna_dragon_ve' (res type=15, index=014a1a, page=0).
+18:13:WARNING:(itens_armaduras.scp,2489)Redefinition of resource with DEFNAME='i_pescoco_dragon_ve' (res type=15, index=014a2f, page=0).
+18:13:WARNING:(itens_armaduras.scp,2519)Redefinition of resource with DEFNAME='i_cabeca_dragon_red' (res type=15, index=0149f5, page=0).
+18:13:WARNING:(itens_armaduras.scp,2548)Redefinition of resource with DEFNAME='i_braco_dragon_red' (res type=15, index=0149cd, page=0).
+18:13:WARNING:(itens_armaduras.scp,2577)Redefinition of resource with DEFNAME='i_luva_dragon_red' (res type=15, index=014a08, page=0).
+18:13:WARNING:(itens_armaduras.scp,2606)Redefinition of resource with DEFNAME='i_peito_dragon_red' (res type=15, index=0149e1, page=0).
+18:13:WARNING:(itens_armaduras.scp,2635)Redefinition of resource with DEFNAME='i_perna_dragon_red' (res type=15, index=014a1c, page=0).
+18:13:WARNING:(itens_armaduras.scp,2664)Redefinition of resource with DEFNAME='i_pescoco_dragon_red' (res type=15, index=014a31, page=0).
+18:13:WARNING:(itens_armaduras.scp,2693)Redefinition of resource with DEFNAME='i_cabeca_dragon_az' (res type=15, index=0149e3, page=0).
+18:13:WARNING:(itens_armaduras.scp,2722)Redefinition of resource with DEFNAME='i_braco_dragon_az' (res type=15, index=0149bb, page=0).
+18:13:WARNING:(itens_armaduras.scp,2751)Redefinition of resource with DEFNAME='i_luva_dragon_az' (res type=15, index=0149f7, page=0).
+18:13:WARNING:(itens_armaduras.scp,2780)Redefinition of resource with DEFNAME='i_peito_dragon_az' (res type=15, index=0149cf, page=0).
+18:13:WARNING:(itens_armaduras.scp,2809)Redefinition of resource with DEFNAME='i_perna_dragon_az' (res type=15, index=014a0a, page=0).
+18:13:WARNING:(itens_armaduras.scp,2838)Redefinition of resource with DEFNAME='i_pescoco_dragon_az' (res type=15, index=014a1f, page=0).
+18:13:WARNING:(itens_armaduras.scp,2867)Redefinition of resource with DEFNAME='i_cabeca_dragon_br' (res type=15, index=0149e5, page=0).
+18:13:WARNING:(itens_armaduras.scp,2896)Redefinition of resource with DEFNAME='i_braco_dragon_br' (res type=15, index=0149bd, page=0).
+18:13:WARNING:(itens_armaduras.scp,2925)Redefinition of resource with DEFNAME='i_luva_dragon_br' (res type=15, index=0149f9, page=0).
+18:13:WARNING:(itens_armaduras.scp,2954)Redefinition of resource with DEFNAME='i_peito_dragon_br' (res type=15, index=0149d1, page=0).
+18:13:WARNING:(itens_armaduras.scp,2983)Redefinition of resource with DEFNAME='i_perna_dragon_br' (res type=15, index=014a0c, page=0).
+18:13:WARNING:(itens_armaduras.scp,3012)Redefinition of resource with DEFNAME='i_pescoco_dragon_br' (res type=15, index=014a21, page=0).
+18:13:WARNING:(itens_armaduras.scp,3041)Redefinition of resource with DEFNAME='i_cabeca_dragon_pr' (res type=15, index=0149ef, page=0).
+18:13:WARNING:(itens_armaduras.scp,3070)Redefinition of resource with DEFNAME='i_braco_dragon_pr' (res type=15, index=0149c7, page=0).
+18:13:WARNING:(itens_armaduras.scp,3099)Redefinition of resource with DEFNAME='i_luva_dragon_pr' (res type=15, index=014a03, page=0).
+18:13:WARNING:(itens_armaduras.scp,3128)Redefinition of resource with DEFNAME='i_peito_dragon_pr' (res type=15, index=0149db, page=0).
+18:13:WARNING:(itens_armaduras.scp,3157)Redefinition of resource with DEFNAME='i_perna_dragon_pr' (res type=15, index=014a16, page=0).
+18:13:WARNING:(itens_armaduras.scp,3186)Redefinition of resource with DEFNAME='i_pescoco_dragon_pr' (res type=15, index=014a2b, page=0).
+18:13:WARNING:(itens_armaduras.scp,3215)Redefinition of resource with DEFNAME='i_cabeca_dragon_dourado' (res type=15, index=0149eb, page=0).
+18:13:WARNING:(itens_armaduras.scp,3245)Redefinition of resource with DEFNAME='i_braco_dragon_dourado' (res type=15, index=0149c3, page=0).
+18:13:WARNING:(itens_armaduras.scp,3275)Redefinition of resource with DEFNAME='i_luva_dragon_dourado' (res type=15, index=0149ff, page=0).
+18:13:WARNING:(itens_armaduras.scp,3305)Redefinition of resource with DEFNAME='i_peito_dragon_dourado' (res type=15, index=0149d7, page=0).
+18:13:WARNING:(itens_armaduras.scp,3335)Redefinition of resource with DEFNAME='i_perna_dragon_dourado' (res type=15, index=014a12, page=0).
+18:13:WARNING:(itens_armaduras.scp,3365)Redefinition of resource with DEFNAME='i_pescoco_dragon_dourado' (res type=15, index=014a27, page=0).
+18:13:WARNING:(itens_armaduras.scp,3395)Redefinition of resource with DEFNAME='i_cabeca_dragon_prateado' (res type=15, index=0149f1, page=0).
+18:13:WARNING:(itens_armaduras.scp,3425)Redefinition of resource with DEFNAME='i_braco_dragon_prateado' (res type=15, index=0149c9, page=0).
+18:13:WARNING:(itens_armaduras.scp,3455)Redefinition of resource with DEFNAME='i_luva_dragon_prateado' (res type=15, index=014a04, page=0).
+18:13:WARNING:(itens_armaduras.scp,3485)Redefinition of resource with DEFNAME='i_peito_dragon_prateado' (res type=15, index=0149dd, page=0).
+18:13:WARNING:(itens_armaduras.scp,3515)Redefinition of resource with DEFNAME='i_perna_dragon_prateado' (res type=15, index=014a18, page=0).
+18:13:WARNING:(itens_armaduras.scp,3545)Redefinition of resource with DEFNAME='i_pescoco_dragon_prateado' (res type=15, index=014a2d, page=0).
+18:13:WARNING:(itens_armaduras.scp,3575)Redefinition of resource with DEFNAME='i_cabeca_dragon_bronze' (res type=15, index=0149e7, page=0).
+18:13:WARNING:(itens_armaduras.scp,3605)Redefinition of resource with DEFNAME='i_braco_dragon_bronze' (res type=15, index=0149bf, page=0).
+18:13:WARNING:(itens_armaduras.scp,3635)Redefinition of resource with DEFNAME='i_luva_dragon_bronze' (res type=15, index=0149fb, page=0).
+18:13:WARNING:(itens_armaduras.scp,3665)Redefinition of resource with DEFNAME='i_peito_dragon_bronze' (res type=15, index=0149d3, page=0).
+18:13:WARNING:(itens_armaduras.scp,3695)Redefinition of resource with DEFNAME='i_perna_dragon_bronze' (res type=15, index=014a0e, page=0).
+18:13:WARNING:(itens_armaduras.scp,3725)Redefinition of resource with DEFNAME='i_pescoco_dragon_bronze' (res type=15, index=014a23, page=0).
+18:13:WARNING:(itens_armaduras.scp,3755)Redefinition of resource with DEFNAME='i_cabeca_dragon_ferro' (res type=15, index=0149ed, page=0).
+18:13:WARNING:(itens_armaduras.scp,3785)Redefinition of resource with DEFNAME='i_braco_dragon_ferro' (res type=15, index=0149c5, page=0).
+18:13:WARNING:(itens_armaduras.scp,3815)Redefinition of resource with DEFNAME='i_luva_dragon_ferro' (res type=15, index=014a01, page=0).
+18:13:WARNING:(itens_armaduras.scp,3845)Redefinition of resource with DEFNAME='i_peito_dragon_ferro' (res type=15, index=0149d9, page=0).
+18:13:WARNING:(itens_armaduras.scp,3875)Redefinition of resource with DEFNAME='i_perna_dragon_ferro' (res type=15, index=014a14, page=0).
+18:13:WARNING:(itens_armaduras.scp,3905)Redefinition of resource with DEFNAME='i_pescoco_dragon_ferro' (res type=15, index=014a29, page=0).
+18:13:WARNING:(itens_armaduras.scp,3935)Redefinition of resource with DEFNAME='i_cabeca_dragon_cobre' (res type=15, index=0149e9, page=0).
+18:13:WARNING:(itens_armaduras.scp,3965)Redefinition of resource with DEFNAME='i_braco_dragon_cobre' (res type=15, index=0149c1, page=0).
+18:13:WARNING:(itens_armaduras.scp,3995)Redefinition of resource with DEFNAME='i_luva_dragon_cobre' (res type=15, index=0149fd, page=0).
+18:13:WARNING:(itens_armaduras.scp,4025)Redefinition of resource with DEFNAME='i_peito_dragon_cobre' (res type=15, index=0149d5, page=0).
+18:13:WARNING:(itens_armaduras.scp,4055)Redefinition of resource with DEFNAME='i_perna_dragon_cobre' (res type=15, index=014a10, page=0).
+18:13:WARNING:(itens_armaduras.scp,4085)Redefinition of resource with DEFNAME='i_pescoco_dragon_cobre' (res type=15, index=014a25, page=0).
+18:13:Loading scripts/myt/itens_armas.scp
+18:13:Loading scripts/myt/itens_armas_armaduras_magicas.scp
+18:13:Loading scripts/myt/itens_carpentry.scp
+18:13:Loading scripts/myt/itens_clickloc.scp
+18:13:Loading scripts/myt/itens_furniture.scp
+18:13:Loading scripts/myt/itens_jewelry.scp
+18:13:Loading scripts/myt/itens_potions.scp
+18:13:Loading scripts/myt/itens_projetos.scp
+18:13:Loading scripts/myt/itens_quests.scp
+18:13:Loading scripts/myt/itens_tailor.scp
+18:13:Loading scripts/myt/npcs.scp
+18:13:Loading scripts/myt/npcs_humanoides.scp
+18:13:Loading scripts/myt/npcs_summons_e_polys.scp
+18:13:Loading scripts/myt/points.scp
+18:13:Loading scripts/myt/quests_custom.scp
+18:13:Loading scripts/myt/sistema_de_abordar.scp
+18:13:Loading scripts/myt/sistema_de_acoes.scp
+18:13:Loading scripts/myt/sistema_de_aluguel.scp
+18:13:Loading scripts/myt/sistema_de_anti_rp.scp
+18:13:Loading scripts/myt/sistema_de_arco_e_flecha.scp
+18:13:Loading scripts/myt/sistema_de_armadilha.scp
+18:13:Loading scripts/myt/sistema_de_armaduras.scp
+18:13:Loading scripts/myt/sistema_de_banco.scp
+18:13:Loading scripts/myt/sistema_de_broadcast_staff.scp
+18:13:Loading scripts/myt/sistema_de_cabelo_e_barba.scp
+18:13:Loading scripts/myt/sistema_de_caldeirao.scp
+18:13:Loading scripts/myt/sistema_de_calimentar.scp
+18:13:Loading scripts/myt/sistema_de_carvao.scp
+18:13:Loading scripts/myt/sistema_de_chaveiro.scp
+18:13:Loading scripts/myt/sistema_de_churrasco.scp
+18:13:Loading scripts/myt/sistema_de_cidades.scp
+18:13:Loading scripts/myt/sistema_de_combate.scp
+18:13:Loading scripts/myt/sistema_de_couro.scp
+18:13:Loading scripts/myt/sistema_de_crafting.scp
+18:13:Loading scripts/myt/sistema_de_craftmenu.scp
+18:13:Loading scripts/myt/sistema_de_criacao_de_classes.scp
+18:13:Loading scripts/myt/sistema_de_criacao_pc.scp
+18:13:Loading scripts/myt/sistema_de_custom_house.scp
+18:13:Loading scripts/myt/sistema_de_dressing_staff.scp
+18:13:Loading scripts/myt/sistema_de_email.scp
+18:13:Loading scripts/myt/sistema_de_encantamentos.scp
+18:13:Loading scripts/myt/sistema_de_eventos.scp
+18:13:Loading scripts/myt/sistema_de_facas_especiais.scp
+18:13:Loading scripts/myt/sistema_de_fe.scp
+18:13:Loading scripts/myt/sistema_de_ficha.scp
+18:13:Loading scripts/myt/sistema_de_formulario.scp
+18:13:Loading scripts/myt/sistema_de_fumo.scp
+18:13:Loading scripts/myt/sistema_de_furniture.scp
+18:13:Loading scripts/myt/sistema_de_guardas.scp
+18:13:Loading scripts/myt/sistema_de_infos.scp
+18:13:Loading scripts/myt/sistema_de_listas.scp
+18:13:Loading scripts/myt/sistema_de_magias.scp
+18:13:Loading scripts/myt/sistema_de_morte.scp
+18:13:Loading scripts/myt/sistema_de_news.scp
+18:13:Loading scripts/myt/sistema_de_patch.scp
+18:13:Loading scripts/myt/sistema_de_plantacao.scp
+18:13:Loading scripts/myt/sistema_de_playerlinger.scp
+18:13:Loading scripts/myt/sistema_de_portos.scp
+18:13:Loading scripts/myt/sistema_de_precos.scp
+18:13:Loading scripts/myt/sistema_de_quests.scp
+18:13:Loading scripts/myt/sistema_de_receitas.scp
+18:13:Loading scripts/myt/sistema_de_recipientes.scp
+18:13:Loading scripts/myt/sistema_de_reconhecimento.scp
+18:13:Loading scripts/myt/sistema_de_tempo.scp
+18:13:Loading scripts/myt/sistema_de_tesouros.scp
+18:13:Loading scripts/myt/sistema_de_throw.scp
+18:13:Loading scripts/myt/sistema_de_vendas.scp
+18:13:Loading scripts/myt/skills.scp
+18:13:Loading scripts/myt/skill_alchemy.scp
+18:13:Loading scripts/myt/skill_anatomy.scp
+18:13:Loading scripts/myt/skill_animal_lore.scp
+18:13:Loading scripts/myt/skill_armslore.scp
+18:13:Loading scripts/myt/skill_blacksmith.scp
+18:13:Loading scripts/myt/skill_camping.scp
+18:13:Loading scripts/myt/skill_carpentry.scp
+18:13:Loading scripts/myt/skill_cooking.scp
+18:13:Loading scripts/myt/skill_detectinghidden.scp
+18:13:Loading scripts/myt/skill_evalint.scp
+18:13:Loading scripts/myt/skill_fishing.scp
+18:13:Loading scripts/myt/skill_healing.scp
+18:13:Loading scripts/myt/skill_herding.scp
+18:13:Loading scripts/myt/skill_hiding.scp
+18:13:Loading scripts/myt/skill_inscription.scp
+18:13:Loading scripts/myt/skill_itemid.scp
+18:13:Loading scripts/myt/skill_lockpicking.scp
+18:13:Loading scripts/myt/skill_magicresist.scp
+18:13:Loading scripts/myt/skill_meditation.scp
+18:13:Loading scripts/myt/skill_mining.scp
+18:13:Loading scripts/myt/skill_musicianship.scp
+18:13:Loading scripts/myt/skill_poisoning.scp
+18:13:Loading scripts/myt/skill_removetrap.scp
+18:13:Loading scripts/myt/skill_snooping.scp
+18:13:Loading scripts/myt/skill_tailoring.scp
+18:13:Loading scripts/myt/skill_taming.scp
+18:13:Loading scripts/myt/skill_tasteid.scp
+18:13:Loading scripts/myt/skill_tinkering.scp
+18:13:Loading scripts/myt/skill_tracking.scp
+18:13:Loading scripts/myt/spells_cantrips.scp
+18:13:Loading scripts/myt/spells_focus.scp
+18:13:Loading scripts/myt/spells_magery.scp
+18:13:Loading scripts/myt/spells_necromancy.scp
+18:13:Loading scripts/myt/spells_speech.scp
+18:13:Loading scripts/myt/spells_spellweaving.scp
+18:13:Loading scripts/myt/teleporters.scp
+18:13:Loading scripts/myt/teleporters_data.scp
+18:13:Loading scripts/myt/special/region.scp
+18:13:WARNING:(region.scp,9)Redefinition of resource with DEFNAME='mr_nothing' (res type=25, index=02748, page=0).
+18:13:WARNING:(region.scp,31)Redefinition of resource with DEFNAME='mr_fish1' (res type=25, index=0284f, page=0).
+18:13:WARNING:(region.scp,39)Redefinition of resource with DEFNAME='mr_fish2' (res type=25, index=02af5, page=0).
+18:13:WARNING:(region.scp,47)Redefinition of resource with DEFNAME='mr_fish3' (res type=25, index=02a02, page=0).
+18:13:WARNING:(region.scp,55)Redefinition of resource with DEFNAME='mr_fish4' (res type=25, index=0279a, page=0).
+18:13:WARNING:(region.scp,145)Redefinition of resource with DEFNAME='r_default_water' (res type=26, index=03fc, page=30).
+18:13:WARNING:(region.scp,181)Redefinition of resource with DEFNAME='mr_tree' (res type=25, index=029dd, page=0).
+18:13:WARNING:(region.scp,237)Redefinition of resource with DEFNAME='r_default_tree' (res type=26, index=03f5, page=44).
+18:13:WARNING:(region.scp,342)Redefinition of resource with DEFNAME='mr_copper' (res type=25, index=028eb, page=0).
+18:13:WARNING:(region.scp,348)Redefinition of resource with DEFNAME='mr_bronze' (res type=25, index=0275b, page=0).
+18:13:WARNING:(region.scp,408)Redefinition of resource with DEFNAME='mr_citrine' (res type=25, index=02728, page=0).
+18:13:WARNING:(region.scp,414)Redefinition of resource with DEFNAME='mr_tourmaline' (res type=25, index=02af6, page=0).
+18:13:WARNING:(region.scp,426)Redefinition of resource with DEFNAME='mr_amethyst' (res type=25, index=02a17, page=0).
+18:13:WARNING:(region.scp,432)Redefinition of resource with DEFNAME='mr_emerald' (res type=25, index=02956, page=0).
+18:13:WARNING:(region.scp,438)Redefinition of resource with DEFNAME='mr_ruby' (res type=25, index=029d4, page=0).
+18:13:Loading scripts/myt/special/mapa.scp
+18:13:Loading scripts/sphere_add_sqlite.scp
+18:13:Loading scripts/sphere_combat.scp
+18:13:Loading scripts/sphere_msgs.scp
+18:13:Loading scripts/sphere_template_armor.scp
+18:13:Loading scripts/sphere_template_magic.scp
+18:13:Loading scripts/sphere_template_sets.scp
+18:13:Loading scripts/sphere_template_weapons.scp
+18:13:Done loading scripts (103 of 224 triggers used).
+18:13:
+18:13:Loaded 277 client encryption keys.
+18:13:Server started on hostname 'Alex-PC'
+18:13:Monitoring IP 192.168.1.104:2593
+18:13:Loading save/spheredata.scp...
+18:13:Loading save/spherestatics.scp...
+18:13:Loading save/sphereworld.scp...
+18:13:Loading save/spherechars.scp...
+18:13:Loading save/spheremultis.scp...
+18:13:Garbage Collection: started.
+18:13:Garbage Collection: done. 41 Objects accounted for.
+18:13:Option flags: CommandSysmessages + OSIMultiSight + FileCommands + NoHouseMuteSpeech + FloodProtection + NoPrefix + DrinkIsFood
+18:13:Experimental flags: NoDiagonalCheckLOS
+18:13:Admin=me@my.email.com, URL=www.myshard.com, Lang=English, TZ=0
+18:13:Startup complete. items=38, chars=3
+18:13:Press '?' for console commands.
+18:13:0:Client connected [Total:1]. IP='127.0.0.1'. (Connecting/Connected: 1/1).
+18:13:WARNING:0:Bad Login 11 (Encryption error (unknown encryption or bad login packet))
+18:13:0:Client disconnected [Total:0]. IP='127.0.0.1'.
+18:13:1:Client connected [Total:1]. IP='127.0.0.1'. (Connecting/Connected: 1/1).
+18:13:WARNING:1:Bad Login 11 (Encryption error (unknown encryption or bad login packet))
+18:13:1:Client disconnected [Total:0]. IP='127.0.0.1'.
+18:14:2:Client connected [Total:1]. IP='127.0.0.1'. (Connecting/Connected: 1/1).
+18:14:2:Login for account 'ADM'. IP='127.0.0.1'. ConnectionType: ServerList.
+18:14:3:Client connected [Total:2]. IP='127.0.0.1'. (Connecting/Connected: 1/2).
+18:14:2:Client disconnected [Total:1]. Account: 'ADM'. IP='127.0.0.1'.
+18:14:3:Login for account 'ADM'. IP='127.0.0.1'. ConnectionType: CharList/Game.
+18:14:3:Character startup for account 'ADM', char 'ADM'. IP='127.0.0.1'.
+18:14:3:'ADM' commands 'sistemasphere'=1
+18:15:(sistema_de_criacao_pc.scp,339)[CORPO] Cor 33770
+18:15:(sistema_de_criacao_pc.scp,347)[CABELO] Modelo i_hair_long
+18:15:(sistema_de_criacao_pc.scp,351)[CABELO] Modelo i_hair_long criado
+18:15:(sistema_de_criacao_pc.scp,362)[CABELO] Cor 2686 (script)
+18:15:(sistema_de_criacao_pc.scp,371)[BABRBA] Modelo 0
+18:15:ERROR:(sistema_de_criacao_pc.scp,372)Undefined keyword 'findlayer.layer_beard.remove'.
+18:15:ERROR:(sistema_de_criacao_pc.scp,390)Can't resolve <findlayer.layer_beard.color>.
+18:15:ERROR:(sistema_de_criacao_pc.scp,392)Undefined keyword 'findlayer.layer_beard.more2'.
+18:15:ERROR:(skill_tailoring.scp,365)Undefined keyword 'findlayer.layer_tunic.more2'.
+18:15:ERROR:(skill_tailoring.scp,366)Undefined keyword 'findlayer.layer_robe.more2'.
+18:15:ERROR:(skill_tailoring.scp,368)Undefined keyword 'findlayer.layer_skirt.more2'.
+18:15:(sistema_de_eventos.scp,79)[EVENT]Login: ADM (5)
+18:15:(administrative.scp,889)Clientversion invalido: 0.0.0 -- 0::0::0
+18:15:(skills.scp,422)ADM/ADM SC:600 SSC:0/6500 MI:100
+18:17:ERROR:(region.scp,911)Undefined symbol '' [Evaluated expression: '> 18'].
+18:17:ERROR:(region.scp,911)Undefined symbol '' [Evaluated expression: '< 6>'].
+18:17:ERROR:(region.scp,911)Undefined symbol '' [Evaluated expression: '< 6>'].
+18:17:3:'ADM' commands 'go 1021 2423'=1
+18:19:3:'Elfo' Says UNICODE 'PTB' 'go 5820 1344' mode=0
+18:20:ERROR:(region.scp,920)Undefined symbol '' [Evaluated expression: '> 18'].
+18:20:ERROR:(region.scp,920)Undefined symbol '' [Evaluated expression: '< 6>'].
+18:20:ERROR:(region.scp,920)Undefined symbol '' [Evaluated expression: '< 6>'].
+18:20:ERROR:(region.scp,895)Even number of elements in the random range: invalid. Forgot to write an element?
+18:20:3:'ADM' commands 'go 5820 1344'=1
+18:20:ERROR:(region.scp,895)Even number of elements in the random range: invalid. Forgot to write an element?
+18:20:3:'ADM' commands 'go 5859 1306'=1
+18:20:3:'ADM' commands 'go'=1
+18:20:3:'ADM' commands 'tele'=1
+18:21:3:'ADM' commands 'tele'=1
+18:21:ERROR:(region.scp,895)Even number of elements in the random range: invalid. Forgot to write an element?
+18:21:ERROR:(region.scp,895)Even number of elements in the random range: invalid. Forgot to write an element?
+18:23:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '> 18'].
+18:23:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '< 6>'].
+18:23:ERROR:(region.scp,901)Undefined symbol '' [Evaluated expression: '< 6>'].
+18:23:ERROR:(sistema_de_tempo.scp,171)Can't resolve <src.region.flags>.
+18:23:ERROR:(sistema_de_tempo.scp,685)Can't resolve <REGION.FLAGS>.
+18:23:ERROR:(sistema_de_tempo.scp,685)Can't resolve <REGION.FLAGS>.
+18:23:3:'ADM' commands 'go 664, 1064, 82,4'=1
+18:24:3:'ADM' commands 'go 664, 1064, 82,4'=1
+18:24:3:'ADM' commands 'tele'=1
+18:24:3:'ADM' commands 'tele'=1
+18:24:WARNING:WalkCheck: failed to get the destination region at P=670,1032,61,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=670,1032,61,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=670,1032,61,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=670,1032,61,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=670,1032,61,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=670,1032,61,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=670,1032,61,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=670,1032,61,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=670,1032,61,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=670,1032,61,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=670,1032,61,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,1033,61,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,1033,61,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,1033,61,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,1033,61,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,1033,61,4 (UID: 01fdc, name: Elfo).
+18:24:3:'ADM' commands 'tele'=1
+18:24:WARNING:WalkCheck: failed to get the destination region at P=672,1032,54,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,1031,54,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,1031,54,4 (UID: 01fdc, name: Elfo).
+18:24:3:'ADM' commands 'tele'=1
+18:24:ERROR:(sistema_de_tempo.scp,171)Can't resolve <src.region.flags>.
+18:24:ERROR:(sistema_de_tempo.scp,685)Can't resolve <REGION.FLAGS>.
+18:24:ERROR:(sistema_de_tempo.scp,685)Can't resolve <REGION.FLAGS>.
+18:24:3:'ADM' commands 'tele'=1
+18:24:3:'ADM' commands 'tele'=1
+18:24:WARNING:WalkCheck: failed to get the destination region at P=672,988,48,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,989,48,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,989,48,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,989,48,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,989,48,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,989,48,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,989,48,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,989,48,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,989,48,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,989,48,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,989,48,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,989,48,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=671,989,48,4 (UID: 01fdc, name: Elfo).
+18:24:3:'ADM' commands 'tele'=1
+18:24:WARNING:WalkCheck: failed to get the destination region at P=665,983,45,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=665,983,45,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=665,983,45,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=665,983,45,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=665,983,45,4 (UID: 01fdc, name: Elfo).
+18:24:3:'ADM' commands 'tele'=1
+18:24:3:'ADM' commands 'tele'=1
+18:24:3:'ADM' commands 'tele'=1
+18:24:ERROR:(sistema_de_tempo.scp,171)Can't resolve <src.region.flags>.
+18:24:ERROR:(sistema_de_tempo.scp,685)Can't resolve <REGION.FLAGS>.
+18:24:ERROR:(sistema_de_tempo.scp,685)Can't resolve <REGION.FLAGS>.
+18:24:3:'ADM' commands 'go 936, 600, 11,4'=1
+18:24:WARNING:WalkCheck: failed to get the destination region at P=936,601,11,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=936,601,11,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=936,601,11,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=936,601,11,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=937,600,11,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=937,600,11,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=937,600,11,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=937,600,11,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=936,601,11,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=936,601,11,4 (UID: 01fdc, name: Elfo).
+18:24:ERROR:Undefined keyword 'teçe'.
+18:24:3:'ADM' commands 'teçe'=1
+18:24:3:'ADM' commands 'tele'=1
+18:24:3:'ADM' commands 'tele'=1
+18:24:ERROR:(sistema_de_tempo.scp,171)Can't resolve <src.region.flags>.
+18:24:ERROR:(sistema_de_tempo.scp,685)Can't resolve <REGION.FLAGS>.
+18:24:ERROR:(sistema_de_tempo.scp,685)Can't resolve <REGION.FLAGS>.
+18:24:3:'ADM' commands 'tele'=1
+18:24:WARNING:WalkCheck: failed to get the destination region at P=917,639,15,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=917,639,15,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=917,639,15,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=917,639,15,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=917,639,15,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=917,639,15,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=917,639,15,4 (UID: 01fdc, name: Elfo).
+18:24:WARNING:WalkCheck: failed to get the destination region at P=917,639,15,4 (UID: 01fdc, name: Elfo).
+18:25:3:'ADM' commands 'go 648 805'=1
+18:27:3:'ADM' commands 'go 1403 660'=1
+18:28:3:'ADM' commands 'go 718 2122'=1
+18:29:3:'ADM' commands 'add c_drow_guerreiro'=1
+18:29:3:'ADM' commands 'add i_urso'=1
+18:29:3:'ADM' commands 'add i_bear'=1
+18:30:3:'ADM' commands 'add c_bear'=1
+18:30:3:'ADM' commands 'add'=1
+18:30:ERROR:(sphere_backward_compatibility.scp,683)Can't resolve <SERV.CHARDEF.0>.
+18:30:3:'ADM' commands 'add'=1
+18:30:3:'ADM' commands 'add c_barbarian_warrior'=1
+18:30:3:'ADM' commands 'gm'=1
+18:31:(sistema_de_combate.scp,177)[HITTRY] 75386 Elfo contra Shane 320 11
+18:31:(skills.scp,194)ADM/01fdc: Swordsmanship passou dos limites: 8156
+18:31:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Shane [0(0)/0(0)/0] 1000
+18:31:(sistema_de_combate.scp,633)[COMBAT] BaseDam:25
+18:31:(sistema_de_combate.scp,967)[COMBAT] BonusStr:23
+18:31:(sistema_de_combate.scp,974)[COMBAT] BonusAnatomy:0
+18:31:(sistema_de_combate.scp,981)[COMBAT] BonusTactics:25
+18:31:(sistema_de_combate.scp,1002)[COMBAT] PenalStam:0
+18:31:(sistema_de_combate.scp,1009)[COMBAT] PenalWeight:14
+18:31:(sistema_de_combate.scp,1018)[COMBAT] PenalWeaponQuality:40
+18:31:(sistema_de_combate.scp,335)[COMBAT] BonusTotal%:-4
+18:31:(sistema_de_combate.scp,1185)24
+18:31:(sistema_de_combate.scp,177)[HITTRY] 75416 Elfo contra Shane 220 11
+18:31:(skills.scp,194)ADM/01fdc: Swordsmanship passou dos limites: 8156
+18:31:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Shane [0(0)/0(0)/0] 1000
+18:31:(sistema_de_combate.scp,633)[COMBAT] BaseDam:27
+18:31:(sistema_de_combate.scp,967)[COMBAT] BonusStr:23
+18:31:(sistema_de_combate.scp,974)[COMBAT] BonusAnatomy:0
+18:31:(sistema_de_combate.scp,981)[COMBAT] BonusTactics:25
+18:31:(sistema_de_combate.scp,1002)[COMBAT] PenalStam:0
+18:31:(sistema_de_combate.scp,1009)[COMBAT] PenalWeight:14
+18:31:(sistema_de_combate.scp,1018)[COMBAT] PenalWeaponQuality:40
+18:31:(sistema_de_combate.scp,335)[COMBAT] BonusTotal%:-4
+18:31:(sistema_de_combate.scp,1185)26
+18:31:(sistema_de_combate.scp,177)[HITTRY] 75472 Elfo contra Shane 440 11
+18:31:(skills.scp,194)ADM/01fdc: Swordsmanship passou dos limites: 8156
+18:31:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Shane [0(0)/0(0)/0] 1000
+18:31:(sistema_de_combate.scp,633)[COMBAT] BaseDam:27
+18:31:(sistema_de_combate.scp,967)[COMBAT] BonusStr:23
+18:31:(sistema_de_combate.scp,974)[COMBAT] BonusAnatomy:0
+18:31:(sistema_de_combate.scp,981)[COMBAT] BonusTactics:25
+18:31:(sistema_de_combate.scp,1002)[COMBAT] PenalStam:0
+18:31:(sistema_de_combate.scp,1009)[COMBAT] PenalWeight:14
+18:31:(sistema_de_combate.scp,1018)[COMBAT] PenalWeaponQuality:41
+18:31:(sistema_de_combate.scp,335)[COMBAT] BonusTotal%:-5
+18:31:(sistema_de_combate.scp,1185)26
+18:31:(sistema_de_combate.scp,177)[HITTRY] 75495 Elfo contra Shane -39 11
+18:31:(skills.scp,194)ADM/01fdc: Swordsmanship passou dos limites: 8156
+18:31:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Shane [0(0)/0(0)/0] 1000
+18:31:(sistema_de_combate.scp,633)[COMBAT] BaseDam:26
+18:31:(sistema_de_combate.scp,967)[COMBAT] BonusStr:23
+18:31:(sistema_de_combate.scp,974)[COMBAT] BonusAnatomy:0
+18:31:(sistema_de_combate.scp,981)[COMBAT] BonusTactics:25
+18:31:(sistema_de_combate.scp,1002)[COMBAT] PenalStam:0
+18:31:(sistema_de_combate.scp,1009)[COMBAT] PenalWeight:14
+18:31:(sistema_de_combate.scp,1018)[COMBAT] PenalWeaponQuality:41
+18:31:(sistema_de_combate.scp,335)[COMBAT] BonusTotal%:-5
+18:31:(sistema_de_combate.scp,1185)25
+18:31:(sistema_de_combate.scp,177)[HITTRY] 75565 Elfo contra Shane -11 11
+18:31:(skills.scp,194)ADM/01fdc: Swordsmanship passou dos limites: 8156
+18:31:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Shane [0(0)/0(0)/0] 1000
+18:31:(sistema_de_combate.scp,633)[COMBAT] BaseDam:25
+18:31:(sistema_de_combate.scp,967)[COMBAT] BonusStr:23
+18:31:(sistema_de_combate.scp,974)[COMBAT] BonusAnatomy:0
+18:31:(sistema_de_combate.scp,981)[COMBAT] BonusTactics:25
+18:31:(sistema_de_combate.scp,1002)[COMBAT] PenalStam:0
+18:31:(sistema_de_combate.scp,1009)[COMBAT] PenalWeight:14
+18:31:(sistema_de_combate.scp,1018)[COMBAT] PenalWeaponQuality:41
+18:31:(sistema_de_combate.scp,335)[COMBAT] BonusTotal%:-5
+18:31:(sistema_de_combate.scp,1185)24
+18:31:(sistema_de_combate.scp,177)[HITTRY] 75588 Elfo contra Shane -55 11
+18:31:(skills.scp,194)ADM/01fdc: Swordsmanship passou dos limites: 8156
+18:31:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Shane [0(0)/0(0)/0] 1000
+18:31:(sistema_de_combate.scp,633)[COMBAT] BaseDam:27
+18:31:(sistema_de_combate.scp,790)[DAM] 27 round shield 42
+18:31:(sistema_de_combate.scp,177)[HITTRY] 75611 Elfo contra Shane -28 11
+18:31:(skills.scp,194)ADM/01fdc: Swordsmanship passou dos limites: 8156
+18:31:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Shane [0(0)/0(0)/0] 1000
+18:31:(sistema_de_combate.scp,633)[COMBAT] BaseDam:27
+18:31:(sistema_de_combate.scp,790)[DAM] 27 round shield 38
+18:31:(sistema_de_combate.scp,177)[HITTRY] 75642 Elfo contra Shane 210 11
+18:31:(skills.scp,194)ADM/01fdc: Swordsmanship passou dos limites: 8156
+18:31:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Shane [0(0)/0(0)/0] 1000
+18:31:(sistema_de_combate.scp,633)[COMBAT] BaseDam:27
+18:31:(sistema_de_combate.scp,967)[COMBAT] BonusStr:23
+18:31:(sistema_de_combate.scp,974)[COMBAT] BonusAnatomy:0
+18:31:(sistema_de_combate.scp,981)[COMBAT] BonusTactics:25
+18:31:(sistema_de_combate.scp,1002)[COMBAT] PenalStam:2
+18:31:(sistema_de_combate.scp,1009)[COMBAT] PenalWeight:14
+18:31:(sistema_de_combate.scp,1018)[COMBAT] PenalWeaponQuality:42
+18:31:(sistema_de_combate.scp,335)[COMBAT] BonusTotal%:-8
+18:31:(sistema_de_combate.scp,1185)25
+18:31:(sistema_de_combate.scp,177)[HITTRY] 75665 Elfo contra Shane 240 11
+18:31:3:'ADM' commands 'add c_barbarian_warrior'=1
+18:31:3:'Elfo' Says 'all kill' mode=0
+18:31:3:'ADM' commands 'gm'=1
+18:31:3:'Elfo' Says 'Shane Kill' mode=0
+18:32:3:'Elfo' Says 'Shane follow me' mode=0
+18:32:3:'Elfo' Says 'Shane Kill' mode=0
+18:32:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Shane [0(0)/0(0)/0] 1000
+18:32:(sistema_de_combate.scp,633)[COMBAT] BaseDam:25
+18:32:(sistema_de_combate.scp,967)[COMBAT] BonusStr:23
+18:32:(sistema_de_combate.scp,974)[COMBAT] BonusAnatomy:0
+18:32:(sistema_de_combate.scp,981)[COMBAT] BonusTactics:25
+18:32:(sistema_de_combate.scp,1002)[COMBAT] PenalStam:0
+18:32:(sistema_de_combate.scp,1009)[COMBAT] PenalWeight:14
+18:32:(sistema_de_combate.scp,1018)[COMBAT] PenalWeaponQuality:42
+18:32:(sistema_de_combate.scp,335)[COMBAT] BonusTotal%:-6
+18:32:(sistema_de_combate.scp,1185)24
+18:32:(sistema_de_combate.scp,177)[HITTRY] 76111 Elfo contra Shane 470 11
+18:32:3:'Elfo' Says 'Doyle kill' mode=0
+18:32:3:'Elfo' Says 'Doyle kill' mode=0
+18:32:3:'ADM' commands 'tele'=1
+18:32:3:'ADM' commands 'info'=1
+18:33:3:'ADM' commands 'tele'=1
+18:33:(sistema_de_combate.scp,177)[HITTRY] 76779 Elfo contra Doyle 400 10
+18:33:ERROR:(skills.scp,277)Undefined keyword '8157'.
+18:33:(skills.scp,281)[SKILL] ADM Swordsmanship() 8156 0
+18:33:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Doyle [0(0)/0(0)/0] 1000
+18:33:(sistema_de_combate.scp,633)[COMBAT] BaseDam:22
+18:33:(sistema_de_combate.scp,790)[DAM] 22 heater shield 44
+18:33:(sistema_de_combate.scp,177)[HITTRY] 76801 Elfo contra Doyle 240 10
+18:33:(sistema_de_combate.scp,177)[HITTRY] 76822 Elfo contra Doyle 320 10
+18:33:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Doyle [0(0)/0(0)/0] 1000
+18:33:(sistema_de_combate.scp,633)[COMBAT] BaseDam:25
+18:33:(sistema_de_combate.scp,790)[DAM] 25 heater shield 39
+18:33:(sistema_de_combate.scp,177)[HITTRY] 76844 Elfo contra Doyle 240 10
+18:33:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Doyle [0(0)/0(0)/0] 1000
+18:33:(sistema_de_combate.scp,633)[COMBAT] BaseDam:25
+18:33:(sistema_de_combate.scp,967)[COMBAT] BonusStr:23
+18:33:(sistema_de_combate.scp,974)[COMBAT] BonusAnatomy:0
+18:33:(sistema_de_combate.scp,981)[COMBAT] BonusTactics:25
+18:33:(sistema_de_combate.scp,1002)[COMBAT] PenalStam:0
+18:33:(sistema_de_combate.scp,1009)[COMBAT] PenalWeight:14
+18:33:(sistema_de_combate.scp,1018)[COMBAT] PenalWeaponQuality:40
+18:33:(sistema_de_combate.scp,335)[COMBAT] BonusTotal%:-4
+18:33:(sistema_de_combate.scp,1185)24
+18:33:(sistema_de_combate.scp,177)[HITTRY] 76866 Elfo contra Doyle 440 10
+18:33:ERROR:(skills.scp,277)Undefined keyword '8157'.
+18:33:(skills.scp,281)[SKILL] ADM Swordsmanship() 8156 0
+18:33:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Doyle [0(0)/0(0)/0] 1000
+18:33:(sistema_de_combate.scp,633)[COMBAT] BaseDam:20
+18:33:(sistema_de_combate.scp,967)[COMBAT] BonusStr:23
+18:33:(sistema_de_combate.scp,974)[COMBAT] BonusAnatomy:0
+18:33:(sistema_de_combate.scp,981)[COMBAT] BonusTactics:25
+18:33:(sistema_de_combate.scp,1002)[COMBAT] PenalStam:0
+18:33:(sistema_de_combate.scp,1009)[COMBAT] PenalWeight:14
+18:33:(sistema_de_combate.scp,1018)[COMBAT] PenalWeaponQuality:40
+18:33:(sistema_de_combate.scp,335)[COMBAT] BonusTotal%:-4
+18:33:(sistema_de_combate.scp,1185)20
+18:33:(sistema_de_combate.scp,177)[HITTRY] 76888 Elfo contra Doyle 150 10
+18:33:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Doyle [0(0)/0(0)/0] 1000
+18:33:(sistema_de_combate.scp,633)[COMBAT] BaseDam:21
+18:33:(sistema_de_combate.scp,967)[COMBAT] BonusStr:23
+18:33:(sistema_de_combate.scp,974)[COMBAT] BonusAnatomy:0
+18:33:(sistema_de_combate.scp,981)[COMBAT] BonusTactics:25
+18:33:(sistema_de_combate.scp,1002)[COMBAT] PenalStam:0
+18:33:(sistema_de_combate.scp,1009)[COMBAT] PenalWeight:14
+18:33:(sistema_de_combate.scp,1018)[COMBAT] PenalWeaponQuality:40
+18:33:(sistema_de_combate.scp,335)[COMBAT] BonusTotal%:-4
+18:33:(sistema_de_combate.scp,1185)21
+18:33:(sistema_de_combate.scp,177)[HITTRY] 76911 Elfo contra Doyle 340 10
+18:33:(sistema_de_combate.scp,177)[HITTRY] 76931 Elfo contra Doyle 230 10
+18:33:ERROR:(skills.scp,277)Undefined keyword '8157'.
+18:33:(skills.scp,281)[SKILL] ADM Swordsmanship() 8156 0
+18:33:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Doyle [0(0)/0(0)/0] 1000
+18:33:(sistema_de_combate.scp,633)[COMBAT] BaseDam:24
+18:33:(sistema_de_combate.scp,967)[COMBAT] BonusStr:23
+18:33:(sistema_de_combate.scp,974)[COMBAT] BonusAnatomy:0
+18:33:(sistema_de_combate.scp,981)[COMBAT] BonusTactics:25
+18:33:(sistema_de_combate.scp,1002)[COMBAT] PenalStam:0
+18:33:(sistema_de_combate.scp,1009)[COMBAT] PenalWeight:14
+18:33:(sistema_de_combate.scp,1018)[COMBAT] PenalWeaponQuality:41
+18:33:(sistema_de_combate.scp,335)[COMBAT] BonusTotal%:-5
+18:33:(sistema_de_combate.scp,1185)23
+18:33:(sistema_de_combate.scp,177)[HITTRY] 76953 Elfo contra Doyle 20 10
+18:33:(sistema_de_combate.scp,177)[HITTRY] 76974 Elfo contra Doyle 390 10
+18:33:3:'Elfo' Says 'all stop' mode=0
+18:33:3:'Elfo' Says 'all follow me' mode=0
+18:34:ERROR:Lumberjacking skill doesn't have a value for RANGE, defaulting to 2
+18:34:ERROR:Lumberjacking skill doesn't have a value for RANGE, defaulting to 2
+18:34:ERROR:Lumberjacking skill doesn't have a value for RANGE, defaulting to 2
+18:34:ERROR:Lumberjacking skill doesn't have a value for RANGE, defaulting to 2
+18:34:ERROR:Lumberjacking skill doesn't have a value for RANGE, defaulting to 2
+18:34:ERROR:Lumberjacking skill doesn't have a value for RANGE, defaulting to 2
+18:34:ERROR:Lumberjacking skill doesn't have a value for RANGE, defaulting to 2
+18:34:ERROR:Lumberjacking skill doesn't have a value for RANGE, defaulting to 2
+18:34:ERROR:(skills.scp,277)Undefined keyword '8157'.
+18:34:(skills.scp,281)[SKILL] ADM Lumberjacking() 8156 0
+18:34:ERROR:Lumberjacking skill doesn't have a value for RANGE, defaulting to 2
+18:34:ERROR:Lumberjacking skill doesn't have a value for RANGE, defaulting to 2
+18:34:ERROR:Lumberjacking skill doesn't have a value for RANGE, defaulting to 2
+18:34:ERROR:Lumberjacking skill doesn't have a value for RANGE, defaulting to 2
+18:34:ERROR:Lumberjacking skill doesn't have a value for RANGE, defaulting to 2
+18:34:3:'ADM' commands 'kill'=1
+18:34:'Doyle' was KILLed by 'ADM'
+18:34:'ADM' commands uid=01f99 (Doyle) to 'kill'=1
+18:34:(sistema_de_combate.scp,122)Doyle -- Elfo
+18:34:ERROR:MySQL query "INSERT INTO eventsLog SET timestamp=NOW(), eventType='Kill PC',charUid=0,charAcct=0,x=801,y=2197,z=0,char2Uid=8156,charAcct=5,message='c_barbarian_warrior'" failed due to "Unknown column 'char2Uid' in 'field list'"
+18:34:ERROR:(sistema_de_combate.scp,126)Undefined keyword '@HITCHECK'.
+18:35:ERROR:(sistema_de_furniture.scp,171)Can't resolve <ref1.IsPlayer>.
+18:35:ERROR:(sistema_de_furniture.scp,171)Can't resolve <ref1.IsPlayer>.
+18:35:(sistema_de_furniture.scp,201)[FURNITURE] barril (1073749886) novo dono: 01fdc
+18:37:(sistema_de_combate.scp,177)[HITTRY] 79293 Elfo contra Shane 90 10
+18:37:(sistema_de_combate.scp,177)[HITTRY] 79313 Elfo contra Shane 490 10
+18:37:(sistema_de_combate.scp,177)[HITTRY] 79334 Elfo contra Shane 100 10
+18:37:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Shane [0(0)/0(0)/0] 1000
+18:37:(sistema_de_combate.scp,633)[COMBAT] BaseDam:21
+18:37:(sistema_de_combate.scp,967)[COMBAT] BonusStr:23
+18:37:(sistema_de_combate.scp,974)[COMBAT] BonusAnatomy:0
+18:37:(sistema_de_combate.scp,981)[COMBAT] BonusTactics:25
+18:37:(sistema_de_combate.scp,1002)[COMBAT] PenalStam:0
+18:37:(sistema_de_combate.scp,1009)[COMBAT] PenalWeight:14
+18:37:(sistema_de_combate.scp,1018)[COMBAT] PenalWeaponQuality:45
+18:37:(sistema_de_combate.scp,335)[COMBAT] BonusTotal%:-9
+18:37:(sistema_de_combate.scp,1185)20
+18:37:(sistema_de_combate.scp,177)[HITTRY] 79356 Elfo contra Shane 410 10
+18:37:ERROR:(skills.scp,277)Undefined keyword '8157'.
+18:37:(skills.scp,281)[SKILL] ADM Swordsmanship() 8156 0
+18:37:(sistema_de_combate.scp,212)[HITTRY] Elfo contra Shane [0(0)/0(0)/0] 1000
+18:37:(sistema_de_combate.scp,633)[COMBAT] BaseDam:20
+18:37:(sistema_de_combate.scp,967)[COMBAT] BonusStr:23
+18:37:(sistema_de_combate.scp,974)[COMBAT] BonusAnatomy:0
+18:37:(sistema_de_combate.scp,981)[COMBAT] BonusTactics:25
+18:37:(sistema_de_combate.scp,1002)[COMBAT] PenalStam:0
+18:37:(sistema_de_combate.scp,1009)[COMBAT] PenalWeight:14
+18:37:(sistema_de_combate.scp,1018)[COMBAT] PenalWeaponQuality:45
+18:37:(sistema_de_combate.scp,335)[COMBAT] BonusTotal%:-9
+18:37:(sistema_de_combate.scp,1185)19
+18:37:(sistema_de_combate.scp,122)Shane -- Elfo
+18:37:ERROR:MySQL query "INSERT INTO eventsLog SET timestamp=NOW(), eventType='Kill PC',charUid=0,charAcct=0,x=796,y=2204,z=0,char2Uid=8156,charAcct=5,message='c_barbarian_warrior'" failed due to "Unknown column 'char2Uid' in 'field list'"
+18:37:ERROR:(sistema_de_combate.scp,126)Undefined keyword '@HITCHECK'.
+18:38:3:'ADM' commands 'analisar'=1
+18:38:ERROR:(sistema_de_infos.scp,222)Undefined symbol 'count' [Evaluated expression: 'count'].
+18:38:ERROR:(sistema_de_infos.scp,224)Can't resolve <serv.skill.t_tinker_tools.name>.
+18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,228)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,231)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:3:'ADM' commands 'analisar'=1
+18:38:ERROR:(sistema_de_infos.scp,287)Can't resolve <dmgfire>.
+18:38:ERROR:(sistema_de_infos.scp,287)Can't resolve <dmgcold>.
+18:38:ERROR:(sistema_de_infos.scp,287)Can't resolve <dmgpoison>.
+18:38:ERROR:(sistema_de_infos.scp,287)Can't resolve <dmgenergy>.
+18:38:ERROR:(sistema_de_infos.scp,222)Undefined symbol 'count' [Evaluated expression: 'count'].
+18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,224)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,228)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,231)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:38:WARNING:(sistema_de_infos.scp,231)Setting max length of 2048 was exceeded on (VAR,TAG,LOCAL).t 18:39:ERROR:(sistema_de_infos.scp,287)Can't resolve <dmgfire>.
+18:39:ERROR:(sistema_de_infos.scp,287)Can't resolve <dmgcold>.
+18:39:ERROR:(sistema_de_infos.scp,287)Can't resolve <dmgpoison>.
+18:39:ERROR:(sistema_de_infos.scp,287)Can't resolve <dmgenergy>.
+18:41:ERROR:(sistema_de_furniture.scp,171)Can't resolve <ref1.IsPlayer>.
+18:41:(sistema_de_furniture.scp,584)[FURNITURE] Cesto Pequeno (040001f8c) foi apagado. ATTR=00 :: TIMER=-1
+18:41:ERROR:(sistema_de_furniture.scp,171)Can't resolve <ref1.IsPlayer>.
+18:41:(sistema_de_furniture.scp,584)[FURNITURE] Cesto Pequeno (040001f8c) foi apagado. ATTR=00 :: TIMER=-1
+18:43:Garbage Collection: started.
+18:43:Garbage Collection: done. 112 Objects accounted for.
+18:43:World data saved   (save/sphereworld.scp).
+18:43:Player data saved  (save/spherechars.scp).
+18:43:Multi data saved   (save/spheremultis.scp).
+18:43:Context data saved (save/spheredata.scp).
+18:43:World save completed, took 0.5680 seconds.
+18:43:FATAL:Server terminated: Console window closed (code 5)

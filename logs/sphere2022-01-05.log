@@ -1,0 +1,24 @@
+21:35:SphereServer Version X1-Nightly [Windows-64] by www.spherecommunity.net.
+21:35:Compiled at Oct 19 2021 (10:31:45) [build 3473 / GIT hash f24687c5330f8fbf7b7ae9f626447fc91e280d77]
+
+21:35:WARNING:
+-----------------------------------------------------------------
+This is a nightly build of SphereServer. This build is to be used for testing and/or bug reporting ONLY.
+DO NOT run this build on a live shard unless you know what you are doing!
+Nightly builds are automatically made at every commit to the source code repository and might
+contain errors, might be unstable or even destroy your shard as they are mostly untested!
+-----------------------------------------------------------------
+
+21:35:
+Indexing the client files...
+21:35:Expansion maps supported: Felucca (0), Trammel (1), Ilshenar (2), Malas (3), Tokuno Islands (4)
+21:35:Caching tiledata.mul...
+
+21:35:Initializing the world...
+21:35:Allocated map sectors: map0=7168 map1=7168 map2=900 map3=1280 map4=529
+
+21:35:Indexing 297 script files...
+21:35:Script loading aborted!
+21:35:Done loading scripts (0 of 224 triggers used).
+21:35:ERROR:No START locations specified. Add them and try again.
+21:35:FATAL:Server terminated: Console window closed (code 5)

@@ -1,0 +1,696 @@
+Log date: 2021/10/25 00:00:21
+00:00:2:Client disconnected [Total:0]. Account: 'Admin'. Char: 'Admin'. IP='127.0.0.1'.
+00:00:Garbage Collection: started.
+00:00:ERROR:GC: 1 unplaced objects!
+00:00:ERROR:GC: Deleted UID=01, Defname='c_man', Name='Admin'. Invalid code=0x3202 (Object not placed in the world).
+00:00:WARNING:Player delete 'Admin' name from account 'Admin'.
+00:00:Garbage Collection: done. 0 Objects accounted for.
+00:00:World data saved   (save/sphereworld.scp).
+00:00:Player data saved  (save/spherechars.scp).
+00:00:Multi data saved   (save/spheremultis.scp).
+00:00:Context data saved (save/spheredata.scp).
+00:00:World save completed, took 0.0950 seconds.
+00:00:Garbage Collection: started.
+00:00:Garbage Collection: done. 0 Objects accounted for.
+00:00:World data saved   (save/sphereworld.scp).
+00:00:Player data saved  (save/spherechars.scp).
+00:00:Multi data saved   (save/spheremultis.scp).
+00:00:Context data saved (save/spheredata.scp).
+00:00:World save completed, took 0.0320 seconds.
+00:00:WARNING:Rename save/spherestatics.scp to 'save/sphereb03s.scp' FAILED code 2?
+00:00:Statics data saved (save/spherestatics.scp).
+00:00:FATAL:Immediate Shutdown initialized!
+00:00:FATAL:Server terminated: X command on console (code 1)
+00:00:WARNING:(sphere.ini,1089)'scripts/spherestatusbase.htm' not found...
+00:00:ERROR:(sphere.ini,1089)Can't open web page input 'spherestatusbase1.htm'
+00:00:SphereServer Version X1-Nightly [Windows-64] by www.spherecommunity.net.
+00:00:Compiled at Oct 19 2021 (10:31:45) [build 3473 / GIT hash f24687c5330f8fbf7b7ae9f626447fc91e280d77]
+
+00:00:WARNING:(sphere.ini,2217)'scripts/spherestatusbase.htm' not found...
+00:00:ERROR:(sphere.ini,2217)Can't open web page input 'spherestatusbase1.htm'
+00:00:WARNING:
+-----------------------------------------------------------------
+This is a nightly build of SphereServer. This build is to be used for testing and/or bug reporting ONLY.
+DO NOT run this build on a live shard unless you know what you are doing!
+Nightly builds are automatically made at every commit to the source code repository and might
+contain errors, might be unstable or even destroy your shard as they are mostly untested!
+-----------------------------------------------------------------
+
+00:00:
+Indexing the client files...
+00:00:Expansion maps supported: Felucca (0), Trammel (1), Ilshenar (2), Malas (3), Tokuno Islands (4), Ter Mur (5)
+00:00:Caching tiledata.mul...
+
+00:00:Initializing the world...
+00:00:Allocated map sectors: map0=7168 map1=7168 map2=900 map3=1280 map4=529 map5=1280
+
+00:00:Indexing 297 script files...
+00:00:Loading scripts/sphere_admin.scp
+00:00:Loading scripts/sphere_backward_compatibility.scp
+00:00:Loading scripts/sphere_book.scp
+00:00:Loading scripts/sphere_defs.scp
+00:00:Loading scripts/sphere_dialog.scp
+00:00:Loading scripts/sphere_events_human.scp
+00:00:Loading scripts/sphere_events_npcs.scp
+00:00:Loading scripts/sphere_menu.scp
+00:00:Loading scripts/sphere_name.scp
+00:00:Loading scripts/sphere_serv_triggers.scp
+00:00:Loading scripts/sphere_skills.scp
+00:00:Loading scripts/sphere_skillmenu.scp
+00:00:Loading scripts/sphere_newb.scp
+00:00:Loading scripts/sphere_speech.scp
+00:00:Loading scripts/sphere_types.scp
+00:00:Loading scripts/items/sphere_item_animations.scp
+00:00:Loading scripts/items/sphere_item_artifacts.scp
+00:00:Loading scripts/items/sphere_item_artifacts_minor.scp
+00:00:Loading scripts/items/sphere_item_artifacts_tokuno.scp
+00:00:Loading scripts/items/sphere_item_boulders_rocks.scp
+00:00:Loading scripts/items/sphere_item_buildings.scp
+00:00:Loading scripts/items/sphere_item_building_doors.scp
+00:00:Loading scripts/items/sphere_item_building_floors.scp
+00:00:Loading scripts/items/sphere_item_building_other.scp
+00:00:Loading scripts/items/sphere_item_building_roofs.scp
+00:00:Loading scripts/items/sphere_item_building_stairs.scp
+00:00:Loading scripts/items/sphere_item_building_walls.scp
+00:00:Loading scripts/items/sphere_item_char_icons.scp
+00:00:Loading scripts/items/sphere_item_deco_carpet_rugs.scp
+00:00:Loading scripts/items/sphere_item_deco_carvings_statues.scp
+00:00:Loading scripts/items/sphere_item_deco_dungeons_traps_dead.scp
+00:00:Loading scripts/items/sphere_item_deco_fireplace_chimney_oven.scp
+00:00:Loading scripts/items/sphere_item_deco_furniture.scp
+00:00:Loading scripts/items/sphere_item_deco_lightsources.scp
+00:00:Loading scripts/items/sphere_item_deco_miniatures.scp
+00:00:Loading scripts/items/sphere_item_deco_signs.scp
+00:00:Loading scripts/items/sphere_item_deco_themed_collections.scp
+00:00:Loading scripts/items/sphere_item_deco_virtues.scp
+00:00:Loading scripts/items/sphere_item_deco_wall_hangings.scp
+00:00:Loading scripts/items/sphere_item_ground_tiles.scp
+00:00:Loading scripts/items/sphere_item_holiday_anniversary.scp
+00:00:Loading scripts/items/sphere_item_holiday_christmas.scp
+00:00:Loading scripts/items/sphere_item_holiday_easter.scp
+00:00:Loading scripts/items/sphere_item_holiday_halloween.scp
+00:00:Loading scripts/items/sphere_item_holiday_thanksgiving.scp
+00:00:Loading scripts/items/sphere_item_holiday_valentines.scp
+00:00:Loading scripts/items/sphere_item_magic_armor.scp
+00:00:Loading scripts/items/sphere_item_magic_chivalry.scp
+00:00:Loading scripts/items/sphere_item_magic_jewelry.scp
+00:00:Loading scripts/items/sphere_item_magic_leather.scp
+00:00:Loading scripts/items/sphere_item_magic_magery.scp
+00:00:Loading scripts/items/sphere_item_magic_mysticism.scp
+00:00:Loading scripts/items/sphere_item_magic_necromancer_aos.scp
+00:00:Loading scripts/items/sphere_item_magic_ninjitsu_bushido.scp
+00:00:Loading scripts/items/sphere_item_magic_skillmasteries.scp
+00:00:Loading scripts/items/sphere_item_magic_spellweaving.scp
+00:00:Loading scripts/items/sphere_item_magic_wands.scp
+00:00:Loading scripts/items/sphere_item_magic_weapon.scp
+00:00:Loading scripts/items/sphere_item_memories.scp
+00:00:Loading scripts/items/sphere_item_misc.scp
+00:00:Loading scripts/items/sphere_item_offset.scp
+00:00:Loading scripts/items/sphere_item_profession.scp
+00:00:Loading scripts/items/sphere_item_profession_alchemist.scp
+00:00:Loading scripts/items/sphere_item_profession_barber.scp
+00:00:Loading scripts/items/sphere_item_profession_cartographer.scp
+00:00:Loading scripts/items/sphere_item_profession_cook_barkeep_baker.scp
+00:00:Loading scripts/items/sphere_item_profession_tailor_tanner.scp
+00:00:Loading scripts/items/sphere_item_provisions_armor.scp
+00:00:Loading scripts/items/sphere_item_provisions_armor_color.scp
+00:00:Loading scripts/items/sphere_item_provisions_clothing.scp
+00:00:Loading scripts/items/sphere_item_provisions_deed.scp
+00:00:Loading scripts/items/sphere_item_provisions_jewelry.scp
+00:00:Loading scripts/items/sphere_item_provisions_logs.scp
+00:00:Loading scripts/items/sphere_item_provisions_misc.scp
+00:00:Loading scripts/items/sphere_item_provisions_ore.scp
+00:00:Loading scripts/items/sphere_item_provisions_potions.scp
+00:00:Loading scripts/items/sphere_item_provisions_shields.scp
+00:00:Loading scripts/items/sphere_item_provisions_weapons.scp
+00:00:Loading scripts/items/sphere_item_quests.scp
+00:00:Loading scripts/items/sphere_item_resources.scp
+00:00:Loading scripts/items/sphere_item_ship_parts.scp
+00:00:Loading scripts/items/sphere_item_ship_parts_britannian.scp
+00:00:Loading scripts/items/sphere_item_ship_parts_gargish.scp
+00:00:Loading scripts/items/sphere_item_ship_parts_orcish.scp
+00:00:Loading scripts/items/sphere_item_ship_parts_tokuno.scp
+00:00:Loading scripts/items/sphere_item_siege.scp
+00:00:Loading scripts/items/sphere_item_theme_pack_crystal.scp
+00:00:Loading scripts/items/sphere_item_theme_pack_gothic.scp
+00:00:Loading scripts/items/sphere_item_theme_pack_kings_collection.scp
+00:00:Loading scripts/items/sphere_item_theme_pack_rustic.scp
+00:00:Loading scripts/items/sphere_item_theme_pack_shadow.scp
+00:00:Loading scripts/items/sphere_item_typedefs.scp
+00:00:Loading scripts/items/sphere_item_typedef_equipitem.scp
+00:00:Loading scripts/items/sphere_item_unsorted.scp
+00:00:Loading scripts/items/sphere_item_vegetation.scp
+00:00:Loading scripts/items/sphere_item_veteran_rewards.scp
+00:00:Loading scripts/items/sphere_item_vice_virtue.scp
+00:00:Loading scripts/items/sphere_item_wedding.scp
+00:00:Loading scripts/items/multis/multis_foundations.scp
+00:00:Loading scripts/items/multis/multis_houses.scp
+00:00:Loading scripts/items/multis/multis_magincia_bazaar.scp
+00:00:Loading scripts/items/multis/multis_misc.scp
+00:00:Loading scripts/items/multis/multis_ships.scp
+00:00:Loading scripts/items/multis/multis_stairs.scp
+00:00:Loading scripts/items/multis/multis_wandering_camps.scp
+00:00:Loading scripts/stones/sphere_genericstone_config.scp
+00:00:Loading scripts/stones/sphere_genericstone_functions.scp
+00:00:Loading scripts/stones/sphere_genericstone_items.scp
+00:00:Loading scripts/stones/sphere_genericstone_types.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_config.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_dlg_align.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_dlg_charlist.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_dlg_charter.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_dlg_guildlist.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_dlg_main.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_dlg_master.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_dlg_warfareadmin.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_dlg_warfaredeclare.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_dlg_warfarestatus.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_events.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_functions.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_functions_player.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_items.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_promptconsole.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_speech.scp
+00:00:Loading scripts/stones/guilds/sphere_guild_types.scp
+00:00:Loading scripts/stones/towns/sphere_town_config.scp
+00:00:Loading scripts/stones/towns/sphere_town_dlg_align.scp
+00:00:Loading scripts/stones/towns/sphere_town_dlg_charlist.scp
+00:00:Loading scripts/stones/towns/sphere_town_dlg_charter.scp
+00:00:Loading scripts/stones/towns/sphere_town_dlg_main.scp
+00:00:Loading scripts/stones/towns/sphere_town_dlg_master.scp
+00:00:Loading scripts/stones/towns/sphere_town_dlg_townlist.scp
+00:00:Loading scripts/stones/towns/sphere_town_dlg_warfareadmin.scp
+00:00:Loading scripts/stones/towns/sphere_town_dlg_warfaredeclare.scp
+00:00:Loading scripts/stones/towns/sphere_town_dlg_warfarestatus.scp
+00:00:Loading scripts/stones/towns/sphere_town_events.scp
+00:00:Loading scripts/stones/towns/sphere_town_functions.scp
+00:00:Loading scripts/stones/towns/sphere_town_functions_player.scp
+00:00:Loading scripts/stones/towns/sphere_town_items.scp
+00:00:Loading scripts/stones/towns/sphere_town_promptconsole.scp
+00:00:Loading scripts/stones/towns/sphere_town_speech.scp
+00:00:Loading scripts/stones/towns/sphere_town_types.scp
+00:00:Loading scripts/npcs/spherechar_evil.scp
+00:00:Loading scripts/npcs/spherechar_human.scp
+00:00:Loading scripts/npcs/sphere_citizens.scp
+00:00:Loading scripts/npcs/sphere_guildmasters.scp
+00:00:Loading scripts/npcs/sphere_monsters.scp
+00:00:Loading scripts/npcs/sphere_monsters_custom.scp
+00:00:Loading scripts/npcs/sphere_vendors.scp
+00:00:Loading scripts/speech/speakhuman.scp
+00:00:Loading scripts/speech/speakorc.scp
+00:00:Loading scripts/speech/speakshopkeep.scp
+00:00:Loading scripts/speech/spk_house_cmds.scp
+00:00:Loading scripts/speech/spk_ship_cmds.scp
+00:00:Loading scripts/systems/sphere_system_aquarium.scp
+00:00:Loading scripts/systems/sphere_system_secret_chest.scp
+00:00:Loading scripts/systems/sphere_system_treasure_maps.scp
+00:00:Loading scripts/sphere_spawns.scp
+00:00:Loading scripts/sphere_spells.scp
+00:00:Loading scripts/sphere_region.scp
+00:00:Loading scripts/myt/administrative.scp
+00:00:Loading scripts/myt/itens.scp
+00:00:Loading scripts/myt/resources.scp
+00:00:Loading scripts/myt/sistema_de_selar_livros.scp
+00:00:Loading scripts/myt/events.scp
+00:00:Loading scripts/myt/events_npc.scp
+00:00:Loading scripts/myt/sistema_de_catalisadores.scp
+00:00:Loading scripts/myt/templates_myt.scp
+00:00:Loading scripts/myt/sistema_de_special_moves.scp
+00:00:Loading scripts/myt/itens_food.scp
+00:00:Loading scripts/sphere_template.scp
+00:00:Loading scripts/sphere_template_loot.scp
+00:00:Loading scripts/sphere_template_misc.scp
+00:00:Loading scripts/sphere_template_vend.scp
+00:00:Loading scripts/myt/spells_myt.scp
+00:00:Loading scripts/myt/craftmenu_backup.scp
+00:00:Loading scripts/myt/itemforge.scp
+00:00:Loading scripts/myt/itemforge_data.scp
+00:00:Loading scripts/myt/itemforge_data_armaduras.scp
+00:00:Loading scripts/myt/itemforge_data_armaduras_armas.scp
+00:00:Loading scripts/myt/itens_adornos_magicos.scp
+00:00:Loading scripts/myt/itens_armaduras.scp
+00:00:WARNING:(itens_armaduras.scp,179)Redefinition of resource with DEFNAME='i_peito_couro' (res type=15, index=014961, page=0).
+00:00:WARNING:(itens_armaduras.scp,207)Redefinition of resource with DEFNAME='i_braco_couro' (res type=15, index=01495f, page=0).
+00:00:WARNING:(itens_armaduras.scp,235)Redefinition of resource with DEFNAME='i_perna_couro' (res type=15, index=014967, page=0).
+00:00:WARNING:(itens_armaduras.scp,263)Redefinition of resource with DEFNAME='i_pescoco_couro' (res type=15, index=014969, page=0).
+00:00:WARNING:(itens_armaduras.scp,291)Redefinition of resource with DEFNAME='i_cabeca_couro' (res type=15, index=014963, page=0).
+00:00:WARNING:(itens_armaduras.scp,319)Redefinition of resource with DEFNAME='i_luva_couro' (res type=15, index=014965, page=0).
+00:00:WARNING:(itens_armaduras.scp,347)Redefinition of resource with DEFNAME='i_cabeca_furtiva' (res type=15, index=014983, page=0).
+00:00:WARNING:(itens_armaduras.scp,376)Redefinition of resource with DEFNAME='i_luva_furtiva' (res type=15, index=01497d, page=0).
+00:00:WARNING:(itens_armaduras.scp,405)Redefinition of resource with DEFNAME='i_peito_furtiva' (res type=15, index=014979, page=0).
+00:00:WARNING:(itens_armaduras.scp,434)Redefinition of resource with DEFNAME='i_perna_furtiva' (res type=15, index=01497f, page=0).
+00:00:WARNING:(itens_armaduras.scp,463)Redefinition of resource with DEFNAME='i_cinto_furtiva' (res type=15, index=01497b, page=0).
+00:00:WARNING:(itens_armaduras.scp,492)Redefinition of resource with DEFNAME='i_pescoco_furtiva' (res type=15, index=014981, page=0).
+00:00:WARNING:(itens_armaduras.scp,521)Redefinition of resource with DEFNAME='i_braco_furtiva' (res type=15, index=014977, page=0).
+00:00:WARNING:(itens_armaduras.scp,550)Redefinition of resource with DEFNAME='i_braco_samurai' (res type=15, index=014990, page=0).
+00:00:WARNING:(itens_armaduras.scp,578)Redefinition of resource with DEFNAME='i_peito_samurai' (res type=15, index=014992, page=0).
+00:00:WARNING:(itens_armaduras.scp,606)Redefinition of resource with DEFNAME='i_perna_samurai' (res type=15, index=014996, page=0).
+00:00:WARNING:(itens_armaduras.scp,634)Redefinition of resource with DEFNAME='i_perna_saia_samurai' (res type=15, index=01499a, page=0).
+00:00:WARNING:(itens_armaduras.scp,662)Redefinition of resource with DEFNAME='i_mao_samurai' (res type=15, index=014994, page=0).
+00:00:WARNING:(itens_armaduras.scp,691)Redefinition of resource with DEFNAME='i_pescoco_samurai' (res type=15, index=014998, page=0).
+00:00:WARNING:(itens_armaduras.scp,720)Redefinition of resource with DEFNAME='i_braco_samuraim' (res type=15, index=014985, page=0).
+00:00:WARNING:(itens_armaduras.scp,748)Redefinition of resource with DEFNAME='i_peito_samuraim' (res type=15, index=014986, page=0).
+00:00:WARNING:(itens_armaduras.scp,776)Redefinition of resource with DEFNAME='i_perna_samuraim' (res type=15, index=01498a, page=0).
+00:00:WARNING:(itens_armaduras.scp,804)Redefinition of resource with DEFNAME='i_perna_saia_samuraim' (res type=15, index=01498e, page=0).
+00:00:WARNING:(itens_armaduras.scp,832)Redefinition of resource with DEFNAME='i_mao_samuraim' (res type=15, index=014988, page=0).
+00:00:WARNING:(itens_armaduras.scp,861)Redefinition of resource with DEFNAME='i_pescoco_samuraim' (res type=15, index=01498c, page=0).
+00:00:WARNING:(itens_armaduras.scp,896)Redefinition of resource with DEFNAME='i_cabeca_osso' (res type=15, index=0149a6, page=0).
+00:00:WARNING:(itens_armaduras.scp,923)Redefinition of resource with DEFNAME='i_braco_osso' (res type=15, index=0149a2, page=0).
+00:00:WARNING:(itens_armaduras.scp,950)Redefinition of resource with DEFNAME='i_luva_osso' (res type=15, index=0149a8, page=0).
+00:00:WARNING:(itens_armaduras.scp,977)Redefinition of resource with DEFNAME='i_peito_osso' (res type=15, index=0149a4, page=0).
+00:00:WARNING:(itens_armaduras.scp,1004)Redefinition of resource with DEFNAME='i_perna_osso' (res type=15, index=0149aa, page=0).
+00:00:WARNING:(itens_armaduras.scp,1031)Redefinition of resource with DEFNAME='i_pescoco_osso' (res type=15, index=0149ac, page=0).
+00:00:WARNING:(itens_armaduras.scp,1064)Redefinition of resource with DEFNAME='i_peito_floresta' (res type=15, index=014a5f, page=0).
+00:00:WARNING:(itens_armaduras.scp,1092)Redefinition of resource with DEFNAME='i_cintura_floresta' (res type=15, index=014a61, page=0).
+00:00:WARNING:(itens_armaduras.scp,1120)Redefinition of resource with DEFNAME='i_pescoco_floresta' (res type=15, index=014a68, page=0).
+00:00:WARNING:(itens_armaduras.scp,1148)Redefinition of resource with DEFNAME='i_mao_floresta' (res type=15, index=014a64, page=0).
+00:00:WARNING:(itens_armaduras.scp,1176)Redefinition of resource with DEFNAME='i_perna_floresta' (res type=15, index=014a66, page=0).
+00:00:WARNING:(itens_armaduras.scp,1205)Redefinition of resource with DEFNAME='i_braco_floresta' (res type=15, index=014a5c, page=0).
+00:00:WARNING:(itens_armaduras.scp,1234)Redefinition of resource with DEFNAME='i_peito_floresta_f' (res type=15, index=014a63, page=0).
+00:00:WARNING:(itens_armaduras.scp,1263)Redefinition of resource with DEFNAME='i_peito_elfo' (res type=15, index=014a52, page=0).
+00:00:WARNING:(itens_armaduras.scp,1291)Redefinition of resource with DEFNAME='i_mao_elfo' (res type=15, index=014a56, page=0).
+00:00:WARNING:(itens_armaduras.scp,1319)Redefinition of resource with DEFNAME='i_pescoco_elfo' (res type=15, index=014a5a, page=0).
+00:00:WARNING:(itens_armaduras.scp,1347)Redefinition of resource with DEFNAME='i_braco_elfo' (res type=15, index=014a50, page=0).
+00:00:WARNING:(itens_armaduras.scp,1375)Redefinition of resource with DEFNAME='i_perna_elfo' (res type=15, index=014a58, page=0).
+00:00:WARNING:(itens_armaduras.scp,1403)Redefinition of resource with DEFNAME='i_peito_elfo_f' (res type=15, index=014a54, page=0).
+00:00:WARNING:(itens_armaduras.scp,1431)Redefinition of resource with DEFNAME='i_peito_pat' (res type=15, index=014a6c, page=0).
+00:00:WARNING:(itens_armaduras.scp,1459)Redefinition of resource with DEFNAME='i_mao_pat' (res type=15, index=014a6e, page=0).
+00:00:WARNING:(itens_armaduras.scp,1487)Redefinition of resource with DEFNAME='i_pescoco_pat' (res type=15, index=014a72, page=0).
+00:00:WARNING:(itens_armaduras.scp,1515)Redefinition of resource with DEFNAME='i_braco_pat' (res type=15, index=014a6a, page=0).
+00:00:WARNING:(itens_armaduras.scp,1543)Redefinition of resource with DEFNAME='i_perna_pat' (res type=15, index=014a70, page=0).
+00:00:WARNING:(itens_armaduras.scp,1571)Redefinition of resource with DEFNAME='i_perna_saia_pat' (res type=15, index=014a74, page=0).
+00:00:WARNING:(itens_armaduras.scp,1605)Redefinition of resource with DEFNAME='i_peito_arcano' (res type=15, index=014a4e, page=0).
+00:00:WARNING:(itens_armaduras.scp,1634)Redefinition of resource with DEFNAME='i_pe_arcano' (res type=15, index=014a48, page=0).
+00:00:WARNING:(itens_armaduras.scp,1663)Redefinition of resource with DEFNAME='i_mao_arcano' (res type=15, index=014a4c, page=0).
+00:00:WARNING:(itens_armaduras.scp,1692)Redefinition of resource with DEFNAME='i_capa_arcano' (res type=15, index=014a4a, page=0).
+00:00:WARNING:(itens_armaduras.scp,1727)Redefinition of resource with DEFNAME='i_perna_espinho_f' (res type=15, index=014a42, page=0).
+00:00:WARNING:(itens_armaduras.scp,1756)Redefinition of resource with DEFNAME='i_peito_amazona' (res type=15, index=014a3e, page=0).
+00:00:WARNING:(itens_armaduras.scp,1785)Redefinition of resource with DEFNAME='i_perna_couro_f' (res type=15, index=01400e, page=0).
+00:00:WARNING:(itens_armaduras.scp,1814)Redefinition of resource with DEFNAME='i_peito_courom_f' (res type=15, index=014a40, page=0).
+00:00:WARNING:(itens_armaduras.scp,1843)Redefinition of resource with DEFNAME='i_peito_couro_f' (res type=15, index=014a44, page=0).
+00:00:WARNING:(itens_armaduras.scp,1872)Redefinition of resource with DEFNAME='i_perna_couro_saia' (res type=15, index=014a46, page=0).
+00:00:WARNING:(itens_armaduras.scp,1901)Redefinition of resource with DEFNAME='i_peito_couro_biquini' (res type=15, index=014a3a, page=0).
+00:00:WARNING:(itens_armaduras.scp,1930)Redefinition of resource with DEFNAME='i_peito_courom_biquini' (res type=15, index=014a3c, page=0).
+00:00:WARNING:(itens_armaduras.scp,2339)Redefinition of resource with DEFNAME='i_cabeca_dragon_ve' (res type=15, index=0149f2, page=0).
+00:00:WARNING:(itens_armaduras.scp,2369)Redefinition of resource with DEFNAME='i_braco_dragon_ve' (res type=15, index=0149ca, page=0).
+00:00:WARNING:(itens_armaduras.scp,2399)Redefinition of resource with DEFNAME='i_luva_dragon_ve' (res type=15, index=014a06, page=0).
+00:00:WARNING:(itens_armaduras.scp,2429)Redefinition of resource with DEFNAME='i_peito_dragon_ve' (res type=15, index=0149de, page=0).
+00:00:WARNING:(itens_armaduras.scp,2459)Redefinition of resource with DEFNAME='i_perna_dragon_ve' (res type=15, index=014a1a, page=0).
+00:00:WARNING:(itens_armaduras.scp,2489)Redefinition of resource with DEFNAME='i_pescoco_dragon_ve' (res type=15, index=014a2f, page=0).
+00:00:WARNING:(itens_armaduras.scp,2519)Redefinition of resource with DEFNAME='i_cabeca_dragon_red' (res type=15, index=0149f4, page=0).
+00:00:WARNING:(itens_armaduras.scp,2548)Redefinition of resource with DEFNAME='i_braco_dragon_red' (res type=15, index=0149cc, page=0).
+00:00:WARNING:(itens_armaduras.scp,2577)Redefinition of resource with DEFNAME='i_luva_dragon_red' (res type=15, index=014a08, page=0).
+00:00:WARNING:(itens_armaduras.scp,2606)Redefinition of resource with DEFNAME='i_peito_dragon_red' (res type=15, index=0149e0, page=0).
+00:00:WARNING:(itens_armaduras.scp,2635)Redefinition of resource with DEFNAME='i_perna_dragon_red' (res type=15, index=014a1c, page=0).
+00:00:WARNING:(itens_armaduras.scp,2664)Redefinition of resource with DEFNAME='i_pescoco_dragon_red' (res type=15, index=014a31, page=0).
+00:00:WARNING:(itens_armaduras.scp,2693)Redefinition of resource with DEFNAME='i_cabeca_dragon_az' (res type=15, index=0149e2, page=0).
+00:00:WARNING:(itens_armaduras.scp,2722)Redefinition of resource with DEFNAME='i_braco_dragon_az' (res type=15, index=0149bb, page=0).
+00:00:WARNING:(itens_armaduras.scp,2751)Redefinition of resource with DEFNAME='i_luva_dragon_az' (res type=15, index=0149f6, page=0).
+00:00:WARNING:(itens_armaduras.scp,2780)Redefinition of resource with DEFNAME='i_peito_dragon_az' (res type=15, index=0149ce, page=0).
+00:00:WARNING:(itens_armaduras.scp,2809)Redefinition of resource with DEFNAME='i_perna_dragon_az' (res type=15, index=014a0a, page=0).
+00:00:WARNING:(itens_armaduras.scp,2838)Redefinition of resource with DEFNAME='i_pescoco_dragon_az' (res type=15, index=014a1f, page=0).
+00:00:WARNING:(itens_armaduras.scp,2867)Redefinition of resource with DEFNAME='i_cabeca_dragon_br' (res type=15, index=0149e4, page=0).
+00:00:WARNING:(itens_armaduras.scp,2896)Redefinition of resource with DEFNAME='i_braco_dragon_br' (res type=15, index=0149bd, page=0).
+00:00:WARNING:(itens_armaduras.scp,2925)Redefinition of resource with DEFNAME='i_luva_dragon_br' (res type=15, index=0149f8, page=0).
+00:00:WARNING:(itens_armaduras.scp,2954)Redefinition of resource with DEFNAME='i_peito_dragon_br' (res type=15, index=0149d0, page=0).
+00:00:WARNING:(itens_armaduras.scp,2983)Redefinition of resource with DEFNAME='i_perna_dragon_br' (res type=15, index=014a0c, page=0).
+00:00:WARNING:(itens_armaduras.scp,3012)Redefinition of resource with DEFNAME='i_pescoco_dragon_br' (res type=15, index=014a21, page=0).
+00:00:WARNING:(itens_armaduras.scp,3041)Redefinition of resource with DEFNAME='i_cabeca_dragon_pr' (res type=15, index=0149ee, page=0).
+00:00:WARNING:(itens_armaduras.scp,3070)Redefinition of resource with DEFNAME='i_braco_dragon_pr' (res type=15, index=0149c6, page=0).
+00:00:WARNING:(itens_armaduras.scp,3099)Redefinition of resource with DEFNAME='i_luva_dragon_pr' (res type=15, index=014a02, page=0).
+00:00:WARNING:(itens_armaduras.scp,3128)Redefinition of resource with DEFNAME='i_peito_dragon_pr' (res type=15, index=0149da, page=0).
+00:00:WARNING:(itens_armaduras.scp,3157)Redefinition of resource with DEFNAME='i_perna_dragon_pr' (res type=15, index=014a16, page=0).
+00:00:WARNING:(itens_armaduras.scp,3186)Redefinition of resource with DEFNAME='i_pescoco_dragon_pr' (res type=15, index=014a2b, page=0).
+00:00:WARNING:(itens_armaduras.scp,3215)Redefinition of resource with DEFNAME='i_cabeca_dragon_dourado' (res type=15, index=0149ea, page=0).
+00:00:WARNING:(itens_armaduras.scp,3245)Redefinition of resource with DEFNAME='i_braco_dragon_dourado' (res type=15, index=0149c2, page=0).
+00:00:WARNING:(itens_armaduras.scp,3275)Redefinition of resource with DEFNAME='i_luva_dragon_dourado' (res type=15, index=0149fe, page=0).
+00:00:WARNING:(itens_armaduras.scp,3305)Redefinition of resource with DEFNAME='i_peito_dragon_dourado' (res type=15, index=0149d6, page=0).
+00:00:WARNING:(itens_armaduras.scp,3335)Redefinition of resource with DEFNAME='i_perna_dragon_dourado' (res type=15, index=014a12, page=0).
+00:00:WARNING:(itens_armaduras.scp,3365)Redefinition of resource with DEFNAME='i_pescoco_dragon_dourado' (res type=15, index=014a27, page=0).
+00:00:WARNING:(itens_armaduras.scp,3395)Redefinition of resource with DEFNAME='i_cabeca_dragon_prateado' (res type=15, index=0149f0, page=0).
+00:00:WARNING:(itens_armaduras.scp,3425)Redefinition of resource with DEFNAME='i_braco_dragon_prateado' (res type=15, index=0149c8, page=0).
+00:00:WARNING:(itens_armaduras.scp,3455)Redefinition of resource with DEFNAME='i_luva_dragon_prateado' (res type=15, index=014a04, page=0).
+00:00:WARNING:(itens_armaduras.scp,3485)Redefinition of resource with DEFNAME='i_peito_dragon_prateado' (res type=15, index=0149dc, page=0).
+00:00:WARNING:(itens_armaduras.scp,3515)Redefinition of resource with DEFNAME='i_perna_dragon_prateado' (res type=15, index=014a18, page=0).
+00:00:WARNING:(itens_armaduras.scp,3545)Redefinition of resource with DEFNAME='i_pescoco_dragon_prateado' (res type=15, index=014a2d, page=0).
+00:00:WARNING:(itens_armaduras.scp,3575)Redefinition of resource with DEFNAME='i_cabeca_dragon_bronze' (res type=15, index=0149e6, page=0).
+00:00:WARNING:(itens_armaduras.scp,3605)Redefinition of resource with DEFNAME='i_braco_dragon_bronze' (res type=15, index=0149be, page=0).
+00:00:WARNING:(itens_armaduras.scp,3635)Redefinition of resource with DEFNAME='i_luva_dragon_bronze' (res type=15, index=0149fa, page=0).
+00:00:WARNING:(itens_armaduras.scp,3665)Redefinition of resource with DEFNAME='i_peito_dragon_bronze' (res type=15, index=0149d2, page=0).
+00:00:WARNING:(itens_armaduras.scp,3695)Redefinition of resource with DEFNAME='i_perna_dragon_bronze' (res type=15, index=014a0e, page=0).
+00:00:WARNING:(itens_armaduras.scp,3725)Redefinition of resource with DEFNAME='i_pescoco_dragon_bronze' (res type=15, index=014a23, page=0).
+00:00:WARNING:(itens_armaduras.scp,3755)Redefinition of resource with DEFNAME='i_cabeca_dragon_ferro' (res type=15, index=0149ec, page=0).
+00:00:WARNING:(itens_armaduras.scp,3785)Redefinition of resource with DEFNAME='i_braco_dragon_ferro' (res type=15, index=0149c4, page=0).
+00:00:WARNING:(itens_armaduras.scp,3815)Redefinition of resource with DEFNAME='i_luva_dragon_ferro' (res type=15, index=014a00, page=0).
+00:00:WARNING:(itens_armaduras.scp,3845)Redefinition of resource with DEFNAME='i_peito_dragon_ferro' (res type=15, index=0149d8, page=0).
+00:00:WARNING:(itens_armaduras.scp,3875)Redefinition of resource with DEFNAME='i_perna_dragon_ferro' (res type=15, index=014a14, page=0).
+00:00:WARNING:(itens_armaduras.scp,3905)Redefinition of resource with DEFNAME='i_pescoco_dragon_ferro' (res type=15, index=014a29, page=0).
+00:00:WARNING:(itens_armaduras.scp,3935)Redefinition of resource with DEFNAME='i_cabeca_dragon_cobre' (res type=15, index=0149e8, page=0).
+00:00:WARNING:(itens_armaduras.scp,3965)Redefinition of resource with DEFNAME='i_braco_dragon_cobre' (res type=15, index=0149c0, page=0).
+00:00:WARNING:(itens_armaduras.scp,3995)Redefinition of resource with DEFNAME='i_luva_dragon_cobre' (res type=15, index=0149fc, page=0).
+00:00:WARNING:(itens_armaduras.scp,4025)Redefinition of resource with DEFNAME='i_peito_dragon_cobre' (res type=15, index=0149d4, page=0).
+00:00:WARNING:(itens_armaduras.scp,4055)Redefinition of resource with DEFNAME='i_perna_dragon_cobre' (res type=15, index=014a10, page=0).
+00:00:WARNING:(itens_armaduras.scp,4085)Redefinition of resource with DEFNAME='i_pescoco_dragon_cobre' (res type=15, index=014a25, page=0).
+00:00:Loading scripts/myt/itens_armas.scp
+00:00:Loading scripts/myt/itens_armas_armaduras_magicas.scp
+00:00:Loading scripts/myt/itens_carpentry.scp
+00:00:Loading scripts/myt/itens_clickloc.scp
+00:00:Loading scripts/myt/itens_furniture.scp
+00:00:Loading scripts/myt/itens_jewelry.scp
+00:00:Loading scripts/myt/itens_potions.scp
+00:00:Loading scripts/myt/itens_projetos.scp
+00:00:Loading scripts/myt/itens_quests.scp
+00:00:Loading scripts/myt/itens_tailor.scp
+00:00:Loading scripts/myt/npcs.scp
+00:00:Loading scripts/myt/npcs_humanoides.scp
+00:00:Loading scripts/myt/npcs_summons_e_polys.scp
+00:00:Loading scripts/myt/points.scp
+00:00:Loading scripts/myt/quests_custom.scp
+00:00:Loading scripts/myt/sistema_de_abordar.scp
+00:00:Loading scripts/myt/sistema_de_acoes.scp
+00:00:Loading scripts/myt/sistema_de_aluguel.scp
+00:00:Loading scripts/myt/sistema_de_anti_rp.scp
+00:00:Loading scripts/myt/sistema_de_arco_e_flecha.scp
+00:00:Loading scripts/myt/sistema_de_armadilha.scp
+00:00:Loading scripts/myt/sistema_de_armaduras.scp
+00:00:Loading scripts/myt/sistema_de_banco.scp
+00:00:Loading scripts/myt/sistema_de_broadcast_staff.scp
+00:00:Loading scripts/myt/sistema_de_cabelo_e_barba.scp
+00:00:Loading scripts/myt/sistema_de_caldeirao.scp
+00:00:Loading scripts/myt/sistema_de_calimentar.scp
+00:00:Loading scripts/myt/sistema_de_carvao.scp
+00:00:Loading scripts/myt/sistema_de_chaveiro.scp
+00:00:Loading scripts/myt/sistema_de_churrasco.scp
+00:00:Loading scripts/myt/sistema_de_cidades.scp
+00:00:Loading scripts/myt/sistema_de_combate.scp
+00:00:Loading scripts/myt/sistema_de_couro.scp
+00:00:Loading scripts/myt/sistema_de_crafting.scp
+00:00:Loading scripts/myt/sistema_de_craftmenu.scp
+00:00:Loading scripts/myt/sistema_de_criacao_de_classes.scp
+00:00:Loading scripts/myt/sistema_de_criacao_pc.scp
+00:00:Loading scripts/myt/sistema_de_custom_house.scp
+00:00:Loading scripts/myt/sistema_de_dressing_staff.scp
+00:00:Loading scripts/myt/sistema_de_email.scp
+00:00:Loading scripts/myt/sistema_de_encantamentos.scp
+00:00:Loading scripts/myt/sistema_de_eventos.scp
+00:00:Loading scripts/myt/sistema_de_facas_especiais.scp
+00:00:Loading scripts/myt/sistema_de_fe.scp
+00:00:Loading scripts/myt/sistema_de_ficha.scp
+00:00:Loading scripts/myt/sistema_de_formulario.scp
+00:00:Loading scripts/myt/sistema_de_fumo.scp
+00:00:Loading scripts/myt/sistema_de_furniture.scp
+00:00:Loading scripts/myt/sistema_de_guardas.scp
+00:00:Loading scripts/myt/sistema_de_infos.scp
+00:00:Loading scripts/myt/sistema_de_listas.scp
+00:00:Loading scripts/myt/sistema_de_magias.scp
+00:00:Loading scripts/myt/sistema_de_morte.scp
+00:00:Loading scripts/myt/sistema_de_news.scp
+00:00:Loading scripts/myt/sistema_de_patch.scp
+00:00:Loading scripts/myt/sistema_de_plantacao.scp
+00:00:Loading scripts/myt/sistema_de_playerlinger.scp
+00:00:Loading scripts/myt/sistema_de_portos.scp
+00:00:Loading scripts/myt/sistema_de_precos.scp
+00:00:Loading scripts/myt/sistema_de_quests.scp
+00:00:Loading scripts/myt/sistema_de_receitas.scp
+00:00:Loading scripts/myt/sistema_de_recipientes.scp
+00:00:Loading scripts/myt/sistema_de_reconhecimento.scp
+00:00:Loading scripts/myt/sistema_de_tempo.scp
+00:00:Loading scripts/myt/sistema_de_tesouros.scp
+00:00:Loading scripts/myt/sistema_de_throw.scp
+00:00:Loading scripts/myt/sistema_de_vendas.scp
+00:00:Loading scripts/myt/skills.scp
+00:00:Loading scripts/myt/skill_alchemy.scp
+00:00:Loading scripts/myt/skill_anatomy.scp
+00:00:Loading scripts/myt/skill_animal_lore.scp
+00:00:Loading scripts/myt/skill_armslore.scp
+00:00:Loading scripts/myt/skill_blacksmith.scp
+00:00:Loading scripts/myt/skill_camping.scp
+00:00:Loading scripts/myt/skill_carpentry.scp
+00:00:Loading scripts/myt/skill_cooking.scp
+00:00:Loading scripts/myt/skill_detectinghidden.scp
+00:00:Loading scripts/myt/skill_evalint.scp
+00:00:Loading scripts/myt/skill_fishing.scp
+00:00:Loading scripts/myt/skill_healing.scp
+00:00:Loading scripts/myt/skill_herding.scp
+00:00:Loading scripts/myt/skill_hiding.scp
+00:00:Loading scripts/myt/skill_inscription.scp
+00:00:Loading scripts/myt/skill_itemid.scp
+00:00:Loading scripts/myt/skill_lockpicking.scp
+00:00:Loading scripts/myt/skill_magicresist.scp
+00:00:Loading scripts/myt/skill_meditation.scp
+00:00:Loading scripts/myt/skill_mining.scp
+00:00:Loading scripts/myt/skill_musicianship.scp
+00:00:Loading scripts/myt/skill_poisoning.scp
+00:00:Loading scripts/myt/skill_removetrap.scp
+00:00:Loading scripts/myt/skill_snooping.scp
+00:00:Loading scripts/myt/skill_tailoring.scp
+00:00:Loading scripts/myt/skill_taming.scp
+00:00:Loading scripts/myt/skill_tasteid.scp
+00:00:Loading scripts/myt/skill_tinkering.scp
+00:00:Loading scripts/myt/skill_tracking.scp
+00:00:Loading scripts/myt/spells_cantrips.scp
+00:00:Loading scripts/myt/spells_focus.scp
+00:00:Loading scripts/myt/spells_magery.scp
+00:00:Loading scripts/myt/spells_necromancy.scp
+00:00:Loading scripts/myt/spells_speech.scp
+00:00:Loading scripts/myt/spells_spellweaving.scp
+00:00:Loading scripts/myt/teleporters.scp
+00:00:Loading scripts/myt/teleporters_data.scp
+00:00:Loading scripts/myt/special/region.scp
+00:00:Loading scripts/myt/special/mapa.scp
+00:00:Loading scripts/sphere_add_sqlite.scp
+00:00:Loading scripts/sphere_combat.scp
+00:00:Loading scripts/sphere_msgs.scp
+00:00:Loading scripts/sphere_template_armor.scp
+00:00:Loading scripts/sphere_template_magic.scp
+00:00:Loading scripts/sphere_template_sets.scp
+00:00:Loading scripts/sphere_template_weapons.scp
+00:00:Done loading scripts (103 of 224 triggers used).
+00:00:ERROR:Undefined symbol 'e_npc_geral' [Evaluated expression: 'e_npc_geral'].
+00:00:ERROR:Unknown 'EVENTS' Resource 'e_npc_geral'
+00:00:
+00:00:Loaded 277 client encryption keys.
+00:00:Server started on hostname 'Alex-PC'
+00:00:Monitoring IP 192.168.1.103:2593
+00:00:Loading save/spheredata.scp...
+00:00:Loading save/spherestatics.scp...
+00:00:Loading save/sphereworld.scp...
+00:00:Loading save/spherechars.scp...
+00:00:Loading save/spheremultis.scp...
+00:00:Garbage Collection: started.
+00:00:Garbage Collection: done. 0 Objects accounted for.
+00:00:Option flags: CommandSysmessages + OSIMultiSight + FileCommands + NoHouseMuteSpeech + FloodProtection + NoPrefix + DrinkIsFood
+00:00:Experimental flags: NoDiagonalCheckLOS
+00:00:Admin=me@my.email.com, URL=www.myshard.com, Lang=English, TZ=0
+00:00:Startup complete. items=0, chars=0
+00:00:Press '?' for console commands.
+00:01:0:Client connected [Total:1]. IP='127.0.0.1'. (Connecting/Connected: 1/1).
+00:01:0:Login for account 'Admin'. IP='127.0.0.1'. ConnectionType: ServerList.
+00:01:1:Client connected [Total:2]. IP='127.0.0.1'. (Connecting/Connected: 1/2).
+00:01:0:Client disconnected [Total:1]. Account: 'Admin'. IP='127.0.0.1'.
+00:01:1:Login for account 'Admin'. IP='127.0.0.1'. ConnectionType: CharList/Game.
+00:01:1:Account 'Admin' created new char 'Admin' [01]
+00:01:1:Character startup for account 'Admin', char 'Admin'. IP='127.0.0.1'.
+00:01:DEBUG:Printing STACK TRACE for debugging purposes.
+00:01:DEBUG: __ thread (id) name __ |  # | _____________ function _____________ |
+00:01:DEBUG:(06628)          T_Main |  0 |     CNetworkManager::processAllInput |  
+00:01:DEBUG:(06628)          T_Main |  1 |          CNetworkInput::processInput |  
+00:01:DEBUG:(06628)          T_Main |  2 |           CNetworkInput::processData |  
+00:01:DEBUG:(06628)          T_Main |  3 |           CNetworkInput::processData |  
+00:01:DEBUG:(06628)          T_Main |  4 | CNetworkInput::processGameClientData |  
+00:01:DEBUG:(06628)          T_Main |  5 |            PacketCreateHS::onReceive |  
+00:01:DEBUG:(06628)          T_Main |  6 |               PacketCreate::doCreate |  
+00:01:DEBUG:(06628)          T_Main |  7 |                 CClient::Setup_Start |  
+00:01:DEBUG:(06628)          T_Main |  8 |              CClient::addPlayerStart |  
+00:01:DEBUG:(06628)          T_Main |  9 |                  CChar::ClientAttach |  
+00:01:DEBUG:(06628)          T_Main | 10 |                CChar::FixClimbHeight |  
+00:01:DEBUG:(06628)          T_Main | 11 |                CServerMapBlock::Load |  
+00:01:DEBUG:(06628)          T_Main | 12 |     CServerStaticsBlock::LoadStatics | <-- last function call (stack unwinding began here)
+00:01:DEBUG:(06628)          T_Main | 13 |             CUOInstall::ReadMulIndex |  
+00:01:DEBUG:(06628)          T_Main | 14 |                         CSFile::Read |  
+00:01:DEBUG:(06628)          T_Main | 15 |                        CSFile::_Seek |  
+00:01:DEBUG:(06628)          T_Main | 16 |                     CItem::r_LoadVal |  
+00:01:DEBUG:(06628)          T_Main | 17 |         CObjBase::UpdatePropertyFlag |  
+00:01:DEBUG:(06628)          T_Main | 18 |                  CExpression::GetVal |  
+00:01:DEBUG:(06628)          T_Main | 19 |              CExpression::GetValMath |  
+00:01:DEBUG:(06628)          T_Main | 20 |              CExpression::GetValMath |  
+00:01:DEBUG:(06628)          T_Main | 21 |                  CExpression::GetVal |  
+00:01:DEBUG:(06628)          T_Main | 22 |              CExpression::GetValMath |  
+00:01:CRITICAL:Error Pri=2, Code=0, Desc='CServerStaticsBlock: Read Statics - Block Length of 2147483647', in ExcType=CSError catched in SUB: CNetworkInput::ProcessMessage() ("Message")
+00:01:DEBUG:1:Parsing Packet len=106 id=0xf8 [2021/10/25 00:01:12]
+        0  1  2  3  4  5  6  7   8  9  A  B  C  D  E  F
+       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000   f8 ed ed ed ed ff ff ff  ff 00 41 64 6d 69 6e 00   ..........Admin.
+0010   79 65 72 00 00 00 00 00  00 00 00 00 00 00 00 00   yer.............
+0020   00 00 00 00 00 00 00 00  00 00 00 00 00 3f 00 00   .............?..
+0030   00 01 00 00 00 1d 03 00  00 00 00 00 00 00 00 00   ................
+0040   00 00 00 00 00 00 02 3c  0f 0f 07 1e 25 1e 2d 1e   .......<....%.-.
+0050   22 1e 03 ea 20 3b 04 4e  00 00 04 4e 01 00 00 00   "... ;.N...N....
+0060   00 00 c0 a8 01 67 01 d4  00 b5                     .....g....
+00:08:1:Client disconnected [Total:0]. Account: 'Admin'. Char: 'Admin'. IP='127.0.0.1'.
+00:08:2:Client connected [Total:1]. IP='127.0.0.1'. (Connecting/Connected: 1/1).
+00:08:2: 'Admin' bad password
+00:08:WARNING:2:Bad Login 3 (The password entered is not correct)
+00:08:2:Client disconnected [Total:0]. IP='127.0.0.1'.
+00:08:3:Client connected [Total:1]. IP='127.0.0.1'. (Connecting/Connected: 1/1).
+00:08:3:Login for account 'Admin'. IP='127.0.0.1'. ConnectionType: ServerList.
+00:08:4:Client connected [Total:2]. IP='127.0.0.1'. (Connecting/Connected: 1/2).
+00:08:3:Client disconnected [Total:1]. Account: 'Admin'. IP='127.0.0.1'.
+00:08:4:Login for account 'Admin'. IP='127.0.0.1'. ConnectionType: CharList/Game.
+00:08:4:Character startup for account 'Admin', char 'Admin'. IP='127.0.0.1'.
+00:08:DEBUG:Printing STACK TRACE for debugging purposes.
+00:08:DEBUG: __ thread (id) name __ |  # | _____________ function _____________ |
+00:08:DEBUG:(06628)          T_Main |  0 |                CNetworkManager::tick |  
+00:08:DEBUG:(06628)          T_Main |  1 |                 CNetworkThread::tick |  
+00:08:DEBUG:(06628)          T_Main |  2 |          CNetworkInput::processInput |  
+00:08:DEBUG:(06628)          T_Main |  3 |           CNetworkInput::processData |  
+00:08:DEBUG:(06628)          T_Main |  4 |           CNetworkInput::processData |  
+00:08:DEBUG:(06628)          T_Main |  5 | CNetworkInput::processGameClientData |  
+00:08:DEBUG:(06628)          T_Main |  6 |            PacketCharPlay::onReceive |  
+00:08:DEBUG:(06628)          T_Main |  7 |                  CClient::Setup_Play |  
+00:08:DEBUG:(06628)          T_Main |  8 |                 CClient::Setup_Start |  
+00:08:DEBUG:(06628)          T_Main |  9 |              CClient::addPlayerStart |  
+00:08:DEBUG:(06628)          T_Main | 10 |                  CChar::ClientAttach |  
+00:08:DEBUG:(06628)          T_Main | 11 |                CChar::FixClimbHeight |  
+00:08:DEBUG:(06628)          T_Main | 12 |                CServerMapBlock::Load |  
+00:08:DEBUG:(06628)          T_Main | 13 |     CServerStaticsBlock::LoadStatics | <-- last function call (stack unwinding began here)
+00:08:DEBUG:(06628)          T_Main | 14 |             CUOInstall::ReadMulIndex |  
+00:08:DEBUG:(06628)          T_Main | 15 |                         CSFile::Read |  
+00:08:DEBUG:(06628)          T_Main | 16 |                        CSFile::_Seek |  
+00:08:DEBUG:(06628)          T_Main | 17 |         CResourceLock::_ReadTextLine |  
+00:08:DEBUG:(06628)          T_Main | 18 |              CExpression::GetValMath |  
+00:08:DEBUG:(06628)          T_Main | 19 |             CScriptObj::r_GetRefFull |  
+00:08:DEBUG:(06628)          T_Main | 20 |                    CServer::r_GetRef |  
+00:08:DEBUG:(06628)          T_Main | 21 |                 CScriptObj::r_GetRef |  
+00:08:DEBUG:(06628)          T_Main | 22 |                  CExpression::GetVal |  
+00:08:DEBUG:(06628)          T_Main | 23 |              CExpression::GetValMath |  
+00:08:DEBUG:(06628)          T_Main | 24 |                  CExpression::GetVal |  
+00:08:DEBUG:(06628)          T_Main | 25 |              CExpression::GetValMath |  
+00:08:DEBUG:(06628)          T_Main | 26 |              CExpression::GetValMath |  
+00:08:CRITICAL:Error Pri=2, Code=0, Desc='CServerStaticsBlock: Read Statics - Block Length of 2147483647', in ExcType=CSError catched in SUB: CNetworkInput::ProcessMessage() ("Message")
+00:08:DEBUG:4:Parsing Packet len=73 id=0x5d [2021/10/25 00:08:22]
+        0  1  2  3  4  5  6  7   8  9  A  B  C  D  E  F
+       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000   5d ed ed ed ed 41 64 6d  69 6e 00 00 00 00 00 00   ]....Admin......
+0010   00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0020   00 00 00 00 00 00 00 00  3f 00 00 00 00 00 00 00   ........?.......
+0030   1e 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0040   00 00 00 00 00 c0 a8 01  67                        ........g
+00:10:4:Character startup for account 'Admin', char 'Admin'. IP='127.0.0.1'.
+00:10:DEBUG:Printing STACK TRACE for debugging purposes.
+00:10:DEBUG: __ thread (id) name __ |  # | _____________ function _____________ |
+00:10:DEBUG:(06628)          T_Main |  0 |     CNetworkManager::processAllInput |  
+00:10:DEBUG:(06628)          T_Main |  1 |          CNetworkInput::processInput |  
+00:10:DEBUG:(06628)          T_Main |  2 |           CNetworkInput::processData |  
+00:10:DEBUG:(06628)          T_Main |  3 |           CNetworkInput::processData |  
+00:10:DEBUG:(06628)          T_Main |  4 | CNetworkInput::processGameClientData |  
+00:10:DEBUG:(06628)          T_Main |  5 |            PacketCharPlay::onReceive |  
+00:10:DEBUG:(06628)          T_Main |  6 |                  CClient::Setup_Play |  
+00:10:DEBUG:(06628)          T_Main |  7 |                 CClient::Setup_Start |  
+00:10:DEBUG:(06628)          T_Main |  8 |              CClient::addPlayerStart |  
+00:10:DEBUG:(06628)          T_Main |  9 |                  CChar::ClientAttach |  
+00:10:DEBUG:(06628)          T_Main | 10 |                CChar::FixClimbHeight |  
+00:10:DEBUG:(06628)          T_Main | 11 |                CServerMapBlock::Load |  
+00:10:DEBUG:(06628)          T_Main | 12 |     CServerStaticsBlock::LoadStatics | <-- last function call (stack unwinding began here)
+00:10:DEBUG:(06628)          T_Main | 13 |             CUOInstall::ReadMulIndex |  
+00:10:DEBUG:(06628)          T_Main | 14 |                         CSFile::Read |  
+00:10:DEBUG:(06628)          T_Main | 15 |                        CSFile::_Seek |  
+00:10:DEBUG:(06628)          T_Main | 16 |                        CSFile::_Seek |  
+00:10:DEBUG:(06628)          T_Main | 17 |         CResourceLock::_ReadTextLine |  
+00:10:DEBUG:(06628)          T_Main | 18 |              CExpression::GetValMath |  
+00:10:DEBUG:(06628)          T_Main | 19 |             CScriptObj::r_GetRefFull |  
+00:10:DEBUG:(06628)          T_Main | 20 |                    CServer::r_GetRef |  
+00:10:DEBUG:(06628)          T_Main | 21 |                 CScriptObj::r_GetRef |  
+00:10:DEBUG:(06628)          T_Main | 22 |                  CExpression::GetVal |  
+00:10:DEBUG:(06628)          T_Main | 23 |              CExpression::GetValMath |  
+00:10:DEBUG:(06628)          T_Main | 24 |                  CExpression::GetVal |  
+00:10:DEBUG:(06628)          T_Main | 25 |              CExpression::GetValMath |  
+00:10:DEBUG:(06628)          T_Main | 26 |              CExpression::GetValMath |  
+00:10:CRITICAL:Error Pri=2, Code=0, Desc='CServerStaticsBlock: Read Statics - Block Length of 2147483647', in ExcType=CSError catched in SUB: CNetworkInput::ProcessMessage() ("Message")
+00:10:DEBUG:4:Parsing Packet len=73 id=0x5d [2021/10/25 00:10:33]
+        0  1  2  3  4  5  6  7   8  9  A  B  C  D  E  F
+       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000   5d ed ed ed ed 41 64 6d  69 6e 00 00 00 00 00 00   ]....Admin......
+0010   00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0020   00 00 00 00 00 00 00 00  3f 00 00 00 00 00 00 00   ........?.......
+0030   1f 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0040   00 00 00 00 00 c0 a8 01  67                        ........g
+00:10:4:Client disconnected [Total:0]. Account: 'Admin'. Char: 'Admin'. IP='127.0.0.1'.
+00:12:Server is being PAUSED for Resync
+00:12:Resync Restart
+00:12:WARNING:Resource 'sphere.ini' changed, resync.
+00:12:WARNING:(sphere.ini,1089)'scripts/spherestatusbase.htm' not found...
+00:12:ERROR:(sphere.ini,1089)Can't open web page input 'spherestatusbase1.htm'
+
+00:12:Indexing 297 script files...
+00:12:Done loading scripts.
+00:12:ERROR:Undefined symbol 'e_npc_geral' [Evaluated expression: 'e_npc_geral'].
+00:12:ERROR:Unknown 'EVENTS' Resource 'e_npc_geral'
+00:12:
+00:12:Resync complete!
+00:12:5:Client connected [Total:1]. IP='127.0.0.1'. (Connecting/Connected: 1/1).
+00:12:5:Login for account 'Admin'. IP='127.0.0.1'. ConnectionType: ServerList.
+00:12:5:Client disconnected [Total:0]. IP='127.0.0.1'.
+00:13:6:Client connected [Total:1]. IP='127.0.0.1'. (Connecting/Connected: 1/1).
+00:13:6:Login for account 'Admin'. IP='127.0.0.1'. ConnectionType: ServerList.
+00:13:7:Client connected [Total:2]. IP='127.0.0.1'. (Connecting/Connected: 1/2).
+00:13:6:Client disconnected [Total:1]. Account: 'Admin'. IP='127.0.0.1'.
+00:13:7:Login for account 'Admin'. IP='127.0.0.1'. ConnectionType: CharList/Game.
+00:13:7:Character startup for account 'Admin', char 'Admin'. IP='127.0.0.1'.
+00:13:DEBUG:Printing STACK TRACE for debugging purposes.
+00:13:DEBUG: __ thread (id) name __ |  # | _____________ function _____________ |
+00:13:DEBUG:(06628)          T_Main |  0 |                CNetworkManager::tick |  
+00:13:DEBUG:(06628)          T_Main |  1 |                 CNetworkThread::tick |  
+00:13:DEBUG:(06628)          T_Main |  2 |          CNetworkInput::processInput |  
+00:13:DEBUG:(06628)          T_Main |  3 |           CNetworkInput::processData |  
+00:13:DEBUG:(06628)          T_Main |  4 |           CNetworkInput::processData |  
+00:13:DEBUG:(06628)          T_Main |  5 | CNetworkInput::processGameClientData |  
+00:13:DEBUG:(06628)          T_Main |  6 |            PacketCharPlay::onReceive |  
+00:13:DEBUG:(06628)          T_Main |  7 |                  CClient::Setup_Play |  
+00:13:DEBUG:(06628)          T_Main |  8 |                 CClient::Setup_Start |  
+00:13:DEBUG:(06628)          T_Main |  9 |              CClient::addPlayerStart |  
+00:13:DEBUG:(06628)          T_Main | 10 |                  CChar::ClientAttach |  
+00:13:DEBUG:(06628)          T_Main | 11 |                CChar::FixClimbHeight |  
+00:13:DEBUG:(06628)          T_Main | 12 |                CServerMapBlock::Load |  
+00:13:DEBUG:(06628)          T_Main | 13 |     CServerStaticsBlock::LoadStatics | <-- last function call (stack unwinding began here)
+00:13:DEBUG:(06628)          T_Main | 14 |             CUOInstall::ReadMulIndex |  
+00:13:DEBUG:(06628)          T_Main | 15 |                         CSFile::Read |  
+00:13:DEBUG:(06628)          T_Main | 16 |                        CSFile::_Seek |  
+00:13:DEBUG:(06628)          T_Main | 17 |         CResourceLock::_ReadTextLine |  
+00:13:DEBUG:(06628)          T_Main | 18 |              CExpression::GetValMath |  
+00:13:DEBUG:(06628)          T_Main | 19 |             CScriptObj::r_GetRefFull |  
+00:13:DEBUG:(06628)          T_Main | 20 |                    CServer::r_GetRef |  
+00:13:DEBUG:(06628)          T_Main | 21 |                 CScriptObj::r_GetRef |  
+00:13:DEBUG:(06628)          T_Main | 22 |              CExpression::GetValMath |  
+00:13:DEBUG:(06628)          T_Main | 23 |                  CExpression::GetVal |  
+00:13:DEBUG:(06628)          T_Main | 24 |              CExpression::GetValMath |  
+00:13:DEBUG:(06628)          T_Main | 25 |                  CExpression::GetVal |  
+00:13:DEBUG:(06628)          T_Main | 26 |              CExpression::GetValMath |  
+00:13:DEBUG:(06628)          T_Main | 27 |              CExpression::GetValMath |  
+00:13:CRITICAL:Error Pri=2, Code=0, Desc='CServerStaticsBlock: Read Statics - Block Length of 2147483647', in ExcType=CSError catched in SUB: CNetworkInput::ProcessMessage() ("Message")
+00:13:DEBUG:7:Parsing Packet len=73 id=0x5d [2021/10/25 00:13:17]
+        0  1  2  3  4  5  6  7   8  9  A  B  C  D  E  F
+       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000   5d ed ed ed ed 41 64 6d  69 6e 00 00 00 00 00 00   ]....Admin......
+0010   00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0020   00 00 00 00 00 00 00 00  1f 00 00 00 00 00 00 00   ................
+0030   04 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0040   00 00 00 00 00 c0 a8 01  67                        ........g
+00:15:7:Client disconnected [Total:0]. Account: 'Admin'. Char: 'Admin'. IP='127.0.0.1'.
+00:30:Garbage Collection: started.
+00:30:ERROR:GC: 1 unplaced objects!
+00:30:ERROR:GC: Deleted UID=01, Defname='c_man', Name='Admin'. Invalid code=0x3202 (Object not placed in the world).
+00:30:WARNING:Player delete 'Admin' name from account 'Admin'.
+00:30:Garbage Collection: done. 0 Objects accounted for.
+00:30:World data saved   (save/sphereworld.scp).
+00:30:Player data saved  (save/spherechars.scp).
+00:30:Multi data saved   (save/spheremultis.scp).
+00:30:Context data saved (save/spheredata.scp).
+00:30:World save completed, took 0.3610 seconds.
+01:00:Garbage Collection: started.
+01:00:Garbage Collection: done. 0 Objects accounted for.
+01:00:World data saved   (save/sphereworld.scp).
+01:00:Player data saved  (save/spherechars.scp).
+01:00:Multi data saved   (save/spheremultis.scp).
+01:00:Context data saved (save/spheredata.scp).
+01:00:World save completed, took 0.1450 seconds.
+01:22:FATAL:Server terminated: Console window closed (code 5)
