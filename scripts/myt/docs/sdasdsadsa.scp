@@ -1,0 +1,13 @@
+// Created 03/10/2021 13:02:26, with Gump Studio.
+// Exported with with SphereExporter ver 1.1.
+// Script for 0.56/Revisions
+
+[DIALOG d_default]
+0,0
+page 0
+
+[DIALOG d_default text]
+
+[DIALOG d_default button]
+
+[EOF]
